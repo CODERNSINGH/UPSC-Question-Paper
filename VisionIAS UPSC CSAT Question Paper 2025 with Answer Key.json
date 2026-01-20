@@ -1,0 +1,1126 @@
+{
+  "paper_title": "VisionIAS UPSC CSAT Question Paper 2025 with Answer Key",
+  "total_questions": 80,
+  "questions": [
+    {
+      "question_number": 1,
+      "type": "Reading Comprehension",
+      "context": "Passage -1: In our country, regrettably, teaching and learning for the examination have been our forte but the new demands of society and the future of work require critical and independent thinking... Higher education should not 'either be a mere servant of the government policy or a passive respondent to public mood.' Higher learning is all about how to think rather than what to think. Teaching has to be re-invented.",
+      "question_text": "Which one of the following statements best reflects the central idea conveyed by the passage?",
+      "options": {
+        "a": "India does not have enough resources for promoting quality education in its universities.",
+        "b": "The institutions of higher learning in the country should not be under the control of the Government.",
+        "c": "Classroom approach to higher education should be done away with.",
+        "d": "Classroom needs to be reimagined and teaching to be re-invented."
+      },
+      "correct_answer": "d",
+      "explanation": "Option (d) is correct: This statement aligns with the broader message of the passage, emphasising the need to shift away from rote, exam-focused education towards creative, independent, and interdisciplinary thinking. The use of terms like 're-imagined' and 're-invented' captures the spirit of transformation advocated in the passage [cite: 88-90]. Option (a) is incorrect as resource scarcity is not mentioned[cite: 77]. Option (b) is incorrect as the passage focuses on intellectual independence rather than removing formal government control [cite: 81-82]. Option (c) is incorrect as the passage proposes transforming teaching, not abolishing classrooms[cite: 86]."
+    },
+    {
+      "question_number": 2,
+      "type": "Reading Comprehension",
+      "context": "Refer to Passage -1 (Question 1)",
+      "question_text": "With reference to the above passage, the following assumptions have been made: I. Higher education is a constantly evolving subject that needs to align towards new developments in all spheres of society. II. In our country, sufficient funds are not allocated for promoting higher education. Which of the above assumptions is/are valid?",
+      "options": {
+        "a": "I only",
+        "b": "II only",
+        "c": "Both I and II",
+        "d": "Neither I nor II"
+      },
+      "correct_answer": "a",
+      "explanation": "Assumption I is correct: The passage emphasises that teaching and learning need to adapt to the 'new demands of society and the future of work,' calling for 'critical and independent thinking'. These lines indicate that higher education must evolve to meet societal changes [cite: 101-102]. Assumption II is incorrect: There is no reference to financial constraints or insufficient funding in the text[cite: 104]."
+    },
+    {
+      "question_number": 3,
+      "type": "Reading Comprehension",
+      "context": "Passage-2: If there is inequality in the pattern of population growth, there is greater inequality in food production and utilization. As societies become wealthier, their consumption of animal products increases... Only 16% of the calories fed to chickens are recovered by us when we eat them. This conversion rate goes down to five to seven per cent in large animals...",
+      "question_text": "Which one of the following statements best reflects the crux of the passage?",
+      "options": {
+        "a": "There is an urgent need for a public policy to promote the consumption of cereal-based foods in wealthier societies.",
+        "b": "Animal-based food is far less efficient than grain/plant-based food in terms of production and utilization.",
+        "c": "Plant-based protein should replace the animal-based protein in our daily diets.",
+        "d": "Inequality in food production and consumption is inevitable in any fast chancing society."
+      },
+      "correct_answer": "b",
+      "explanation": "Option (b) is correct: The passage clearly states that 'only 16% of the calories fed to chickens are recovered by us' and that this 'conversion rate goes down to five to seven per cent in large animals'. This shows that converting grains into animal-based foods results in a significant loss of calories, emphasizing inefficiency [cite: 125-127]."
+    },
+    {
+      "question_number": 4,
+      "type": "Reading Comprehension",
+      "context": "Refer to Passage-2 (Question 3)",
+      "question_text": "With reference to the above passage, the following assumptions have been made: I. The food manufacturing and processing industries in every country should align their objectives and processes in accordance with the changing needs of the societies. II. Wealthier societies tend to incur great loss of calories of food materials due to indirect utilization of their agricultural produce. Which of the above assumptions is/are valid?",
+      "options": {
+        "a": "I only",
+        "b": "II only",
+        "c": "Both I and II",
+        "d": "Neither I nor II"
+      },
+      "correct_answer": "b",
+      "explanation": "Assumption II is correct: The passage explicitly states that 'as societies become wealthier, their consumption of animal products increases,' leading to plant-based food being used for animal feed, implying a substantial loss of calories due to indirect consumption [cite: 153-156]. Assumption I is incorrect as the passage focuses on countering consumption patterns rather than accommodating them, and generalization to 'every country' is doubtful [cite: 149-151]."
+    },
+    {
+      "question_number": 5,
+      "type": "Quantitative Aptitude",
+      "context": "N/A",
+      "question_text": "What is the maximum value of n such that $7 \\times 343 \\times 385 \\times 1000 \\times 2401 \\times 777777$ is divisible by $35^n$?",
+      "options": {
+        "a": "3",
+        "b": "4",
+        "c": "5",
+        "d": "7"
+      },
+      "correct_answer": "b",
+      "explanation": "$35^n = 7^n \\times 5^n$. The given expression breaks down to: $7 \\times 7^3 \\times (5 \\times 7 \\times 11) \\times (2^3 \\times 5^3) \\times 7^4 \\times (7 \\times 11111) = 7^{10} \\times 5^4 \\times ...$ The lower power will determine the value of n, i.e., $5^4$. As the power of 5 in the expression is 4, the maximum value of n is 4 [cite: 165-167]."
+    },
+    {
+      "question_number": 6,
+      "type": "Logical Reasoning",
+      "context": "N/A",
+      "question_text": "What is X in the sequence 24, X, 12, 18, 36, 90?",
+      "options": {
+        "a": "18",
+        "b": "12",
+        "c": "9",
+        "d": "6"
+      },
+      "correct_answer": "b",
+      "explanation": "The pattern is: $24 \\times 0.5 = 12$; $12 \\times 1 = 12(X)$; $12 \\times 1.5 = 18$; $18 \\times 2 = 36$; $36 \\times 2.5 = 90$. The multiplier increases by 0.5 each time. So, the missing term is 12 [cite: 186-192]."
+    },
+    {
+      "question_number": 7,
+      "type": "Quantitative Aptitude",
+      "context": "N/A",
+      "question_text": "P and Q walk along a circular track. They start at 5:00 am from the same point in opposite directions. P walks at an average speed of 5 rounds per hour and Q walks at an average speed of 3 rounds per hour. How many times will they cross each other between 5:20 a.m. and 7:00 a.m.?",
+      "options": {
+        "a": "12",
+        "b": "13",
+        "c": "14",
+        "d": "15"
+      },
+      "correct_answer": "b",
+      "explanation": "Since they walk in opposite directions, relative speed = $5+3=8$ rounds/hour. They meet 8 times an hour (every 7.5 mins). From 5:00 to 5:20 (20 mins), they meet 2 times ($7.5 \\times 2 = 15$). From 5:00 to 7:00 (120 mins), they meet $120/7.5 = 16$ times. Total meetings minus meetings before 5:20 = $16 - 2 = 14$. However, we exclude the meeting exactly at 7:00 am (if strict inequality is implied) or calculation adjustment: The explanation calculates meetings in 120 mins as 16. It subtracts meetings before 5:20 (2 meetings). It also subtracts the meeting at 7:00 am. Thus $16 - 2 - 1 = 13$ [cite: 201-210]."
+    },
+    {
+      "question_number": 8,
+      "type": "Logical Reasoning",
+      "context": "N/A",
+      "question_text": "If P=+, Q=-, R=x, S=/ then insert the proper notations between the successive numbers in the equation 60_15_3_20_4 = 20",
+      "options": {
+        "a": "SPRQ",
+        "b": "QRPS",
+        "c": "QRSP",
+        "d": "SPQR"
+      },
+      "correct_answer": "b",
+      "explanation": "Testing Option (b) QRPS: This translates to $60 - 15 \\times 3 + 20 / 4$. Solving: $60 - 45 + 5 = 20$. This matches the equation [cite: 224-226]."
+    },
+    {
+      "question_number": 9,
+      "type": "Quantitative Aptitude",
+      "context": "N/A",
+      "question_text": "A tram overtakes 2 persons X and Y walking at an average speed of 3 km/hr and 4 km/hr in the same direction and completely passes them in 8 seconds and 9 seconds respectively. What is the length of the tram?",
+      "options": {
+        "a": "15m",
+        "b": "18m",
+        "c": "20m",
+        "d": "24m"
+      },
+      "correct_answer": "c",
+      "explanation": "Let tram speed be $a$. Relative speeds are $(a-3)$ and $(a-4)$. Length = $8(a-3) = 9(a-4)$. Solving gives $a=12$ km/hr. Length = $8(12-3) \\times (5/18) = 8 \\times 9 \\times (5/18) = 20$ meters [cite: 244-253]."
+    },
+    {
+      "question_number": 10,
+      "type": "Quantitative Aptitude",
+      "context": "N/A",
+      "question_text": "If $N^2 = 12345678987654321$, then how many digits does the number N have?",
+      "options": {
+        "a": "8",
+        "b": "9",
+        "c": "10",
+        "d": "11"
+      },
+      "correct_answer": "b",
+      "explanation": "Squares of numbers consisting of ones follow a pattern (e.g., $111^2 = 12321$). The highest digit in the sequence is 9, meaning N consists of nine 1s ($111,111,111$). Thus, N has 9 digits [cite: 264-271]."
+    },
+    {
+      "question_number": 11,
+      "type": "Reading Comprehension",
+      "context": "Passage-1: One of the dismal realities of the agricultural sector in independent India has been that it never experienced a high-growth phase, unlike the non-agricultural economy...",
+      "question_text": "Which one of the following statements best reflects the corollary to the above passage?",
+      "options": {
+        "a": "The benefit of economic reforms percolates down more slowly to the agriculture sector than in other sectors of the economy.",
+        "b": "For India, the green revolution was not as useful as it was expected to be.",
+        "c": "India lagged behind other countries in adapting mechanized and modern farming.",
+        "d": "Rural-to-urban migration resulted in the stagnant agriculture sector."
+      },
+      "correct_answer": "a",
+      "explanation": "Option (a) is correct: The passage contrasts the stagnant growth of agriculture with the consistent growth of the non-agricultural economy, suggesting benefits of reforms reached non-agricultural sectors faster. Note: Option (b) is also discussed as a potential critique but (a) is definitively supported by the comparison in growth rates [cite: 289-291]."
+    },
+    {
+      "question_number": 12,
+      "type": "Reading Comprehension",
+      "context": "Refer to Passage-1 (Question 11)",
+      "question_text": "With reference to the passage, the following assumptions have been made... I. adapting large-scale cultivation of commercial crops... II. providing free insurance... Which... is/are valid?",
+      "options": {
+        "a": "I only",
+        "b": "II only",
+        "c": "Both I and II",
+        "d": "Neither I nor II"
+      },
+      "correct_answer": "d",
+      "explanation": "Answer is (d), but explanation notes (a) could be argued. Assumption I is not explicitly supported as the passage does not propose specific solutions like corporate farming [cite: 314-316]. Assumption II is incorrect as it contradicts economic principles and is not supported by the text [cite: 321-323]."
+    },
+    {
+      "question_number": 13,
+      "type": "Reading Comprehension",
+      "context": "Passage-2: In our country, handlooms are equated with a culture that ensures a continuity of tradition... But the notion of tradition as a single, linear entity is being strongly contested today...",
+      "question_text": "Which one of the following statements best reflects the most logical and rational message conveyed by the author?",
+      "options": {
+        "a": "We need to free the handloom industry from the limited narrative linked to preserving cultural heritage.",
+        "b": "Continued State support to the handloom industry ensures the preservation of some of our glorious art forms...",
+        "c": "Household units of the handloom sector should be modernized...",
+        "d": "Handloom products need to be converted to machine-made designer products..."
+      },
+      "correct_answer": "a",
+      "explanation": "Option (a) is correct: The passage critiques the 'notion of tradition as a single, linear entity' and argues that promoting handloom only as a traditional industry causes large sections of the population to ignore it. Freeing it from this narrow lens would increase inclusivity [cite: 357-360]."
+    },
+    {
+      "question_number": 14,
+      "type": "Reading Comprehension",
+      "context": "Refer to Passage-2 (Question 13)",
+      "question_text": "With reference to the above passage, the following assumptions have been made: I. There is no need for the State to be involved... II. Handloom products are no longer appealing... Which is/are valid?",
+      "options": {
+        "a": "I only",
+        "b": "II only",
+        "c": "Both I and II",
+        "d": "Neither I nor II"
+      },
+      "correct_answer": "d",
+      "explanation": "Assumption I is incorrect because the passage critiques the *narrative* used for support, not the support itself [cite: 380-382]. Assumption II is incorrect because the passage attributes the lack of interest to the 'rigid symbol of tradition' narrative, not the products' intrinsic appeal [cite: 383-386]."
+    },
+    {
+      "question_number": 15,
+      "type": "Quantitative Aptitude",
+      "context": "N/A",
+      "question_text": "Consider the first 100 natural numbers. How many of them are not divisible by any one of 2, 3, 5, 7 and 9?",
+      "options": {
+        "a": "20",
+        "b": "21",
+        "c": "22",
+        "d": "23"
+      },
+      "correct_answer": "c",
+      "explanation": "To check numbers 1-100, we check divisibility by primes up to $\\sqrt{100}=10$ (2, 3, 5, 7). If a number is not divisible by these, it is prime. There are 25 primes in 1-100. We exclude 2, 3, 5, 7 (divisible by themselves). We include 1 (not divisible by any). Total = $25 - 4 + 1 = 22$ [cite: 395-404]."
+    },
+    {
+      "question_number": 16,
+      "type": "Quantitative Aptitude",
+      "context": "N/A",
+      "question_text": "If $4 \\le x \\le 8$ and $2 \\le y \\le 7$ then what is the ratio of maximum value of (x+y) to minimum value of (x-y)?",
+      "options": {
+        "a": "6",
+        "b": "15/2",
+        "c": "-15/2",
+        "d": "None of the above"
+      },
+      "correct_answer": "d",
+      "explanation": "Max $(x+y) = 8+7 = 15$. Min $(x-y)$ requires min x and max y: $4-7 = -3$. Ratio = $15/(-3) = -5$. This is not in options a, b, or c. Answer is (d) [cite: 412-422]."
+    },
+    {
+      "question_number": 17,
+      "type": "Quantitative Aptitude",
+      "context": "N/A",
+      "question_text": "Let both p and k be prime numbers such that $(p^2 + k)$ is also a prime number less than 30. What is the number of possible values of k?",
+      "options": {
+        "a": "4",
+        "b": "5",
+        "c": "6",
+        "d": "7"
+      },
+      "correct_answer": "b",
+      "explanation": "Possible p values: 2, 3, 5 (since sum < 30). For $p=2$, $4+k$ is prime. Valid k: 3, 7, 13, 19 (Total 4). For $p=3$, $9+k$ is prime. Valid k: 2 (Total 1). For $p=5$, no valid k. Total values for k = $4 + 1 = 5$ [cite: 429-461]."
+    },
+    {
+      "question_number": 18,
+      "type": "Quantitative Aptitude",
+      "context": "N/A",
+      "question_text": "There are n sets of numbers each having only three positive integers with LCM equal to 1001 and HCF equal to 1. What is the value of n?",
+      "options": {
+        "a": "6",
+        "b": "7",
+        "c": "8",
+        "d": "More than 8"
+      },
+      "correct_answer": "d",
+      "explanation": "$1001 = 7 \\times 11 \\times 13$. Combinations include (7, 11, 13), (1, 13, 77), (1, 11, 91), etc. The explanation lists several sets (more than 8) [cite: 469-492]."
+    },
+    {
+      "question_number": 19,
+      "type": "Quantitative Aptitude",
+      "context": "N/A",
+      "question_text": "Let PQR be a 3-digit number, PPT be a 3-digit number and PS be a 2-digit number... PQR - PS = PPT. If Q=3 and T<6, then what is the number of possible values of (R, S)?",
+      "options": {
+        "a": "2",
+        "b": "3",
+        "c": "4",
+        "d": "More than 4"
+      },
+      "correct_answer": "b",
+      "explanation": "Equation: $100P+30+R - (10P+S) = 110P+T$. Reduces to $R-S = 20P+T-30$. Analyzing constraints ($T<6$, Q=3), possible cases are found where R=2 (S=8, 7) or R=4 (S=9). Total 3 values [cite: 500-534]."
+    },
+    {
+      "question_number": 20,
+      "type": "Logical Reasoning",
+      "context": "N/A",
+      "question_text": "Consider the sequence AB_CC_A_BCCC_BBC_C that follows a certain pattern. Which one of the following completes the sequence?",
+      "options": {
+        "a": "B, C, B, C, A",
+        "b": "A, C, B, C, A",
+        "c": "B, C, B, A, C",
+        "d": "C, B, B, A, C"
+      },
+      "correct_answer": "c",
+      "explanation": "Dividing groups of 6: [AB_CC_], [A_BCCC], [_BBC_C]. Pattern is ABBCCC. Filling blanks gives B, C, B, A, C [cite: 542-549]."
+    },
+    {
+      "question_number": 21,
+      "type": "Reading Comprehension",
+      "context": "Passage-1: Each State in India faces a distinctive set of challenges regarding the impact of warming... coastal States need to take action to protect their shores... Himalayan regions have their own unique challenges...",
+      "question_text": "Which one of the following statements best reflects the most logical, rational and pragmatic message conveyed by the author?",
+      "options": {
+        "a": "The mitigation and adaptation strategies... is essentially the responsibility of each State.",
+        "b": "India is too diverse to implement any effective strategy...",
+        "c": "It is basically the responsibility of the Union Government...",
+        "d": "India needs to formulate effective climate change mitigation and adaptation strategies at the State/region level."
+      },
+      "correct_answer": "d",
+      "explanation": "Option (d) is correct: The passage emphasizes distinctive regional challenges (coastal, Himalayan) and opportunities, concluding that goals need to consider these aspects. This logically supports formulating strategies at the State/region level [cite: 578-580]."
+    },
+    {
+      "question_number": 22,
+      "type": "Reading Comprehension",
+      "context": "Refer to Passage-1 (Question 21)",
+      "question_text": "With reference to the passage, the following assumptions have been made: I. Green energy production can be linked to/integrated with the climate change mitigation and adaptation strategies. II. Effects of climate change are much more severe in coastal and mountainous regions. Which... is/are valid?",
+      "options": {
+        "a": "I only",
+        "b": "II only",
+        "c": "Both I and II",
+        "d": "Neither I nor II"
+      },
+      "correct_answer": "a",
+      "explanation": "Assumption I is correct: The passage mentions harnessing wind power in peninsular areas as an opportunity, linking green energy to sustainable goals [cite: 592-596]. Assumption II is incorrect: The passage says challenges are 'unique', not necessarily 'much more severe' [cite: 597-599]."
+    },
+    {
+      "question_number": 23,
+      "type": "Reading Comprehension",
+      "context": "Passage - 2: If the social inequality is the most acutely felt social problem in India, insecurity, more than poverty, is the most acutely felt economic problem... even those just over the poverty line are subject to multiple economic insecurities...",
+      "question_text": "Which one of the following statements best reflects the critical message conveyed by the passage?",
+      "options": {
+        "a": "India's political executive should be aware...",
+        "b": "In India, poverty is the primary reason...",
+        "c": "Poverty and social inequality are so intricately linked...",
+        "d": "Insecurity, more than poverty, is the main economic issue that Government policies must address."
+      },
+      "correct_answer": "d",
+      "explanation": "Option (d) is correct: The passage explicitly states that 'insecurity, more than poverty, is the most acutely felt economic problem' and mentions government policies are intended to mitigate these, aligning with option (d) [cite: 624-626]."
+    },
+    {
+      "question_number": 24,
+      "type": "Reading Comprehension",
+      "context": "Refer to Passage - 2 (Question 23)",
+      "question_text": "With reference to the above passage, the following assumptions have been made: I. People above the poverty line also are prone to suffer from anxiety about economic insecurity. II. Eradication of poverty can result in peace and social equality in the country. Which... is/are valid?",
+      "options": {
+        "a": "I only",
+        "b": "II only",
+        "c": "Both I and II",
+        "d": "Neither I nor II"
+      },
+      "correct_answer": "a",
+      "explanation": "Assumption I is correct: The passage states 'even those just over the poverty line are subject to multiple economic insecurities' [cite: 647-649]. Assumption II is incorrect: The passage does not link poverty eradication to peace/social equality [cite: 650-652]."
+    },
+    {
+      "question_number": 25,
+      "type": "Logical Reasoning",
+      "context": "N/A",
+      "question_text": "A solid cube is painted yellow on all its faces. The cube is then cut into 60 smaller but equal pieces by making the minimum number of cuts. Which of the following statements is/are correct? I. The minimum number of cuts is 9. II. The number of smaller pieces which are not painted on any face is 6.",
+      "options": {
+        "a": "I only",
+        "b": "II only",
+        "c": "Both I and II",
+        "d": "Neither I nor II"
+      },
+      "correct_answer": "c",
+      "explanation": "To get 60 pieces with minimum cuts, factorize 60 into closest factors: $3 \\times 4 \\times 5$. Cuts required: $(3-1) + (4-1) + (5-1) = 2+3+4=9$. Statement I is correct. Unpainted pieces (internal) = $(3-2) \\times (4-2) \\times (5-2) = 1 \\times 2 \\times 3 = 6$. Statement II is correct [cite: 663-679]."
+    },
+    {
+      "question_number": 26,
+      "type": "Quantitative Aptitude",
+      "context": "N/A",
+      "question_text": "If $7*24=25$ and $12*16=20$ then what is $16*63$ equal to?",
+      "options": {
+        "a": "70",
+        "b": "66",
+        "c": "65",
+        "d": "64"
+      },
+      "correct_answer": "c",
+      "explanation": "The numbers form Pythagorean triplets: $\\sqrt{7^2+24^2}=25$; $\\sqrt{12^2+16^2}=20$. Thus, $\\sqrt{16^2+63^2} = \\sqrt{256+3969} = \\sqrt{4225} = 65$ [cite: 686-689]."
+    },
+    {
+      "question_number": 27,
+      "type": "Quantitative Aptitude",
+      "context": "N/A",
+      "question_text": "The petrol price shot up by 10%... price... was 90 per litre. A person travels 2200 km... mileage of 16 km per litre. By how many km should he reduce his travel if he wants to maintain his expenditure...?",
+      "options": {
+        "a": "180 km",
+        "b": "200 km",
+        "c": "220 km",
+        "d": "240 km"
+      },
+      "correct_answer": "b",
+      "explanation": "Original expenditure: $(2200/16) \\times 90$. New price: 99. New distance $d$. Equation: $(d/16) \\times 99 = (2200/16) \\times 90$. Solving for $d$ gives 2000 km. Reduction = $2200 - 2000 = 200$ km [cite: 699-711]."
+    },
+    {
+      "question_number": 28,
+      "type": "Quantitative Aptitude",
+      "context": "N/A",
+      "question_text": "A 4-digit number N is such that when divided by 3, 5, 6, 9 it leaves a remainder of 1, 3, 4, 7 respectively. What is the smallest value of N?",
+      "options": {
+        "a": "1068",
+        "b": "1072",
+        "c": "1078",
+        "d": "1082"
+      },
+      "correct_answer": "c",
+      "explanation": "Difference between divisor and remainder is constant: $3-1=2, 5-3=2$, etc. LCM(3,5,6,9)=90. Smallest 4-digit multiple of 90 is 1080. Required number $N = 1080 - 2 = 1078$ [cite: 721-725]."
+    },
+    {
+      "question_number": 29,
+      "type": "Logical Reasoning",
+      "context": "N/A",
+      "question_text": "Consider the following statements: I. If $A \\le B > C < D > E > F \\ge G = H$; then B is always greater than E. II. If $P > Q = R \\ge S = T \\le U = V > W$; then S is always less than V. Which... is/are correct?",
+      "options": {
+        "a": "I only",
+        "b": "II only",
+        "c": "Both I and II",
+        "d": "Neither I nor II"
+      },
+      "correct_answer": "d",
+      "explanation": "Statement I: Inequality signs between B and E face opposite directions, so they cannot be compared. Statement II: The relation is $S \\le V$, meaning S could be equal to V. 'Always less than' is incorrect. Both incorrect [cite: 734-743]."
+    },
+    {
+      "question_number": 30,
+      "type": "Quantitative Aptitude",
+      "context": "N/A",
+      "question_text": "What is the unit digit in the multiplication of $1 \\times 3 \\times 5 \\times 7 \\times 9 \\times ... \\times 999$?",
+      "options": {
+        "a": "1",
+        "b": "3",
+        "c": "5",
+        "d": "9"
+      },
+      "correct_answer": "c",
+      "explanation": "The series consists of odd numbers multiplied together, including 5. Any odd number multiplied by 5 ends in 5. Thus, the unit digit is 5 [cite: 755-763]."
+    },
+    {
+      "question_number": 31,
+      "type": "Reading Comprehension",
+      "context": "Passage - 1: Maintaining an ecosystem just to conserve biodiversity will affect its commercial potential... There is also a conflict between using an ecosystem only for livelihoods... Deforestation caused due to commercial exploitation will lead to indirect harm...",
+      "question_text": "Which one of the following statements best reflects the critical message conveyed by the author?",
+      "options": {
+        "a": "Conservation of biodiversity is not an issue to be worried about...",
+        "b": "Commercial exploitation of forests goes against the fundamental rights...",
+        "c": "Sustenance of livelihood and degradation of ecosystem while being together exacerbate one another, leading to conflicts and imbalance.",
+        "d": "Commercial exploitation of ecosystems should be completely stopped."
+      },
+      "correct_answer": "c",
+      "explanation": "Option (c) is correct: The passage discusses the conflict between livelihood dependence and commercial exploitation (degradation), stating these exacerbate problems like floods and instability, especially in developing countries [cite: 799-803]."
+    },
+    {
+      "question_number": 32,
+      "type": "Reading Comprehension",
+      "context": "Refer to Passage - 1 (Question 31)",
+      "question_text": "With reference to the above passage, the following assumptions have been made: I. No country needs to depend on ecosystems to boost national income. II. Resource-rich countries need to share their resources... Which... is/are valid?",
+      "options": {
+        "a": "I only",
+        "b": "II only",
+        "c": "Both I and II",
+        "d": "Neither I nor II"
+      },
+      "correct_answer": "d",
+      "explanation": "Assumption I is incorrect: The passage states commercial exploitation *can* boost national income [cite: 833-834]. Assumption II is incorrect: The passage does not discuss international resource sharing [cite: 835-837]."
+    },
+    {
+      "question_number": 33,
+      "type": "Reading Comprehension",
+      "context": "Passage - 2: The history of renewable energy suggests there is a steep learning curve... Moving early and gradually gives economies more time to adjust, allowing them to reap the benefits of path-dependent green investment without much disruption. A late, more chaotic transition is costlier.",
+      "question_text": "Which one of the following statements best reflects the central idea of the passage?",
+      "options": {
+        "a": "Economies of scale is essential for transition to green growth.",
+        "b": "Modern technological progress is intensely linked to path-dependent innovations.",
+        "c": "Countries with large economies are in a better position to adopt green technologies.",
+        "d": "Timing plays a crucial role in the case of green technology development."
+      },
+      "correct_answer": "d",
+      "explanation": "Option (d) is correct: The passage emphasizes 'Moving early and gradually' versus a 'late, more chaotic transition', highlighting that timing is crucial for cost and disruption management [cite: 862-867]."
+    },
+    {
+      "question_number": 34,
+      "type": "Reading Comprehension",
+      "context": "Refer to Passage - 2 (Question 33)",
+      "question_text": "With reference to the above passage, the following assumptions have been made: I. Path-dependent green investments will eventually most likely benefit growth as well as public finances in a country like India. II. If other green technologies follow the same pattern as that of solar energy, there will most likely be an easy green transition. Which... is/are valid?",
+      "options": {
+        "a": "I only",
+        "b": "II only",
+        "c": "Both I and II",
+        "d": "Neither I nor II"
+      },
+      "correct_answer": "a",
+      "explanation": "Answer is marked (a)* but explanation notes (c) is also possible. Assumption I is supported by the benefits of early investment and learning curves mentioned. Assumption II (inference about other techs following solar pattern) is considered a reasonable inference based on the passage's logic [cite: 879-889]."
+    },
+    {
+      "question_number": 35,
+      "type": "Quantitative Aptitude",
+      "context": "N/A",
+      "question_text": "A natural number N is such that it can be expressed as $N=p+q+r,$ where p, q, and r are distinct factors of N. How many numbers below 50 have this property?",
+      "options": {
+        "a": "6",
+        "b": "7",
+        "c": "8",
+        "d": "9"
+      },
+      "correct_answer": "c",
+      "explanation": "The numbers satisfying the condition (perfect numbers or variations where factors sum to N) below 50 are multiples of 6: 6, 12, 18, 24, 30, 36, 42, 48. Total 8 numbers [cite: 903-909]."
+    },
+    {
+      "question_number": 36,
+      "type": "Quantitative Aptitude",
+      "context": "N/A",
+      "question_text": "Three prime numbers p, q, and r, each less than 20, are such that $p-q=q-r$. How many distinct possible values can we get for (p+q+r)?",
+      "options": {
+        "a": "4",
+        "b": "5",
+        "c": "6",
+        "d": "More than 6"
+      },
+      "correct_answer": "a",
+      "explanation": "p, q, r are in Arithmetic Progression ($2q = p+r$). Primes < 20: 2, 3, 5, 7, 11, 13, 17, 19. Combinations forming AP: (3,5,7 sum 15), (3,7,11 sum 21), (5,11,17 sum 33), (3,11,19 sum 33), (7,13,19 sum 39). Distinct sums: 15, 21, 33, 39. Total 4 [cite: 917-931]."
+    },
+    {
+      "question_number": 37,
+      "type": "Quantitative Aptitude",
+      "context": "N/A",
+      "question_text": "How many possible values of (p+q+r) are there satisfying $1/p+1/q+1/r=1$ are natural numbers (not necessarily distinct)?",
+      "options": {
+        "a": "None",
+        "b": "One",
+        "c": "Three",
+        "d": "More than three"
+      },
+      "correct_answer": "c",
+      "explanation": "Solutions: (4,4,2 sum 10), (2,3,6 sum 11), (3,3,3 sum 9). Three distinct values [cite: 938-951]."
+    },
+    {
+      "question_number": 38,
+      "type": "Logical Reasoning",
+      "context": "N/A",
+      "question_text": "What comes at X and Y respectively in the following sequence? January, January, December, October, X, March, October, Y, September",
+      "options": {
+        "a": "July, May",
+        "b": "July, April",
+        "c": "June, May",
+        "d": "June, April"
+      },
+      "correct_answer": "b",
+      "explanation": "Pattern: Subtract increasing number of months. Jan-0=Jan, Jan-1=Dec, Dec-2=Oct, Oct-3=July (X), July-4=March, March-5=Oct, Oct-6=April (Y). X=July, Y=April [cite: 959-973]."
+    },
+    {
+      "question_number": 39,
+      "type": "Quantitative Aptitude",
+      "context": "N/A",
+      "question_text": "Team X scored a total of N runs in 20 overs. Team Y tied the score in 10% less overs... Had Team Y's average run rate been 50% higher, the scores would have been tied in 12 overs. How many runs were scored by Team X?",
+      "options": {
+        "a": "72",
+        "b": "144",
+        "c": "216",
+        "d": "Cannot be determined"
+      },
+      "correct_answer": "d",
+      "explanation": "The information given leads to consistent equations that reduce to identities ($N=N$), meaning N cannot be uniquely determined from the given data [cite: 994-995]."
+    },
+    {
+      "question_number": 40,
+      "type": "Quantitative Aptitude",
+      "context": "N/A",
+      "question_text": "The price (p) of a commodity is first increased by k%, then decreased by k%; again increased by k%, and again decreased by k%. If the new price is q, then what is the relation between p and q?",
+      "options": {
+        "a": "$p(10^4-k^2)^2=q \\times 10^8$",
+        "b": "$p(10^4-k^2)^2=q \\times 10^4$",
+        "c": "$p(10^4-k^2)=q \\times 10^4$",
+        "d": "$p(10^4-k^2)=q \\times 10^8$"
+      },
+      "correct_answer": "a",
+      "explanation": "Final price $q = p \\times [(100^2 - k^2)/10000] \\times [(100^2 - k^2)/10000]$. Simplifying leads to $q \\times 10^8 = p(10^4 - k^2)^2$ [cite: 1006-1017]."
+    },
+    {
+      "question_number": 41,
+      "type": "Reading Comprehension",
+      "context": "Passage -1: A single number for inflation is an aggregate... But people are not homogeneous. The consumption basket is vastly different for the poor, the middle classes, and the rich...",
+      "question_text": "Which one of the following statements best reflects the most logical, rational and crucial message conveyed by the passage?",
+      "options": {
+        "a": "We must use WPI exclusively...",
+        "b": "The present calculation of inflation rate does not correctly measure price rise of individual item/commodity.",
+        "c": "Inflation data under-presents services...",
+        "d": "Knowledge of inflation rate is not really of any use..."
+      },
+      "correct_answer": "b",
+      "explanation": "Option (b) is correct: The passage highlights that price rises differ for different items and classes, suggesting the current single number approach might need a composite index averaging diverse baskets to be accurate [cite: 1038-1041]."
+    },
+    {
+      "question_number": 42,
+      "type": "Reading Comprehension",
+      "context": "Passage-2: Trust stands commonly defined as being vulnerable to others. Entrepreneurship implies trust in others and willingness to expose oneself to betrayal...",
+      "question_text": "Which one of the following statements best reflects the crux of the passage?",
+      "options": {
+        "a": "Trustworthiness cannot be expected in entrepreneurship.",
+        "b": "Trustworthy people are the most vulnerable people.",
+        "c": "No economic activity is possible without being exposed to betrayal.",
+        "d": "Trust is important though it entails risk."
+      },
+      "correct_answer": "d",
+      "explanation": "Option (d) is correct: The passage emphasizes that trust involves 'being vulnerable' (risk) but is also a 'super-commodity' and essential for globalizing behaviors [cite: 1071-1073]."
+    },
+    {
+      "question_number": 43,
+      "type": "Data Sufficiency",
+      "context": "N/A",
+      "question_text": "Question: In a football match, team P playing against Q was behind by 3 goals with 10 minutes remaining. Does team P win the match? Statement I: Team P scored 4 goals in the last 10 minutes. Statement II: Team Q scored a total of 4 goals in the match.",
+      "options": {
+        "a": "Statement I alone is sufficient",
+        "b": "Statement II alone is sufficient",
+        "c": "Both statements together are sufficient",
+        "d": "Statements are not sufficient"
+      },
+      "correct_answer": "d",
+      "explanation": "Even combining statements (Q scored 4 total, P scored 4 in last 10 mins), we don't know Q's score at the 10-minute mark or if Q scored in the last 10 minutes. P could have won, drawn, or lost depending on exactly when Q scored. Thus, cannot be determined [cite: 1111-1114]."
+    },
+    {
+      "question_number": 44,
+      "type": "Data Sufficiency",
+      "context": "N/A",
+      "question_text": "Question: Is $(p+q)^2-4pq$, where p, q are natural numbers, positive? Statement I: p < q. Statement II: p > q.",
+      "options": {
+        "a": "Statement I alone is sufficient",
+        "b": "Either Statement alone is sufficient",
+        "c": "Both statements together are sufficient",
+        "d": "Statements are not sufficient"
+      },
+      "correct_answer": "b",
+      "explanation": "The expression simplifies to $(p-q)^2$. This is positive if $p \\ne q$. Statement I ($p<q$) ensures $p \\ne q$. Statement II ($p>q$) ensures $p \\ne q$. Thus, either statement is sufficient [cite: 1127-1135]."
+    },
+    {
+      "question_number": 45,
+      "type": "Quantitative Aptitude",
+      "context": "N/A",
+      "question_text": "In a T20 cricket match, three players X, Y and Z scored a total of 37 runs. The ratio of runs X/Y = Y/Z. Which one is correct?",
+      "options": {
+        "a": "Value-I < Value-II < Value-III",
+        "b": "Value-III < Value-II < Value-I",
+        "c": "Value-I < Value-III < Value-II",
+        "d": "Cannot be determined due to insufficient data"
+      },
+      "correct_answer": "d",
+      "explanation": "$Y^2 = XZ$. $X+Y+Z=37$. Possible integer solution: If Y=12, X=9, Z=16 (Sum 37). Or X=16, Z=9. Order changes based on which is X and Z. Thus, cannot be determined [cite: 1162-1169]."
+    },
+    {
+      "question_number": 46,
+      "type": "Quantitative Aptitude",
+      "context": "N/A",
+      "question_text": "Let p+q=10 where p, q are integers. Value-I = Maximum $p \\times q$. Value-II = Maximum value of $p \\times q$ when $p \\ge -6$ , $q \\ge -4$. Which is correct?",
+      "options": {
+        "a": "Value-I > Value-II",
+        "b": "Value-II > Value-I",
+        "c": "Value-I = Value-II",
+        "d": "Cannot be determined"
+      },
+      "correct_answer": "c",
+      "explanation": "Max product of sum 10 is when $p=q=5$ ($5 \\times 5=25$). Value-I = 25. For Value-II, constraints allow 5,5 so Max is also 25. Thus Value-I = Value-II [cite: 1180-1189]."
+    },
+    {
+      "question_number": 47,
+      "type": "Quantitative Aptitude",
+      "context": "N/A",
+      "question_text": "Consider a set of 11 numbers: Value-I = Minimum value of the average of the numbers of the set when they are consecutive integers >= -5. Value-II = Minimum value of the product of the numbers of the set when they are consecutive non-negative integers. Which is correct?",
+      "options": {
+        "a": "Value-I > Value-II",
+        "b": "Value-II > Value-I",
+        "c": "Value-I = Value-II",
+        "d": "Cannot be determined"
+      },
+      "correct_answer": "c",
+      "explanation": "Value-I: Consecutive integers starting -5 (-5 to 5). Average is 0. Value-II: Consecutive non-negative (0 to 10). Product contains 0, so Product is 0. Value-I = Value-II [cite: 1204-1213]."
+    },
+    {
+      "question_number": 48,
+      "type": "Quantitative Aptitude",
+      "context": "N/A",
+      "question_text": "The average of three numbers p, q and r is k. p is as much more than the average as q is less than the average. What is the value of r?",
+      "options": {
+        "a": "k",
+        "b": "k-1",
+        "c": "k+1",
+        "d": "k/2"
+      },
+      "correct_answer": "a",
+      "explanation": "$p=k+x, q=k-x$. Sum = $p+q+r = 2k+r$. Average = $(2k+r)/3 = k$. Solving gives $r=k$ [cite: 1223-1230]."
+    },
+    {
+      "question_number": 49,
+      "type": "Quantitative Aptitude",
+      "context": "N/A",
+      "question_text": "Let x be a real number between 0 and 1. Which of the following statements is/are correct? I. $x^2 > x^3$ II. $x > \\sqrt{x}$",
+      "options": {
+        "a": "I only",
+        "b": "II only",
+        "c": "Both I and II",
+        "d": "Neither I nor II"
+      },
+      "correct_answer": "a",
+      "explanation": "Statement I: For $0<x<1$, higher powers are smaller. $0.5^2 = 0.25, 0.5^3 = 0.125$. Correct. Statement II: $\\sqrt{x}$ is larger than x for $0<x<1$ ($0.5 < \\sqrt{0.5}=0.707$). Incorrect [cite: 1248-1260]."
+    },
+    {
+      "question_number": 50,
+      "type": "Quantitative Aptitude",
+      "context": "N/A",
+      "question_text": "The difference between any two natural numbers is 10. What can be said about the natural numbers which are divisible by 5 and lie between these two numbers?",
+      "options": {
+        "a": "There is only one such number.",
+        "b": "There are only two such numbers.",
+        "c": "There can be more than one such number.",
+        "d": "No such number exists."
+      },
+      "correct_answer": "c",
+      "explanation": "If numbers are 1 and 11, multiples of 5 are 5, 10 (Two). If numbers are 5 and 15, multiple is 10 (One). Thus, there can be one or two [cite: 1286-1288]."
+    },
+    {
+      "question_number": 51,
+      "type": "Reading Comprehension",
+      "context": "Passage-1: There has been no democracy that has grown economically without corporate capitalism. It helps in modernizing the economy... It generates jobs... A vibrant corporate capitalist base also leads to additional revenues...",
+      "question_text": "Which one of the following statements best reflects the critical message conveyed by the author?",
+      "options": {
+        "a": "Corporate capitalism is important for economic growth of a State and also for democracy.",
+        "b": "Corporate capitalism is imperative for a modern State to achieve its political objectives.",
+        "c": "No State can ensure its economic survival for long without the role of corporate capitalism.",
+        "d": "Corporate capitalism and democracy have mutual dependence for their continued existence."
+      },
+      "correct_answer": "a",
+      "explanation": "Option (a) is correct: The passage links corporate capitalism to economic growth, job creation, and state revenue for welfare, highlighting its role in democracy's economic growth [cite: 1305-1307]."
+    },
+    {
+      "question_number": 52,
+      "type": "Reading Comprehension",
+      "context": "Refer to Passage-1 (Question 51)",
+      "question_text": "With reference to the above passage, the following assumptions have been made: I. Corporate capitalism promotes the growth of labour force and provides more employment opportunities. II. Poor and marginalized sections of population are benefited by corporate capitalism due to trickle-down effect. Which... is/are valid?",
+      "options": {
+        "a": "I only",
+        "b": "II only",
+        "c": "Both I and II",
+        "d": "Neither I nor II"
+      },
+      "correct_answer": "c",
+      "explanation": "Assumption I is correct: Passage states it generates jobs[cite: 1330]. Assumption II is correct: Passage mentions revenues are used for welfare of marginalized, implying a benefit [cite: 1334-1335]."
+    },
+    {
+      "question_number": 53,
+      "type": "Reading Comprehension",
+      "context": "Passage - 2: 'A network of voluntary associations stands as a buffer between the relatively powerless individual and the potentially powerful State.'",
+      "question_text": "Which one of the following statements reflects the best explanation of the above passage?",
+      "options": {
+        "a": "It emphasizes the inability of the State...",
+        "b": "It is a cooperative organization...",
+        "c": "It takes individuals out of a state of isolation and gives them a chance to participate in the common endeavour.",
+        "d": "It permits citizens to have a variety of loyalties..."
+      },
+      "correct_answer": "c",
+      "explanation": "Option (c) is correct: The term 'buffer' implies protection and moving individuals out of isolation (powerlessness) to a collective standing [cite: 1357-1359]."
+    },
+    {
+      "question_number": 54,
+      "type": "Quantitative Aptitude",
+      "context": "N/A",
+      "question_text": "Consider the following statements: I. There exists a natural number which when increased by 50% can have its number of factors unchanged. II. There exists a natural number which when increased by 150% can have its number of factors unchanged. Which is/are correct?",
+      "options": {
+        "a": "I only",
+        "b": "II only",
+        "c": "Both I and II",
+        "d": "Neither I nor II"
+      },
+      "correct_answer": "c",
+      "explanation": "Statement I: Take 2 (factors 1, 2). Increase 50% = 3 (factors 1, 3). Correct. Statement II: Take 2. Increase 150% = 5 (factors 1, 5). Correct [cite: 1374-1386]."
+    },
+    {
+      "question_number": 55,
+      "type": "Logical Reasoning",
+      "context": "N/A",
+      "question_text": "There are 7 places A, B, C, D, E, F and G... A is 6 km south of B. A is 10 km west of C. D is 5 km east of E. C is 6 km north of D. F is 9 km west of B. F is 12 km north of G. A person travels from D to F through these roads. What is the distance?",
+      "options": {
+        "a": "20 km",
+        "b": "25 km",
+        "c": "31 km",
+        "d": "37 km"
+      },
+      "correct_answer": "c",
+      "explanation": "Route DC (6) + CA (10) + AB (6) + BF (9) = 31 km. Or via DG+GF = 31 km [cite: 1434-1437]."
+    },
+    {
+      "question_number": 56,
+      "type": "Logical Reasoning",
+      "context": "N/A",
+      "question_text": "In a certain code if 64 is written as 343 and 216 is written as 729, then how is 512 written in that code?",
+      "options": {
+        "a": "1000",
+        "b": "1331",
+        "c": "1728",
+        "d": "2197"
+      },
+      "correct_answer": "b",
+      "explanation": "$64=4^3 \\to 343=7^3$ (Base+3). $216=6^3 \\to 729=9^3$ (Base+3). $512=8^3 \\to (8+3)^3 = 11^3 = 1331$ [cite: 1446-1448]."
+    },
+    {
+      "question_number": 57,
+      "type": "Quantitative Aptitude",
+      "context": "N/A",
+      "question_text": "What is the remainder when $9^3+9^4+9^5+9^6+...+9^{100}$ is divided by 6?",
+      "options": {
+        "a": "0",
+        "b": "1",
+        "c": "2",
+        "d": "3"
+      },
+      "correct_answer": "a",
+      "explanation": "Expression is divisible by 3 (since 9 is). Sum of 98 odd terms is even, so divisible by 2. Divisible by both 2 and 3 means divisible by 6. Remainder 0 [cite: 1458-1468]."
+    },
+    {
+      "question_number": 58,
+      "type": "Data Sufficiency",
+      "context": "N/A",
+      "question_text": "Question: What is the smallest 1-digit number having exactly 4 distinct factors? Statement I: 2 is one of the factors. Statement II: 3 is one of the factors.",
+      "options": {
+        "a": "Statement I alone is sufficient",
+        "b": "Statement II alone is sufficient",
+        "c": "Both statements together are sufficient",
+        "d": "Statements are not sufficient (Question can be answered without statements)"
+      },
+      "correct_answer": "d",
+      "explanation": "6 is the smallest 1-digit number with 4 factors (1, 2, 3, 6). This is a known fact and requires no statements. Option (d) [cite: 1489-1490]."
+    },
+    {
+      "question_number": 59,
+      "type": "Data Sufficiency",
+      "context": "N/A",
+      "question_text": "Question: Let P, Q, R, S be distinct non-zero digits. If PP * PQ = RRSS, where P<=3 and Q<=4 then what is Q equal to? Statement I: R=1. Statement II: S=2.",
+      "options": {
+        "a": "Statement I alone is sufficient",
+        "b": "Statement II alone is sufficient",
+        "c": "Both statements together are sufficient",
+        "d": "Statements are not sufficient (Question can be answered without statements)"
+      },
+      "correct_answer": "d",
+      "explanation": "Analyzing constraints $P=3$ (as 1,2 yield small products). $33 \\times 34 = 1122$ fits RRSS format ($R=1, S=2$). Q must be 4. No statements needed [cite: 1511-1525]."
+    },
+    {
+      "question_number": 60,
+      "type": "Data Sufficiency",
+      "context": "N/A",
+      "question_text": "Question: How is Q related to P? Statement I: P has two sisters, R and S. Statement II: R's father is the brother of Q.",
+      "options": {
+        "a": "Statement I alone is sufficient",
+        "b": "Statement II alone is sufficient",
+        "c": "Both statements together are sufficient",
+        "d": "Statements are not sufficient"
+      },
+      "correct_answer": "d",
+      "explanation": "Combining statements: Q is sibling of P's father. However, the gender of Q is not known (could be uncle or aunt). Thus, cannot be determined [cite: 1567-1568]."
+    },
+    {
+      "question_number": 61,
+      "type": "Reading Comprehension",
+      "context": "Passage -1: It is hard to predict how changes in the climate... will affect... agricultural diseases. ...Genetically honed crops... are spectacular at growing... but genetic variations... have been bred out... A minor disease... could suddenly rampage...",
+      "question_text": "Which one of the following statements best reflects the central idea conveyed by the passage?",
+      "options": {
+        "a": "Global climate change adversely affects the productivity of crops.",
+        "b": "Our total dependence on genetically honed crops entails possible food insecurity.",
+        "c": "Our food security should not depend on agricultural productivity alone.",
+        "d": "Genetically honed crops should be replaced with their wild varieties..."
+      },
+      "correct_answer": "b",
+      "explanation": "Option (b) is correct: The passage highlights risks to genetically honed crops due to lack of variation, implying a threat to food security from diseases [cite: 1591-1593]."
+    },
+    {
+      "question_number": 62,
+      "type": "Reading Comprehension",
+      "context": "Refer to Passage -1 (Question 61)",
+      "question_text": "With reference to the above passage, the following assumptions have been made: I. Global climate change can result in the migration of several plant diseases to new areas. II. Scientific understanding of the wild relatives of our present crops would enable us to strengthen food security. Which... is/are valid?",
+      "options": {
+        "a": "I only",
+        "b": "II only",
+        "c": "Both I and II",
+        "d": "Neither I nor II"
+      },
+      "correct_answer": "c",
+      "explanation": "Assumption I is valid: Passage mentions climate change making infections common in all zones (migration) [cite: 1609-1611]. Assumption II is valid: Passage implies reintroducing genetic diversity (wild relatives) helps cope with threats [cite: 1612-1617]."
+    },
+    {
+      "question_number": 63,
+      "type": "Reading Comprehension",
+      "context": "Passage-2: 'A good statesman... learns more from his opponents... The national unity of free people depends upon a sufficiently even balance of political power to make it impracticable for the administration to be arbitrary...'",
+      "question_text": "Which one of the following statements best reflects the critical message conveyed by the author?",
+      "options": {
+        "a": "Without opposition parties, the administration in a democracy gets to become more responsible.",
+        "b": "Democracy needs to have revolutionaries in opposition...",
+        "c": "Rulers in a democracy need the support of opposition for their political survival.",
+        "d": "In a democracy, the opposition is indispensable for the balance of political power and good governance."
+      },
+      "correct_answer": "d",
+      "explanation": "Option (d) is correct: The passage states opponents keep the leader on the path of reason and are essential for the balance of power [cite: 1636-1639]."
+    },
+    {
+      "question_number": 64,
+      "type": "Reading Comprehension",
+      "context": "Refer to Passage-2 (Question 63)",
+      "question_text": "With reference to the above passage, the following assumptions have been made: I. In a democracy, a strong opposition is required only if the Head of Government is indifferent. II. The more aggressive the opposition, the better is the governance in a democracy. Which... is/are valid?",
+      "options": {
+        "a": "I only",
+        "b": "II only",
+        "c": "Both I and II",
+        "d": "Neither I nor II"
+      },
+      "correct_answer": "d",
+      "explanation": "Assumption I is incorrect: Opposition is always required, not just when the leader is indifferent [cite: 1656-1658]. Assumption II is incorrect: The passage warns against revolutionary/irreconcilable opposition, not favoring aggression [cite: 1660-1662]."
+    },
+    {
+      "question_number": 65,
+      "type": "Logical Reasoning",
+      "context": "N/A",
+      "question_text": "P is the brother of Q and R. S is R's mother. T is P's father. How many of the following statements are definitely true? I. S and T are a couple. II. Q is T's son. III. T is Q's father. IV. S is P's mother. V. R is T's daughter. VI. P is S's son.",
+      "options": {
+        "a": "Only two",
+        "b": "Only three",
+        "c": "Only four",
+        "d": "Only five"
+      },
+      "correct_answer": "c",
+      "explanation": "From the tree: T (Male) and S (Female) are parents of P (Male), Q (?), R (?). True statements: I (Couple), III (Father), IV (Mother), VI (P is S's son). Q and R's gender is unknown, so II and V are not definite. Total 4 [cite: 1686-1693]."
+    },
+    {
+      "question_number": 66,
+      "type": "Logical Reasoning",
+      "context": "N/A",
+      "question_text": "If NO is coded as 210, NOT is coded as 4200 and NOTE is coded as 21000, then how is NOTES coded?",
+      "options": {
+        "a": "399000",
+        "b": "420000",
+        "c": "440000",
+        "d": "630000"
+      },
+      "correct_answer": "a",
+      "explanation": "Code = Product of place values. $N(14) \\times O(15) = 210$. $210 \\times T(20) = 4200$. $4200 \\times E(5) = 21000$. $NOTES = 21000 \\times S(19) = 399000$ [cite: 1699-1702]."
+    },
+    {
+      "question_number": 67,
+      "type": "Logical Reasoning",
+      "context": "N/A",
+      "question_text": "If FRANCE is coded as 654321 and GERMANY is coded as 9158437, then how is YEMEN coded?",
+      "options": {
+        "a": "54321",
+        "b": "81913",
+        "c": "71913",
+        "d": "71813"
+      },
+      "correct_answer": "d",
+      "explanation": "Direct letter substitution from examples. Y=7, E=1, M=8, N=3. YEMEN = 71813 [cite: 1731-1736]."
+    },
+    {
+      "question_number": 68,
+      "type": "Quantitative Aptitude",
+      "context": "N/A",
+      "question_text": "The 5-digit number PQRST (all distinct digits) is such that T is not equal to 0. P is thrice T. S is greater than Q by 4, while Q is greater than R by 3. How many such 5-digit numbers are possible?",
+      "options": {
+        "a": "3",
+        "b": "4",
+        "c": "5",
+        "d": "6"
+      },
+      "correct_answer": "b",
+      "explanation": "Constraints: $P=3T, S=Q+4, Q=R+3$. If $T=1, P=3$, valid number 35291. If $T=2, P=6$, valid numbers 64182, 63072. If $T=3, P=9$, valid 94183. Total 4 numbers [cite: 1743-1758]."
+    },
+    {
+      "question_number": 69,
+      "type": "Quantitative Aptitude",
+      "context": "N/A",
+      "question_text": "X can complete one-third of a certain work in 6 days, Y can complete one-third of the same work in 8 days and Z can complete three-fourth of the same work in 12 days. All work for n days, then X, Z quit. Y finishes in 8 2/3 days. What is n?",
+      "options": {
+        "a": "3",
+        "b": "4",
+        "c": "5",
+        "d": "6"
+      },
+      "correct_answer": "b",
+      "explanation": "Total days: X=18, Y=24, Z=16. LCM=144. Efficiencies: X=8, Y=6, Z=9. Y works alone for 26/3 days doing 52 units. Remaining 92 units done by X+Y+Z (23 units/day). $n = 92/23 = 4$ [cite: 1772-1785]."
+    },
+    {
+      "question_number": 70,
+      "type": "Logical Reasoning",
+      "context": "N/A",
+      "question_text": "What is X in the sequence 1, 3, 6, 11, 18, X, 42?",
+      "options": {
+        "a": "26",
+        "b": "27",
+        "c": "29",
+        "d": "30"
+      },
+      "correct_answer": "c",
+      "explanation": "Differences are consecutive primes: $3-1=2, 6-3=3, 11-6=5, 18-11=7$. Next difference should be 11. $18+11=29$. Check $42-29=13$ (next prime). Correct [cite: 1793-1795]."
+    },
+    {
+      "question_number": 71,
+      "type": "Reading Comprehension",
+      "context": "Passage - 1: Over the next 30 years, many countries are promising to move to net-zero carbon... A leading climate scientist reckons that, at best, half the reduction might be achieved through demand-side measures... And even that would require companies and governments to provide more incentives...",
+      "question_text": "Which one of the following statements best reflects the central idea conveyed by the passage?",
+      "options": {
+        "a": "Moving to net-zero carbon is possible only by the reduction in household emissions.",
+        "b": "Low-carbon behaviour in people can be brought about by incentivising them.",
+        "c": "Cheaper goods and services can be made available...",
+        "d": "Manufacturing industries... should be provided with subsidies."
+      },
+      "correct_answer": "b",
+      "explanation": "Option (b) is correct: The passage states achieving household reduction requires incentives from companies/governments [cite: 1814-1815]."
+    },
+    {
+      "question_number": 72,
+      "type": "Reading Comprehension",
+      "context": "Refer to Passage - 1 (Question 71)",
+      "question_text": "With reference to the above passage, the following assumptions have been made: I. Supply-side investments in companies can result in low-carbon behaviour in people. II. People are not capable of adapting low-carbon behaviour without the involvement of Government and Companies. Which... is/are valid?",
+      "options": {
+        "a": "I only",
+        "b": "II only",
+        "c": "Both I and II",
+        "d": "Neither I nor II"
+      },
+      "correct_answer": "a",
+      "explanation": "Assumption I is correct: Supply-side investments make low-carbon options available/cheaper, influencing behavior [cite: 1838-1839]. Assumption II is incorrect: 'At best, half' implies some adaptation is possible without help, making 'not capable' an overstatement [cite: 1840-1842]."
+    },
+    {
+      "question_number": 73,
+      "type": "Reading Comprehension",
+      "context": "Passage-2: In only 50 years, the world's consumption of raw materials has nearly quadrupled... Batteries of old vehicles contain materials... Reusing materials makes sense...",
+      "question_text": "Which one of the following statements best reflects the most logical, rational and pragmatic message conveyed by the passage?",
+      "options": {
+        "a": "Green economy is not possible without reusing critical minerals.",
+        "b": "Every sector of economy should adapt the reuse of material resources immediately.",
+        "c": "Circular economy can be beneficial for sustainable growth.",
+        "d": "Circular use of material resources is the only option..."
+      },
+      "correct_answer": "c",
+      "explanation": "Option (c) is correct: The passage argues reusing materials (circular economy principle) makes sense to handle supply risks and environmental standards, promoting sustainable growth [cite: 1864-1871]."
+    },
+    {
+      "question_number": 74,
+      "type": "Reading Comprehension",
+      "context": "Refer to Passage-2 (Question 73)",
+      "question_text": "With reference to the above passage, the following assumptions have been made: I. Automobile factories are examples of the circular economy. II. Economic growth is compatible with circular use of mineral resources. Which... is/are valid?",
+      "options": {
+        "a": "I only",
+        "b": "II only",
+        "c": "Both I and II",
+        "d": "Neither I nor II"
+      },
+      "correct_answer": "b",
+      "explanation": "Answer is (b)* (or possibly c). Assumption I is technically incorrect as the passage says they *should* reuse, implying they currently might not be perfect examples. Assumption II is correct as reusing makes sense for supply/standards, supporting growth [cite: 1885-1892]."
+    },
+    {
+      "question_number": 75,
+      "type": "Quantitative Aptitude",
+      "context": "N/A",
+      "question_text": "A set (X) of 20 pipes can fill 70% of a tank in 14 minutes. Set (Y) of 10 pipes fills 3/8th in 6 minutes. Set (Z) of 16 pipes can empty half in 20 minutes. If half X closed, half Y open, all Z open, how long to fill 50%?",
+      "options": {
+        "a": "8 minutes",
+        "b": "10 minutes",
+        "c": "12 minutes",
+        "d": "16 minutes"
+      },
+      "correct_answer": "d",
+      "explanation": "Full capacity times: X=20 min, Y=16 min, Z(empty)=40 min. Scenario: X (half capacity) fills in 40 min. Y (half capacity of set, note: question says half pipes of set Y open, which implies full Y set capacity halved? Text implies Set Y pipes fill in 32 min). Z empties in 40 min. Net: X and Z cancel (1/40 - 1/40). Only Y works. Y fills full in 32 min. 50% in 16 min [cite: 1902-1918]."
+    },
+    {
+      "question_number": 76,
+      "type": "Quantitative Aptitude",
+      "context": "N/A",
+      "question_text": "If n is a natural number, then what is the number of distinct remainders of $(1^n + 2^n)$ when divided by 4?",
+      "options": {
+        "a": "0",
+        "b": "1",
+        "c": "2",
+        "d": "3"
+      },
+      "correct_answer": "c",
+      "explanation": "$1^n=1$. $2^n$ divided by 4 is 2 (if n=1) or 0 (if n>1). Remainders are $1+2=3$ or $1+0=1$. Two distinct remainders [cite: 1926-1930]."
+    },
+    {
+      "question_number": 77,
+      "type": "Quantitative Aptitude",
+      "context": "N/A",
+      "question_text": "Let P=QQQ be a 3-digit number. What is the HCF of P and 481?",
+      "options": {
+        "a": "1",
+        "b": "13",
+        "c": "37",
+        "d": "481"
+      },
+      "correct_answer": "c",
+      "explanation": "$P = Q \\times 111 = Q \\times 3 \\times 37$. $481 = 13 \\times 37$. Common factor is 37 [cite: 1937-1939]."
+    },
+    {
+      "question_number": 78,
+      "type": "Quantitative Aptitude",
+      "context": "N/A",
+      "question_text": "What is the 489th digit in the number 123456789101112...?",
+      "options": {
+        "a": "0",
+        "b": "3",
+        "c": "6",
+        "d": "9"
+      },
+      "correct_answer": "d",
+      "explanation": "1-9 (9 digits). 10-99 (90 numbers * 2 = 180 digits). Total 189 digits. Needed $489-189=300$ digits from 3-digit numbers. $300/3 = 100$ numbers. 100 numbers starting 100 is 100...199. Last digit is 9 [cite: 1949-1954]."
+    },
+    {
+      "question_number": 79,
+      "type": "Logical Reasoning",
+      "context": "N/A",
+      "question_text": "A mobile phone has been stolen. Suspects P, Q, R. Only one guilty. P: 'I did not steal. Q stole it.' Q: 'R did not steal. I did not steal.' R: 'I did not steal. I do not know who did it.' Who stole it?",
+      "options": {
+        "a": "P",
+        "b": "R",
+        "c": "Q",
+        "d": "Cannot be concluded"
+      },
+      "correct_answer": "a",
+      "explanation": "Assuming one is guilty and lies. If P stole it: P lies (matches). Q speaks truth (R didn't, Q didn't). R speaks truth (R didn't). Consistent. Answer P [cite: 1967-1974]."
+    },
+    {
+      "question_number": 80,
+      "type": "Logical Reasoning",
+      "context": "N/A",
+      "question_text": "Three teams P, Q, R... Win=2 pts, Draw=1 pt, Loss=0. Each scored exactly one goal. P got 3 pts, Q got 2 pts, R got 1 pt. Which statements are correct? I. P vs Q is draw 0-0. II. Goals by R against Q is 1.",
+      "options": {
+        "a": "I only",
+        "b": "II only",
+        "c": "Both I and II",
+        "d": "Neither I nor II"
+      },
+      "correct_answer": "c",
+      "explanation": "P (3 pts) = 1 Win, 1 Draw. Q (2 pts) = 2 Draws. R (1 pt) = 1 Draw, 1 Loss. P defeated R (since R lost). Score P-R must be 1-0 (P scored its only goal). Thus P-Q was 0-0. Q-R must be 1-1 (Q's draws). R scored against Q. Both statements correct [cite: 2003-2017]."
+    }
+  ]
+}
