@@ -32,7 +32,7 @@ def parse_llm_json(raw_text: str):
         data = json.loads(text)
         return data if isinstance(data, list) else []
     except json.JSONDecodeError as e:
-        print("❌ JSON parse error:", e)
+        print("JSON parse error:", e)
         print("LLM output preview:\n", text[:300])
         return []
 
@@ -108,7 +108,7 @@ TEXT:
 # MAIN FUNCTION (THIS WAS MISSING)
 # ----------------------------
 def main(pdf_path):
-    print("📄 Processing:", pdf_path)
+    print("Processing:", pdf_path)
 
     raw_text = extract_pdf_text(pdf_path)
     print("Extracted characters:", len(raw_text))
@@ -132,7 +132,7 @@ def main(pdf_path):
     with open("FULL_PDF_STRUCTURED_OUTPUT.json", "w") as f:
         json.dump(final_json, f, indent=2)
 
-    print("✅ JSON saved: FULL_PDF_STRUCTURED_OUTPUT.json")
+    print("JSON saved: FULL_PDF_STRUCTURED_OUTPUT.json")
     print("TOTAL ITEMS:", len(all_content))
 
 # ----------------------------
@@ -143,12 +143,12 @@ if __name__ == "__main__":
     pdfs = [f for f in os.listdir(current_dir) if f.lower().endswith(".pdf")]
 
     if not pdfs:
-        raise FileNotFoundError("❌ No PDF found in current folder")
+        raise FileNotFoundError(" No PDF found in current folder")
 
     if len(pdfs) > 1:
-        raise ValueError(f"❌ Multiple PDFs found: {pdfs}")
+        raise ValueError(f" Multiple PDFs found: {pdfs}")
 
     pdf_path = os.path.join(current_dir, pdfs[0])
-    print("📄 Using PDF:", pdf_path)
+    print(" Using PDF:", pdf_path)
 
     main(pdf_path)
