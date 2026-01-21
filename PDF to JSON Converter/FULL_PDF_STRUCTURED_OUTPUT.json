@@ -1,0 +1,173 @@
+{
+  "source_file": "VisionIAS - CSAT Prelims 2023.pdf",
+  "total_chunks": 2,
+  "content": [
+    {
+      "type": "instruction",
+      "text": "Directions for the following 5 (five) item: Read the following three passages and answer the items that follow the passages. Your answers to these items should be based on the passages only."
+    },
+    {
+      "type": "passage",
+      "text": "In India, the segregation of municipal waste at source is rare. Recycling is mostly with the informal sector. More than three-fourths of the municipal budget goes into collection and transportation, which leaves very little for processing/resource recovery and disposal. Where does waste-to-energy fit into all this? Ideally it fits in the chain after segregation (between wet waste and rest), collection, recycling, and before getting to the landfill. Which technology is most appropriate in converting waste to energy depends on what is in the waste (that is biodegradable versus non-biodegradable component) and its calorific value. The biodegradable component of India's municipal solid waste is a little over 50 per cent, and biomethanation offers a major solution for processing this."
+    },
+    {
+      "type": "question",
+      "question_no": 1,
+      "question_text": "Based on the above passage, the following assumptions have been made: 1. Collection, processing and segregation of municipal waste should be with government agencies. 2. Resource recovery and recycling require technological inputs that can be best handled by private sector enterprises. Which of the assumptions given above is/are correct?",
+      "options": [
+        "1 only",
+        "2 only",
+        "Both 1 and 2",
+        "Neither 1 nor 2"
+      ],
+      "correct_answer": "(d)",
+      "explanation": "Statement 1 is incorrect: The passage nowhere makes any assertion indicating that collection, processing and segregation of municipal waste should be with government agencies. In fact, the passage suggests that 'More than three-fourths of the municipal budget goes into collection and transportation, which leaves very little for processing/resource recovery and disposal', indicating how the municipal system (under the government) is already stressed. Statement 2 is incorrect: The passage nowhere makes any assertion indicating that resource recovery and recycling require technological inputs that can be best handled by private sector enterprises. The passage only limits itself to saying that 'which technology is most appropriate in converting waste to energy depends on what is in the waste (that is biodegradable versus non-biodegradable component) and its calorific value.' and further that 'The biodegradable component of India's municipal solid waste is a little over 50 per cent, and biomethanation offers a major solution for processing this.' So, the passage makes a case for the mode of resource recovery and recycling, i.e., bio methanation, rather than which sector should perform it."
+    },
+    {
+      "type": "question",
+      "question_no": 2,
+      "question_text": "Which one of the following statements best reflects the crux of the passage?",
+      "options": [
+        "Generation of energy from municipal solid waste is inexpensive.",
+        "Biomethanation is the most ideal way of generating energy from municipal solid waste.",
+        "Segregation of municipal solid waste is the first step in ensuring the success of waste-to-energy plants.",
+        "The biodegradable component of India's municipal solid waste is not adequate to provide energy from waste efficiently/effectively."
+      ],
+      "correct_answer": "(c)",
+      "explanation": "Option (a) is incorrect: The passage nowhere specifies or even dwells upon the cost of generation of energy from municipal solid waste. Option (b) is incorrect: The passage does outrightly state that 'The biodegradable component of India's municipal solid waste is a little over 50 per cent, and biomethanation offers a major solution for processing this.' However, 'major solution' cannot be equated with 'most ideal way' in the strict sense. Further, the question is asking us to suggest the crux of the passage. The fact about bio methanation offering a major solution is a solution to the crux of the passage, which is about the issue of the rarity of segregation of municipal waste at source and achieving waste-to-energy amidst such a challenging scenario. Option (c) is correct: The passage begins with laying the central theme that 'In India, the segregation of municipal waste at source is rare.' Further, it goes on to say, 'Where does waste-to-energy fit into all this ? Ideally, it fits in the chain after segregation (between wet waste and rest), collection, recycling, and before getting to the landfill.' This line lays the sequential chain of waste processing, which can further be re-aligned to generate energy. Hence from these lines, it is clear that the segregation of municipal solid waste is the first step in ensuring the success of waste-to-energy plants. Option (d) is incorrect: The passage clearly refutes this by mentioning that 'The biodegradable component of India's municipal solid waste is a little over 50 per cent, and biomethanation offers a major solution for processing this.'"
+    },
+    {
+      "type": "passage",
+      "text": "There is a claim that organic farming is inherently safer and healthier. The reality is that because the organic farming industry is still young and not well-regulated in India, farmers and consumers, alike, are not only confused about what products are best for them, but sometimes use products in ways that could harm them as well. For example, since organic fertilizers are difficult to obtain on a large scale in India, farmers often use farmyard manure, which may contain toxic chemicals and heavy metals. Certain plant sprays, such as Datura flower and leaf spray, have an element called atropine. If it is not applied in the right dose, it can act on the nervous system of the consumer. Unfortunately, how much and when to use it are not well-researched or regulated issues."
+    },
+    {
+      "type": "question",
+      "question_no": 3,
+      "question_text": "Based on the above passage, the following assumptions have been made: 1. Organic farming is inherently unsafe for both farmers and consumers. 2. Farmers and consumers need to be educated about eco-friendly food. Which of the assumptions given above is/are correct?",
+      "options": [
+        "1 only",
+        "2 only",
+        "Both 1 and 2",
+        "Neither 1 nor 2"
+      ],
+      "correct_answer": "(b)",
+      "explanation": "Statement 1 is incorrect: This statement is incorrect because of the use of the word 'inherently'. The passage states that 'The reality is that because the organic farming industry is still young and not well-regulated in India, farmers and consumers, alike\u2026in ways that could harm them as well.' Therefore, we must infer that organic farming is not inherently unsafe for both farmers and consumers, but might be unsafe due to factors such as lack of regulation, 'organic fertilizers are difficult to obtain on a large scale', 'If, not applied in the right dose' etc. Statement 2 is correct: This assumption closely aligns with the content of the passage. The passage discusses the confusion among farmers and consumers due to the lack of regulation and research in the organic farming industry. This implies that there is a need for more education about what constitutes eco-friendly food and how it should be produced and consumed safely."
+    },
+    {
+      "type": "question",
+      "question_no": 4,
+      "question_text": "Which one of the following statements best reflects the most logical, rational and practical message conveyed by the author of the passage?",
+      "options": [
+        "In India, organic farming should not be promoted as a substitute for conventional farming.",
+        "There are no safe organic alternatives to chemical fertilizers.",
+        "In India, farmers need to be guided and helped to make their organic farming sustainable.",
+        "The aim of organic farming should not be to generate huge profits as there is still no global market for its products."
+      ],
+      "correct_answer": null,
+      "explanation": null
+    },
+    {
+      "type": "text",
+      "content": "Answer: (c)"
+    },
+    {
+      "type": "instruction",
+      "content": "Option (a) is incorrect: It is a little extreme in drawing an inference that In India, organic farming should not be promoted as a substitute for conventional farming. The passage is using a cautionary, rather than an exaggerated, tone regarding organic farming. Further, the author is nowhere found comparing or even promoting conventional farming at the cost of organic farming in the passage."
+    },
+    {
+      "type": "instruction",
+      "content": "Option (b) is incorrect: This option is extreme. Nowhere has the author indicated that there are no safe organic alternatives to chemical fertilizers. In fact the author of the passage states the contrary that \u201csince organic fertilizers are difficult to obtain on a large scale in India\u201d implying that safe (can assume safe) organic alternatives to chemical fertilizers are present, but not accessible or readily available."
+    },
+    {
+      "type": "instruction",
+      "content": "Option (c) is correct: The passage mentions, \u201cThe reality is that because the organic farming industry is still young and not well-regulated in India, farmers and consumers, alike, are not only confused about what products are best for them, but sometimes use products in ways that could harm them as well.\u201d The passage in the further lines goes on to explain the same. Therefore, we can correctly infer that In India, farmers need to be guided and helped to make their organic farming sustainable."
+    },
+    {
+      "type": "instruction",
+      "content": "Option (d) is incorrect: This option is extreme. The passage does not discuss the profit or market aspect of organic farming at all."
+    },
+    {
+      "type": "passage",
+      "content": "Food consumption patterns have changed substantially in India over the past few decades. This has resulted in the disappearance of many nutritious foods such as millets. While food grain production has increased over five times since independence, it has not sufficiently addressed the issue of malnutrition. For long, the agriculture sector focused on increasing food production particularly staples, which led to lower production and consumption of indigenous traditional corps/grains, fruits and other vegetables, impacting food and nutrition security in the process. Further, intensive, monoculture agriculture practices can perpetuate the food and nutrition security problem by degrading the quality of land, water and food derived through them."
+    },
+    {
+      "type": "text",
+      "content": "Based on the above passage, the following assumptions have been made:"
+    },
+    {
+      "type": "text",
+      "content": "1. To implement the Sustainable Development Goals and to achieve zero-hunger goal, monoculture agriculture practices are inevitable even if they do not address malnutrition."
+    },
+    {
+      "type": "text",
+      "content": "2. Dependence on a few crops has negative consequences for human health and the ecosystem."
+    },
+    {
+      "type": "text",
+      "content": "3. Government policies regarding food planning need to incorporate nutritional security."
+    },
+    {
+      "type": "text",
+      "content": "4. For the present monoculture agriculture practices, farmers receive subsidies in various ways and government offers remunerative prices for grains and therefore they do not tend to consider crop diversity."
+    },
+    {
+      "type": "question",
+      "question_no": 5,
+      "question_text": "Which of the above assumptions are valid?",
+      "options": [
+        "(a) 1, 2 and 4 only",
+        "(b) 2 and 3 only",
+        "(c) 3 and 4 only",
+        "(d) 1, 2, 3 and 4"
+      ],
+      "correct_answer": "(b)",
+      "explanation": "Statement 1 is incorrect: The passage neither promotes monoculture nor refers to it as inevitable. In fact, it makes a case against it in the line, \u201cFurther, intensive, monoculture agriculture practices can perpetuate the food and nutrition security problem.\u201d Statement 2 is correct: The passage makes many indications that dependence on a few crops has negative consequences for human health and the ecosystem. This is evidenced by the lines, \u201cdisappearance of many nutritious foods such as millets.\u201d and \u201cFor long, the agriculture sector focused on increasing food production, particularly staples, which led to lower production and consumption of indigenous traditional crops/grains, fruits and other vegetables, impacting food and nutrition security in the process. Further, intensive, monoculture agriculture practices can perpetuate the food and nutrition security problem by degrading the quality of land, water and food derived through them.\u201d Statement 3 is correct: The passage mentions, \u201cdisappearance of many nutritious foods such as millets\u201d, \u201cfood grain production has increased over five times since independence, it has not sufficiently addressed the issue of malnutrition\u201d, \u201cFor long, the agriculture sector focused on increasing food production particularly staples\u2026.impacting food and nutrition security in the process. Further, intensive, monoculture agriculture practices can perpetuate the food and nutrition security problem\u2026\u201d. This makes a strong case for the government to incorporate nutritional security in its policies regarding food planning. Statement 4 is incorrect: While this statement might be true in its own right, the passage does not mention anything about subsidies or any particular reason(s) behind monoculture."
+    },
+    {
+      "type": "text",
+      "content": "A box contains 14 black balls, 20 blue balls, 26 green balls, 28 yellow balls, 38 red balls and 54 white balls."
+    },
+    {
+      "type": "text",
+      "content": "Consider the following statements:"
+    },
+    {
+      "type": "text",
+      "content": "1. The smallest number n such that any n balls drawn from the box randomly must contain one full group of at least one colour is 175."
+    },
+    {
+      "type": "text",
+      "content": "2. The smallest number m such that any m balls drawn from the box randomly must contain at least one ball of each colour is 167."
+    },
+    {
+      "type": "question",
+      "question_no": 6,
+      "question_text": "Which of the above statements is/are correct?",
+      "options": [
+        "(a) 1 only",
+        "(b) 2 only",
+        "(c) Both 1 and 2",
+        "(d) Neither 1 nor 2"
+      ],
+      "correct_answer": "(c)",
+      "explanation": "The box contains 14 black balls, 20 blue balls, 26 green balls, 28 yellow balls, 38 red balls and 54 white balls. Value of n We have to find out the minimum possible number of balls that should be drawn from the box such that the balls drawn must contain one full group of at least one colour. Say, it may have all 14 black balls, or all 20 blue balls, etc. Let\u2019s think about the worst-case scenario. What is the maximum number of balls that we can draw without selecting a full group of any colour? Let\u2019s select 13 black balls, 19 blue balls, 25 green balls, 27 yellow balls, 37 red balls and 53 white balls. These are 174 balls in total. Now, if we select even one more ball (of any colour), it\u2019s a certainty that at least one full group of a certain colour will get selected. So, the value of n = 174 + 1 = 175. So, Statement 1 is correct. Value of m We have to find out the minimum possible number of balls that should be drawn from the box such that the balls drawn must contain at least one ball of each colour. Let\u2019s think about the worst-case scenario. What is the maximum number of balls that we can draw without selecting any ball of a particular colour? As the number of black balls is the least, we can draw the maximum possible number of balls without selecting a black ball. So, let\u2019s select 20 blue balls, 26 green balls, 28 yellow balls, 38 red balls and 54 white balls. These are 166 balls in total. Now, only black balls are left. So, the next ball we choose will certainly be a black ball, and we will end up having at least one ball of each colour. So, the value of m = 166 + 1 = 167. So, Statement 2 is correct. Hence, option (c) is correct."
+    },
+    {
+      "type": "text",
+      "content": "If 'ZERO' is written as 'CHUR', then how is 'PLAYER' written?"
+    },
+    {
+      "type": "question",
+      "question_no": 7,
+      "question_text": "If 'ZERO' is written as 'CHUR', then how is 'PLAYER' written?",
+      "options": [
+        "(a) SOCACT",
+        "(b) SODBGT",
+        "(c) SODBHT",
+        "(d) SODBHU"
+      ],
+      "correct_answer": "(d)",
+      "explanation": ""
+    }
+  ]
+}
