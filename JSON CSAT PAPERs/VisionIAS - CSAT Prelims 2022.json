@@ -1,0 +1,1468 @@
+{
+  "source_file": "VisionIAS - CSAT Prelims 2022.pdf",
+  "total_chunks": 15,
+  "content": [
+    {
+      "type": "instruction",
+      "text": "Directions for the following 3 (three) items: Read the following two passages and answer the items that follow the passages. Your answers to these items should be based on the passages only."
+    },
+    {
+      "type": "passage",
+      "text": "Passage\u20131 The main threat to maintaining progress in human development comes from the increasingly evident unsustainability of production and consumption patterns. Current production models rely heavily on fossil fuels. We now know that this is unsustainable because the resources are finite. The close link between economic growth and greenhouse gas emissions needs to be served for human development to become truly sustainable. Some developed countries have begun to alleviate the worst effects by expanding recycling and investing in public transport and infrastructure. But most developing countries are hampered by the high costs and low availability of clean energy sources. Developed countries need to support developing countries' transition to sustainable human development.",
+      "questions": [
+        {
+          "type": "question",
+          "question_no": 1,
+          "question_text": "Unsustainability in production pattern is due to which of the following?",
+          "options": [
+            "1. Heavy dependence on fossil fuels",
+            "2. Limited availability of resources",
+            "3. Expansion of recycling"
+          ],
+          "correct_answer": "(a)",
+          "explanation": "Statement 1 is correct: The passage directly mentions, 'the increasingly evident unsustainability of production and consumption patterns. Current production models rely heavily on fossil fuels.' Therefore, heavy dependence on fossil fuels is a reason, as per the author, for the unsustainability of production patterns. Statement 2 is correct: Again, the author directly states, 'the increasingly evident unsustainability of production and consumption patterns. Current production models rely heavily on fossil fuels. We now know that this is unsustainable because the resources are finite.' Therefore, this statement is correct as well. Statement 3 is incorrect: The passage states that 'Some developed countries have begun to alleviate the worst effects by expanding recycling'. This means that some countries are trying to reduce the effects of unsustainable production via recycling and other methods. Therefore, recycling would reduce the unsustainability in production patterns rather than aggravate it."
+        },
+        {
+          "type": "question",
+          "question_no": 2,
+          "question_text": "Consider the following statements: Developed countries can support developing countries' transition to sustainable human development by",
+          "options": [
+            "1. making clean energy sources available at low cost",
+            "2. providing loans for improving their public transport at nominal interest rates",
+            "3. encouraging them to change their production and consumption patterns"
+          ],
+          "correct_answer": "(a/d)",
+          "explanation": "Statement 1 is correct: The author mentions high costs and low availability of clean energy sources. Immediately after that, he states that 'Developed countries need to support developing countries' transition to sustainable human development'. Therefore, the first statement is correct and it directly follows the assertion made. Explanation for Statement 2: Whether this statement is correct or incorrect depends upon whether we opt for a narrow or broader interpretation of the passage. The passage mentions, 'But most developing countries are hampered by the high costs and low availability of clean energy sources.' Therefore, it seems that the author is only focussing on issues related to high costs and low availability of clean energy sources as hindrances for developed countries in transitioning towards sustainable human development. However, (taking a broader view) the question does mention 'can'- and providing loans for improving their public transport at nominal interest rates is certainly one way where developed countries can help developing countries especially to alleviate the worst effects of unsustainable development. Explanation for Statement 3: Likewise, this statement would be incorrect if we take a narrow interpretation of the passage, as it specifically mentions high costs and low availability of clean energy sources as hindrances for developed countries in transitioning towards sustainable human development. But again, the question states 'can' and encouragement (via finance etc.) to change production and consumption patterns is certainly an area where developed countries could support the developing ones."
+        }
+      ]
+    },
+    {
+      "type": "passage",
+      "text": "Passage\u20132 Unless the forces and tendencies which are responsible for destroying the country's environment are checked in the near future and afforestation of denuded areas is taken up on a massive scale, the harshness of the climatic conditions and soil erosion by wind and water will increase to such an extent that agriculture, which is the mainstay of our people, will gradually become impossible. The desert countries of the world and our own desert areas in Rajasthan are a grim reminder of the consequences of large-scale deforestation. Pockets of desert-like landscape are now appearing in other parts of the country including the Sutlej-Ganga Plains and Deccan Plateau. Where only a few decades back there used to be lush green forests with perennial streams and springs, there is only brown earth, bare of vegetation, without any water in the streams and springs except in the rainy season.",
+      "questions": [
+        {
+          "type": "question",
+          "question_no": 3,
+          "question_text": "According to the passage given above, deforestation and denudation will ultimately lead to which of the following?",
+          "options": [
+            "1. Depletion of soil resource",
+            "2. Shortage of land for the common man",
+            "3. Lack of water for cultivation"
+          ],
+          "correct_answer": "(c)",
+          "explanation": "Statement 1 is correct: The passage mentions, 'The desert countries of the world and our own desert areas in Rajasthan are a grim reminder of the consequences of large-scale deforestation. Pockets of desert-like landscape are now appearing in other parts of the country including the Sutlej-Ganga Plains and Deccan Plateau. Where only a few decades back there used to be lush green forests with perennial streams and springs, there is only brown earth, bare of vegetation, without any water in the streams and springs except in the rainy season.' This supports the assertion of the author that deforestation and denudation will ultimately lead to the depletion of soil resources. Statement 2 is incorrect: This statement goes beyond the scope of the passage. The passage nowhere mentions anything related to the common man. Statement 3 is correct: This is supported by the part in the passage which mentions, 'the harshness of the climatic conditions' and 'Where only a few decades back there used to be lush green forests with perennial streams and springs, there is only brown earth, bare of vegetation, without any water in the streams and springs except in the rainy season.'"
+        },
+        {
+          "type": "question",
+          "question_no": 4,
+          "question_text": "What is the value of X in the sequence 20, 10, 10, 15, 30, 75, X?",
+          "options": [
+            "(a) 105",
+            "(b) 120",
+            "(c) 150",
+            "(d) 225"
+          ],
+          "correct_answer": "(d)",
+          "explanation": "The given series is: 20, 10, 10, 15, 30, 75, X? The terms are decreasing in the initial half, and then they start increasing. The speed at which they increase at the latter half suggest that multiplication may be involved. The pattern is as follows: 20 \u00d7 0.5 = 10 10 \u00d7 1 = 10"
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "content": "4 www.visionias.in \u00a9Vision IAS"
+    },
+    {
+      "type": "instruction",
+      "content": "10 \u00d7 1.5 = 15"
+    },
+    {
+      "type": "instruction",
+      "content": "15 \u00d7 2 = 30"
+    },
+    {
+      "type": "instruction",
+      "content": "30 \u00d7 2.5 = 75"
+    },
+    {
+      "type": "instruction",
+      "content": "75 \u00d7 3 = 225"
+    },
+    {
+      "type": "question",
+      "question_no": 5,
+      "question_text": "An Identity Card has the number ABCDEFG, not necessarily in that order, where each letter represents a distinct digit (1, 2, 4, 5, 7, 8, 9 only). The number is divisible by 9. After deleting the first digit from the right, the resulting number is divisible by 6. After deleting two digits from the right of original number, the resulting number is divisible by 5. After deleting three digits from the right of original number, the resulting number is divisible by 4. After deleting four digits from the right of original number, the resulting number is divisible by 3. After deleting five digits from the right of original number, the resulting number is divisible by 2. Which of the following is a possible value for the sum of the middle three digits of the number?",
+      "options": [
+        "(a) 8",
+        "(b) 9",
+        "(c) 11",
+        "(d) 12"
+      ],
+      "correct_answer": "(a)",
+      "explanation": "The number has 7 digits, and has been denoted by: ABCDEFG. These letters can be replaced by 1, 2, 4, 5, 7, 8, 9, not necessarily in the same order. We have to find the possible value of C + D + E. The original number (ABCDEFG) is divisible by 9. It has to be as 1 + 2 + 4 + 5 + 7 + 8 + 9 = 36, which is divisible by 9. This information is utterly useless. After deleting 1 digit from the right, the resulting number (ABCDEF) is divisible by 6. It means that, F = 2, 4 or 8 (i.e. an even number). Also, if even after removing G, the remaining number is divisible by 3, then it means G = 9. After deleting 3 digits from the right, the resulting number (ABCD) is divisible by 4. It means that, D = 2, 4 or 8 (i.e. an even number). After deleting 5 digits from the right, the resulting number (AB) is divisible by 2. It means that, B = 2, 4 or 8 (i.e. an even number). So, F, D and B are even numbers (2, 4 or 8). And, A, C, E, and G are odd numbers (1, 5, 7 or 9). After deleting 2 digits from the right, the resulting number (ABCDE) is divisible by 5. It means that, E = 5. So, we just have to find C + D + E = C + D + 5, which must be an even number as C is odd (1, or 7), and D is even (2, 4, or 8). On observing the options, we can see that C must be 1 and D must be 2. So, C + D + E = 1 + 2 + 5 = 8. Note: This information was also redundant - After deleting 4 digits from the right, the resulting number (ABC) is divisible by 3. But it may be useful if we want to know the entire number. The only odd number remaining is 7. So, A = 7. So, the ABC is actually 7B1. B can be 4 or 8. But for 7B1 to be divisible by 3, B must be 4. So, F = 8. So, the seven-digit number is 7412589."
+    },
+    {
+      "type": "question",
+      "question_no": 6,
+      "question_text": "Two friends X and Y start running and they run together for 50 m in the same direction and reach a point. X turns right and runs 60 m, while Y turns left and runs 40m. Then X turns left and runs 50m and stops, while Y turns right and runs 50 m and then stops. How far are the two friends from each other now?",
+      "options": [
+        "(a) 100 m",
+        "(b) 90 m",
+        "(c) 60 m",
+        "(d) 50 m"
+      ],
+      "correct_answer": "(a)",
+      "explanation": "The path taken by them has been represented below: It\u2019s pretty clear that they are 40 + 60 = 100 m apart at the end of their run."
+    },
+    {
+      "type": "question",
+      "question_no": 7,
+      "question_text": "Which date of June 2099 among the following is Sunday?",
+      "options": [
+        "(a) 4",
+        "(b) 5",
+        "(c) 6",
+        "(d) 7"
+      ],
+      "correct_answer": "(d)",
+      "explanation": "Method I: We know that 1st January, 2001 was a Monday. (Just like 1st January, 1601, or 1st January, 1201, i.e. every 400 years). In 100 years from 1st January, 2001 to 31st December, 2100, there will be 24 leap years (as 2100 is not a leap year). So, the number of odd days from 1st January, 2001 to 31st December, 2100 = (24 \u00d7 2) + 76 = 48 + 76 = 124 = 5 odd days. (every leap year has 2 odd days, and every non-leap year has 1 odd day) So, the day on 1st January, 2101 must be Monday + 5 = Saturday. So, the day on 1st January, 2100 must be Saturday \u2013 1 = Friday (there is 1 odd day in any non-leap year) So, the day on 1st January, 2099 must be Friday \u2013 1 = Thursday (there is 1 odd day in any non-leap year) The number of odd days in the year 2099 are: January \u2013 3; February \u2013 0; March \u2013 3; April \u2013 2; May \u2013 3; So, the number of odd days from 1st January, 2099 to 31st May, 2099 = 3 + 0 + 3 + 2 + 3 = 11 = 4 So, the day on 1st June, 2099 must be Thursday + 4 = Monday So, the first Sunday in the month of June, 2099 will fall on 7th. Method II: Considering 5th June 2022 as the reference date (date on which UPSC CSE prelims 2022 was conducted), which was a Sunday. Difference between both the years = 2099 \u2013 2022 = 77 years Number of leap years in between = 77 /4 = 19 (we will ignore the remainder 1) Hence, till 2099 we will have 58 normal years and 19 leap years. Number of odd days = (58 \u00d7 1) + (19 \u00d7 2) = 58 + 38 = 96 96/7 gives 5 as the remainder. So, 5th June 2099 will be Sunday + 5 = Friday And, so 7th June 2099 will be a Sunday."
+    },
+    {
+      "type": "question",
+      "question_no": 8,
+      "question_text": "A bill for 1,840 is paid in the denominations of 50, 20 and 10 notes. 50 notes in all are used. Consider the following statements: 1. 25 notes of 50 are used and the remaining are in the denominations of 20 and 10. 2. 35 notes of 20 are used and the remaining are in the denominations of 50 and 10. 3. 20 notes of 10 are used and the remaining are in the denominations of 50 and 20. Which of the above statements are not correct?",
+      "options": [
+        "(a) 1 and 2 only",
+        "(b) 2 and 3 only",
+        "(c) 1 and 3 only",
+        "(d) 1, 2 and 3"
+      ],
+      "correct_answer": "(d)",
+      "explanation": "Total amount = Rs. 1840 Let the number of Rs. 50, Rs. 20, and Rs. 10 notes be a, b and c respectively. Now, let\u2019s check the statements. Statement 1: 25 notes of Rs. 50 were used. So, remaining amount = 1840 \u2013 (25 \u00d7 50) = 1840 \u2013 1250 = Rs. 590. Even if all the remaining 25 notes are of Rs. 20 denomination, we will only get Rs. 500. So, Statement 1 is definitely incorrect. Statement 2: 35 notes of Rs. 20 were used. So, remaining amount = 1840 \u2013 (35 \u00d7 20) = 1840 \u2013 700 = Rs. 1140. Even if all the remaining 15 notes are of Rs. 50 denomination, we will only get Rs. 750. So, Statement 2 is definitely incorrect. Statement 3: 20 notes of Rs. 10 were used. So, remaining amount = 1840 \u2013 (20 \u00d7 10) = 1840 \u2013 200 = Rs. 1640. Even if all the remaining 30 notes are of Rs. 50 denomination, we will only get Rs. 1500. So, Statement 3 is definitely incorrect."
+    },
+    {
+      "type": "question",
+      "question_no": 9,
+      "question_text": "Which number amongst 240, 321, 418 and 812 is the smallest?",
+      "options": [
+        "(a) 240",
+        "(b) 321",
+        "(c) 418",
+        "(d) 812"
+      ],
+      "correct_answer": "(b)",
+      "explanation": "The given numbers are: 240, 321, 418, and 812. We can also write them as: 240, 321, 236, and 236. (as 4 = 22, and 8 = 23) So, we basically need to find the smallest one from among 236, and 321. As we cannot have two correct answers, it must be 321. Note: Sometimes, in Aptitude exams you need not even solve the entire question. This saves you some extra seconds and it eventually makes all the difference. But if you are a typical Maths student, this incomplete answer may cause you to feel a mild Zeigarnik effect. So, here\u2019s the rest of the solution: We can rewrite 236 and 321 as: 212 and 37 4096 > 2187 Hence, 321 is the smallest number."
+    },
+    {
+      "type": "question",
+      "question_no": 10,
+      "question_text": "The digits 1 to 9 are arranged in three rows in such a way that each row contains three digits, and the number formed in the second row is twice the number formed in the first row; and the",
+      "options": [],
+      "correct_answer": "",
+      "explanation": ""
+    },
+    {
+      "type": "text",
+      "content": "number formed in the third row is thrice the number formed in the first row. Repetition of digits is not allowed. If only three of the four digits 2, 3, 7 and 9 are allowed to use in the first row, how many such combinations are possible to be arranged in the three rows?"
+    },
+    {
+      "type": "question",
+      "question_no": 1,
+      "question_text": "How many such combinations are possible to be arranged in the three rows?",
+      "options": [
+        "(a) 4",
+        "(b) 3",
+        "(c) 2",
+        "(d) 1"
+      ],
+      "correct_answer": "(c)",
+      "explanation": "We can only use three of the four digits \u2013 2, 3, 7, and 9, in the first row. The first digit in the first row cannot be 7 or 9, as otherwise thrice the number will not be a three-digit number. So, the first digit in the first row can either be 2, or 3. The possible cases are: 237, 273, 239, 293, 279, 297, 327, 372, 329, 392, 379, or 397. On eliminating the numbers whose 3x is not a three-digit number, we are left with: 237, 273, 239, 293, 279, 297, 327, and 329. We will check these numbers: 237 \u00d7 2 =474 (digit repetition, and so eliminated) 273 \u00d7 2 = 546; 273 \u00d7 3 = 819 239 \u00d7 2 = 478; 239 \u00d7 3 = 717 (digit repetition, and so eliminated) 293 \u00d7 2 = 586; 293 \u00d7 3 = 879 (digit repetition, and so eliminated) 279 \u00d7 2 = 558 (digit repetition, and so eliminated) 297 \u00d7 2 = 594 (digit repetition, and so eliminated) 327 \u00d7 2 = 654; 327 \u00d7 3 = 981 329\u00d7 2 = 658; 329\u00d7 3 = 987 (digit repetition, and so eliminated) So, only two cases are possible."
+    },
+    {
+      "type": "text",
+      "content": "Directions for the following 4 (four) items: Read the following two passages and answer the items that follow the passages. Your answers to these items should be based on the passages only."
+    },
+    {
+      "type": "passage",
+      "text": null,
+      "questions": [
+        {
+          "type": "question",
+          "question_no": 11,
+          "question_text": "Which one of the following statements best reflects the message of the author of the passage?",
+          "options": [
+            "(a) We assume that in a democracy, any politician is qualified to administer a State.",
+            "(b) Politicians should be selected from those trained in administration.",
+            "(c) We need to devise a method of barring incompetence from public office.",
+            "(d) As voters select their administrators, the eligibility of politicians to administer a State cannot be questioned."
+          ],
+          "correct_answer": "(b)",
+          "explanation": "The question is asking us about the message being delivered by the author. That is, what does (s)he want to convey to the readers. Option (a) is incorrect: While this option is close and might seem correct, the author clearly states that 'but in politics, we presume that everyone who knows how to get votes knows how to administer a State'. (S)he clearly specifies that the public/ voters presume that the person elected 'knows how to administer a state' but not necessarily an assumption of qualifications. Option (b) is correct: This is a valid message being conveyed by the author throughout the passage. In each of the lines, (s)he makes a bid to focus on the skill sets of the candidates standing for elections while voting. Option (c) is incorrect: This goes beyond the scope of the passage. There is no mention of keeping any kinds of bars for candidates in the passage. Option (d) is incorrect: The author is clearly calling into question the eligibility of politicians and is urging the voters to vote for those who are specialised and trained in the sphere of administration."
+        }
+      ]
+    },
+    {
+      "type": "passage",
+      "text": null,
+      "questions": [
+        {
+          "type": "question",
+          "question_no": 12,
+          "question_text": "Why is the methodology adopted in India to count the 'poor' debatable?",
+          "options": [
+            "(a) There is some confusion regarding what should constitute the 'poverty line'.",
+            "(b) There are wide diversities in the condition of the rural and urban poor.",
+            "(c) There is no uniform global standard for measuring income poverty.",
+            "(d) It is based on the proposition of poverty as meagre income or buying capacity."
+          ],
+          "correct_answer": "(d)",
+          "explanation": "Option (a) is incorrect: There is no 'confusion' regarding the methodology or classification- the author does not mention anything as a confusion. (S)he only states that the current methods of estimating poverty are narrow, i.e. inadequate. (S)he tries to convey that poverty goes beyond income and purchasing power- it is about restricted choices and lack of real opportunity. Option (b) is incorrect: The assertion made in this option goes beyond the scope of the passage. In fact, there is no talk of the rural or urban poor in the passage. Option (c) is incorrect: This option also goes beyond the scope of the passage. No line in the passage leads to the assumption that 'There is no uniform global standard for measuring income poverty.' Option (d) is correct: This is the main message being stressed by the author, who explains through the various lines of the passage that measuring poverty through the lens of income or purchasing power (buying capacity) is only a narrow way of looking at poverty."
+        },
+        {
+          "type": "question",
+          "question_no": 13,
+          "question_text": "Why is income poverty only one measure of counting the 'poor'?",
+          "options": [
+            "(a) It talks of only one kind of deprivation ignoring all others.",
+            "(b) Other deprivations in a human life have nothing to do with lack of purchasing power.",
+            "(c) Income poverty is not a permanent condition, it changes from time to time.",
+            "(d) Income poverty restricts human choices only at a point of time."
+          ],
+          "correct_answer": "(a)",
+          "explanation": "Option (a) is correct: This option follows from the lines, 'income poverty. If poverty is ultimately about deprivations affecting human well-being, then income poverty is only one aspect of it.' The author, in the passage, later goes on to describe poverty, in the true sense, stems from a 'lack of real opportunity given by social constraints as well as personal circumstances\u2013to choose other types of living.'"
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "content": "Option (b) is incorrect: This option is rather extreme and goes beyond the scope of the passage. Nothing in the passage talks about the factors affecting the purchasing power of a person."
+    },
+    {
+      "type": "text",
+      "content": "Option (c) is incorrect: This option is beyond the scope of the passage. There is no mention in the passage of income being a temporary or permanent condition."
+    },
+    {
+      "type": "text",
+      "content": "Option (d) is incorrect as the passage does not lay out a time consideration (i.e. when does income poverty affect human choices by restricting them- whether only at a point of time or always, till such poverty exists) anywhere while suggesting how income poverty affects or restricts human choices."
+    },
+    {
+      "type": "question",
+      "question_no": 14,
+      "question_text": "What does the author mean by 'poverty of a life'?",
+      "options": [
+        "(a) All deprivations in a human life which stem not only from lack of income but lack of real opportunities",
+        "(b) Impoverished state of poor people in rural and urban areas",
+        "(c) Missed opportunities in diverse personal circumstances",
+        "(d) Material as well as non-material deprivations in a human life which restrict human choices permanently."
+      ],
+      "correct_answer": "(a)",
+      "explanation": "Option (a) is correct: This option is the best answer. Although the phrase, \u201call deprivations\u201d might seem extreme, the author does make a case for deprivations stemming from lack of choices (real opportunities), rather than solely income."
+    },
+    {
+      "type": "text",
+      "content": "Option (b) is incorrect: The option goes beyond the scope of the passage as there is no mention of rural versus urban poor in the passage."
+    },
+    {
+      "type": "text",
+      "content": "Option (c) is incorrect: The option also goes beyond the scope of the passage. There is no mention of diverse personal circumstances and missed opportunities therein. The author refers to the lack of opportunities rather than missed ones."
+    },
+    {
+      "type": "text",
+      "content": "Option (d) is incorrect: This option states, \u2018restricting human choices permanently\u2019. This cannot be assumed. (In fact, the very purpose of discussing poverty and poverty estimations is the hope of reversing the condition of lack of choices and opportunities). So, the use of the phrase \u2018permanently\u2019 is incorrect here. No deprivation, material or non-material, restricts choice permanently. In fact, there are many rags to riches stories in the world to deny this."
+    },
+    {
+      "type": "question",
+      "question_no": 15,
+      "question_text": "X and Y run a 3 km race along a circular course of length 300m. Their speeds are in the ratio 3:2. If they start together in the same direction, how many times would the first one pass the other (the start-off is not counted as passing)?",
+      "options": [
+        "(a) 2",
+        "(b) 3",
+        "(c) 4",
+        "(d) 5"
+      ],
+      "correct_answer": "(b)",
+      "explanation": "The faster runner will cross the slower one when he covers an extra 300 m. Let their speeds be 3 m/sec and 2 m/sec. So, their relative speed = 3 \u2013 2 = 1 m/sec. So, the time taken by the faster runner to cross the slower one = Distance/Relative Speed = 300/1 = 300 seconds. It basically means that the faster runner will cross the slower one every 300 seconds, or 5 minutes. Now, the time taken for the faster racer to complete the entire race = Total Distance/Speed = 3000/3 = 1000 seconds. So, the faster racer will cross the slower one 3 times during the entire race \u2013 after 300 seconds, 600 seconds, and 900 seconds."
+    },
+    {
+      "type": "question",
+      "question_no": 16,
+      "question_text": "If the order of the letters in the English alphabet is reversed and each letter represents the letter whose position it occupies, then which one of the following represents 'LUCKNOW'?",
+      "options": [
+        "(a) OGXPMLD",
+        "(b) OGXQMLE",
+        "(c) OFXPMLE",
+        "(d) OFXPMLD"
+      ],
+      "correct_answer": "(d)",
+      "explanation": "We basically need to find the opposite letter of the letters in the given word. Opposite Letter Position = 27 \u2013 Letter Position. So, in case of LUCKNOW, we get: 27 \u2013 12 = 15 = O, 27 \u2013 21 = 6 = F, 27 \u2013 3 = 24 = X, 27 \u2013 11 = 16 = P, 27 \u2013 14 = 13 = M, 27 \u2013 15 = 12 = L, 27 \u2013 23 = 4 = D. The word that we get is OFXPMLD."
+    },
+    {
+      "type": "question",
+      "question_no": 17,
+      "question_text": "In a tournament of Chess having 150 entrants, a player is eliminated whenever he loses a match. It is given that no match results in a tie/draw. How many matches are played in the entire tournament?",
+      "options": [
+        "(a) 151",
+        "(b) 150",
+        "(c) 149",
+        "(d) 148"
+      ],
+      "correct_answer": "(c)",
+      "explanation": "The tournament starts with 150 players. After first round (in which 75 matches are held): 75 players are eliminated, and 75 remain. After second round (in which 37 matches are held): 37 players are eliminated, and 38 remain. After third round (in which 19 matches are held): 19 players are eliminated, and 19 remain. After fourth round (in which 9 matches are held): 9 players are eliminated, and 10 remain. After fifth round (in which 5 matches are held): 5 players are eliminated, and 5 remain. After sixth round (in which 2 matches are held): 2 players are eliminated, and 3 remain. After seventh round (in which 1 match is held): 1 player is eliminated, and 2 remain. After eighth round (in which 1 match is held): 1 player is eliminated, and 1 remain. So, total number of matches = 75 + 37 + 19 + 9 + 5 + 2 + 1 + 1 = 149."
+    },
+    {
+      "type": "question",
+      "question_no": 18,
+      "question_text": "How many 3-digit natural numbers (without repetition of digits) are there such that each digit is odd and the number is divisible by 5?",
+      "options": [
+        "(a) 8",
+        "(b) 12",
+        "(c) 16",
+        "(d) 24"
+      ],
+      "correct_answer": "(b)",
+      "explanation": "We need to find three-digit numbers in which: All digits are different, and all digits are odd. So, the three digits must be from amongst 1, 3, 5, 7, and 9. The number is divisible by 5, i.e. the units digit is 5. The number of ways we can fill the first two digits from amongst 4 distinct digits = 4 \u00d7 3 = 12."
+    },
+    {
+      "type": "question",
+      "question_no": 19,
+      "question_text": "Consider the Question and two Statements given below: Question: Is x an integer? Statement-1: x/3 is not an integer. Statement-2: 3x is an integer. Which one of the following is correct in respect of the Question and the Statements?",
+      "options": [
+        "(a) Statement-1 alone is sufficient to answer the Question",
+        "(b) Statement-2 alone is sufficient to answer the Question",
+        "(c) Both Statement-1 and Statement-2 are sufficient to answer the Question",
+        "(d) Both Statement-1 and Statement-2 are not sufficient to answer the Question"
+      ],
+      "correct_answer": "(d)",
+      "explanation": "Let\u2019s consider the two statements one by one. Statement 1: x/3 is not an integer. x may or may not be an integer. For example, if x = 2, even then x/3 will not be an integer. Statement 2: 3x is an integer. x may or may not be an integer. For example, if x = 2/3, even then 3x will be an integer. On combining the two statements, 3x is an integer, but x/3 is not. x may or may not be an integer. For example, if x = 2, even then x/3 will not be an integer. But 3x = 6 will be an integer. If x = 2/3, even then 3x will be an integer. But x/3 = 2/9 will not be an integer."
+    },
+    {
+      "type": "question",
+      "question_no": 20,
+      "question_text": "The increase in the price of a certain item was 25%. Then the price was decreased by 20% and then again increased by 10%. What is the resultant increase in the price?",
+      "options": [
+        "(a) 5%",
+        "(b) 10%",
+        "(c) 12.5%",
+        "(d) 15%"
+      ],
+      "correct_answer": "(b)",
+      "explanation": "Let the initial price be Rs. 100. After 25% rise, the new price = 100 + 25% of 100 = Rs. 125. After 20% fall, the new price = 125 \u2013 20% of 125 = Rs. 100. After 10% rise, the new price = 100 + 10% of 100 = Rs. 110. So, resultant percentage increase in price = 10%"
+    },
+    {
+      "type": "passage",
+      "text": null,
+      "questions": []
+    },
+    {
+      "type": "passage",
+      "text": "Agricultural technology is changing fast. Much of this change is brought about by affluent farmers in the West/Americas. Techniques developed in the West are being adapted in some places to make tropical crops more productive. Technology is of little use if it is not adapted. In the developing world, that applies as much to existing farming techniques as it does to the latest advances in genetic modification. Extending to the smallholders and subsistence farmers of Africa and Asia the best of today's agricultural practices, in such simple matters as how much fertilizers to apply and when, would lead to a greatly increased availability of food for humanity. So would things like better roads and storage facilities, to allow for the carriage of surpluses to markets and reduce wastage.",
+      "questions": [
+        {
+          "type": "question",
+          "question_no": 21,
+          "question_text": "Based on the above passage, the following assumptions have been made: 1. Development of agricultural technology is confined to developed countries. 2. Agricultural technology is not adapted in developing countries. Which of the above assumptions is/are valid?",
+          "options": [
+            "(a) 1 only",
+            "(b) 2 only",
+            "(c) Both 1 and 2",
+            "(d) Neither 1 nor 2"
+          ],
+          "correct_answer": "(d)",
+          "explanation": "Assumption 1 is invalid: The passage mentions, \u201cApplication of technology\u2026Americas\u201d. This does not mean that technological development in agriculture is confined to the West. Focus on the use of the word \u201cmuch\u201d here. From this, we can infer that the West holds a major share of technological development in agriculture, but it does not imply \u201cno technological development (of agriculture) in the developed countries\u201d. (Here, we can assume the West/ Americas synonymous with the developed world, as the author makes a contrast with developing countries in later lines- \u201cIn the developing world, that applies as much to existing farming techniques as it does to the latest advances in genetic modification, extending to the smallholders and subsistence farmers of Africa and Asia the best of today's agricultural practices, in such simple matters as how much fertilizers to apply and when, would lead to a greatly increased availability of food for humanity.\u201d) Assumption 2 is invalid: The author only makes a caution about blindly copying and deploying the technologies of the West with respect to their suitability in different climatic regions of the Tropics. He makes a case, instead, for investing in more achievable things such as optimal fertilizer application and better infrastructure. However, this does not imply that agricultural technology is not adapted in developing countries at all. Also, this assumption does not state agricultural technology developed in the western world- It refers to agricultural technology in general."
+        },
+        {
+          "type": "question",
+          "question_no": 22,
+          "question_text": "Based on the above passage, the following assumptions have been made: 1. Poor countries need to bring about change in their existing farming techniques. 2. Developed countries have better infrastructure and they waste less food. Which of the above assumptions is/are valid?",
+          "options": [
+            "(a) 1 only",
+            "(b) 2 only",
+            "(c) Both 1 and 2",
+            "(d) Neither 1 nor 2"
+          ],
+          "correct_answer": "(a)",
+          "explanation": "Assumption 1 is correct: As per the passage, \u201cTechnology is of little use if it is not adapted. In the developing world, that applies as much to existing farming techniques as it does to the latest advances in genetic modification.\u201d. The passage clearly recommends the need to extend latest agricultural practices in simple matters like the timing and amount of fertilizer usage. This highlights the need to change agricultural practices. Therefore, this assumption is valid. (Though the author has nowhere mentioned poor countries, but only developed and developing countries. This makes this option partially incorrect too \u2013 the typical RC grey area.) Assumption 2 is incorrect: This assumption goes beyond the information provided in the passage. There is no mention of the infrastructure status of the developed countries or the food wastage there. Though the last lines of the passage do suggest that better roads and storage facilities will reduce wastage, but it has been stated in a very general way (with no comparison between developed countries and developing countries whatsoever). The only comparison being made in the passage between developed and developing countries is regarding agricultural technology."
+        },
+        {
+          "type": "question",
+          "question_no": 23,
+          "question_text": "Based on the above passage, the following assumptions have been made: 1. Growing enough food for future generation will be a challenge. 2. Corporate farming is a viable option for food security in poor countries. Which of the above assumptions is/are valid?",
+          "options": [
+            "(a) 1 only",
+            "(b) 2 only",
+            "(c) Both 1 and 2",
+            "(d) Neither 1 nor 2"
+          ],
+          "correct_answer": "(d)",
+          "explanation": "Assumption 1 is incorrect: these lines- \u201cin such simple matters as how much fertilizers to apply and when, would lead to a greatly increased availability of food for humanity\u201d. The author gives the problem at the start of the passage but also gives the solution by referring to food for humanity. Therefore, we cannot predict for sure if and whether growing enough food for future generation would be a challenge. Also, the passage makes no reference to future generations. Assumption 2 is incorrect: This assumption goes beyond the information provided in the passage. There is no mention or indication of corporate farming in the passage."
+        },
+        {
+          "type": "question",
+          "question_no": 24,
+          "question_text": "The letters A, B, C, D and E are arranged in such a way that there are exactly two letters between A and E. How many such arrangements are possible?",
+          "options": [
+            "(a) 12",
+            "(b) 18",
+            "(c) 24",
+            "(d) 36"
+          ],
+          "correct_answer": "(c)",
+          "explanation": "There are exactly 2 letters between A and E. So, the fifth letter must be either beside A or E. So, the following four arrangements are possible: A _ _ E _ _ A _ _ E E _ _ A _ _ E. The three blank spaces can be filled by three distinct letters in 3 \u00d7 2 \u00d7 1 = 6 ways. So, total possible arrangements = 6 \u00d7 4 = 24."
+        },
+        {
+          "type": "question",
+          "question_no": 25,
+          "question_text": "Consider the Question and two Statements given below: Question: Is Z brother of X? Statement-1:\" X is a brother of Y and Y is a brother of Z. Statement-2: X, Y and Z are siblings. Which one of the following is correct in respect of the Question and the Statements?",
+          "options": [
+            "(a) Statement-1 alone is sufficient to answer the Questions",
+            "(b) Statement-2 alone is sufficient to answer the Question",
+            "(c) Both Statement-1 and Statement-2 are sufficient to answer the Question",
+            "(d) Both Statement-1 and Statement-2 are not sufficient to answer the Question"
+          ],
+          "correct_answer": "(d)",
+          "explanation": "Let\u2019s consider the two statements one by one. Statement 1: X is the brother of Y, and Y is the brother of Z. But we do not know whether Z is a male or a female. So, we cannot say whether Z is the brother or sister of X. Statement 2: X, Y, and Z are siblings. It tells us nothing much. Here, also gender of Z is not known. So, Z can be either brother or sister of X. Even if we combine the two statements, we cannot answer the given questions."
+        },
+        {
+          "type": "question",
+          "question_no": 26,
+          "question_text": "On one side of a 1.01 km long road, 101 plants are planted at equal distance from each other. What is the total distance between 5 consecutive plants?",
+          "options": [
+            "(a) 40 m",
+            "(b) 40.4 m",
+            "(c) 50m",
+            "(d) 50.5 m"
+          ],
+          "correct_answer": "(b)",
+          "explanation": "Length of the road = 1.01 km = 1010 m. 101 plants are planted at equal distance from each other. So, there will be 100 gaps between those plants. Length of each gap = 1010/100 = 10.1 m. Now, there must be 4 gaps between 5 consecutive plants."
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "content": "So, required distance = 4 \u00d7 10.1 = 40.4 m"
+    },
+    {
+      "type": "question",
+      "question_no": 27,
+      "question_text": "A, B and C are three places such that there are three different roads from A to B, four different roads from B to C and three different roads from A to C. In how many different ways can one travel from A to C using these roads?",
+      "options": [
+        "(a) 10",
+        "(b) 13",
+        "(c) 15",
+        "(d) 36"
+      ],
+      "correct_answer": "(c)",
+      "explanation": "Number of ways to go from A to C = 3. But we also know that, Number of ways to go from A to B = 3, and Number of ways to go from B to C = 4. So, Number of ways to go from A to C, via B = 3 \u00d7 4 = 12. So, total number of ways to go from A to C = 3 + 12 = 15."
+    },
+    {
+      "type": "question",
+      "question_no": 28,
+      "question_text": "A has some coins. He gives half of the coins and 2 more to B. B gives half of the coins and 2 more to C. C gives half of the coins and 2 more to D. The number of coins D has now, is the smallest two-digit number. How many coins does A have in the beginning?",
+      "options": [
+        "(a) 76",
+        "(b) 68",
+        "(c) 60",
+        "(d) 52"
+      ],
+      "correct_answer": "(d)",
+      "explanation": "The number of coins with D = 10. Let\u2019s work backwards now. D = (C/2) + 2. Or C/2 = 10 \u2013 2 = 8. Or C = 16. Similarly, C = (B/2) + 2. Or B/2 = 16 \u2013 2 = 14. Or B = 28. And finally, B = (A/2) + 2. Or A/2 = 28 \u2013 2 = 26. Or A = 52. So, A initially had 52 coins."
+    },
+    {
+      "type": "question",
+      "question_no": 29,
+      "question_text": "In the series AABABCABCDABCDE.., which letter appears at the 100th place?",
+      "options": [
+        "(a) G",
+        "(b) H",
+        "(c) I",
+        "(d) J"
+      ],
+      "correct_answer": "(c)",
+      "explanation": "The given series is: AABABCABCDABCDE\u2026 The pattern being followed here is: A, AB, ABC, ABCD, ABCDE, \u2026 It\u2019s kind of an arithmetic series wherein the first term has 1 letter, second term has 2 letters, and so on. We have to estimate the length of the letter-series near the 100th letter. If we have an arithmetic series, 1, 2, 3 \u2026, then: Sum of first n terms = (n/2) (a + l), where \u2018n\u2019 is the number of terms in the series, \u2018a\u2019 the first term, and \u2018l\u2019 the last term. So, sum of first 14 terms = (14/2) (1 + 14) = 7 \u00d7 15 = 105. So, the term having 14 letters will have the 100th letter of the series. It will start at the 92nd letter and end at 105th letter. Hence, the 100th letter must be I."
+    },
+    {
+      "type": "question",
+      "question_no": 30,
+      "question_text": "Three persons A, B and C are standing in a queue not necessarily in the same order. There are 4 persons between A and B, and 7 persons between B and C. If there are 11 persons ahead of C and 13 behind A, what could be the minimum number of persons in the queue?",
+      "options": [
+        "(a) 22",
+        "(b) 28",
+        "(c) 32",
+        "(d) 38"
+      ],
+      "correct_answer": "(a)",
+      "explanation": "There are 4 persons between A and B, and 7 persons between B and C. So, there are four cases possible. Now, there are 11 persons ahead of C and 13 behind A. As there are more than 11 persons ahead of C in first case depicted above, we can eliminate it. We can proceed with the remaining three cases. To minimize the number of people in the queue, we should just focus on the last/fourth case. The number of people in the queue in the second case will be 28, in the third case 38, and in the fourth case 22. So, the final arrangement will be as follows: Minimum possible number of people in the queue = 22."
+    },
+    {
+      "type": "passage",
+      "text": null,
+      "questions": [
+        {
+          "type": "question",
+          "question_no": 31,
+          "question_text": "According to the passage, natural selection cannot anticipate future environments on the earth as",
+          "options": [
+            "1. species not fully prepared to face the environmental changes that await them will face extinction",
+            "2. all the existing species would get extinct as their genomes will not withstand biological mishaps",
+            "3. inability of the genome to withstand environmental changes would result in extinction",
+            "4. extinction of species is a common feature"
+          ],
+          "correct_answer": "(c)",
+          "explanation": "Statement 1 is correct: According to the passage, natural selection conveys that those species which are not adapted to the environment will get extinct. The phrase, \u201cTherefore, the set of existing organism can never be fully prepared for environmental catastrophe that await life. An outcome of this is the extinction of those species which can not overcome environmental adversity\u201d. Statement 2 is incorrect: The phrase \u201cAll the existing species\u201d in this option is incorrect. The passage clearly conveys that only those species that are not able to adapt to changes in the environment will get extinct. This is inferred from the lines \u201cthe extinction of those species which cannot overcome environmental adversity. This failure to survive, in modern terms, can be attributed to the genomes which are unable to withstand geological vagaries or biological mishaps (infections, diseases and so on).\u201d Hence this statement is incorrect. Also, the passage states, \u201cThe earth may presently have up to ten million species, yet more than 90% of species that have ever lived on the earth are now extinct.\u201d This means that 10% of the species that existed in earlier geological periods still survive today. Further, the passage specifies- \u201cextinction of those species which cannot overcome environmental adversity.\u201d Therefore, as per the author, those species that can withstand environmental adversity due to their genes will not go extinct. Statement 3 is correct: As explained above, \u201cThis failure to survive, in modern terms, can be attributed to the genomes which are unable to withstand geological vagaries or biological mishaps (infections, diseases and so on)\u201d. Statement 4 is correct: The passage says that \u201cIn the biological evolution on the earth, extinction of the species has been a major feature\u201d. Hence we can consider this to be a common feature."
+        },
+        {
+          "type": "question",
+          "question_no": 32,
+          "question_text": "The passage suggests that Darwinian theory of evolution is not a theory at all because",
+          "options": [
+            "(a) it does not satisfy the creationist doctrine",
+            "(b) extinction is a function of environment and biological assaults"
+          ],
+          "correct_answer": null,
+          "explanation": null
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "content": "(c) there are no evidences to refute it"
+    },
+    {
+      "type": "text",
+      "content": "(d) existence of organisms is attributed to a creator"
+    },
+    {
+      "type": "question",
+      "question_no": 1,
+      "question_text": "Which of the following options is correct?",
+      "options": [
+        "(a) is incorrect",
+        "(b) is incorrect",
+        "(c) is correct",
+        "(d) is incorrect"
+      ],
+      "correct_answer": "(c)",
+      "explanation": "The passage clearly states, 'Therefore, the so-called Darwinian theory of evolution is not a theory at all. Evolution happens-this is a fact. The mechanism of evolution (Darwin proposed natural selection) is amply supported by scientific data. Indeed, to date no single zoological, botanical, geological, paleontological, genetic or physical evidence has refuted either of the central two main Darwinian ideas.' So, there is no evidence to refute it, which enhances the credibility of the Darwinian theory and establishes it as a fact."
+    },
+    {
+      "type": "text",
+      "content": "Q.33. With reference to the passage, the following assumptions have been made:"
+    },
+    {
+      "type": "text",
+      "content": "1. Only species that have the ability to overcome environmental catastrophes will survive and perpetuate."
+    },
+    {
+      "type": "text",
+      "content": "2. More than 90% of the species on the earth are in the danger of getting extinct due to drastic changes in the environment."
+    },
+    {
+      "type": "text",
+      "content": "3. Darwin's theory explains all the natural phenomena."
+    },
+    {
+      "type": "question",
+      "question_no": 2,
+      "question_text": "Which of the above assumptions is/are valid?",
+      "options": [
+        "(a) 1 only",
+        "(b) 1 and 2 only",
+        "(c) 3 only",
+        "(d) 1, 2 and 3"
+      ],
+      "correct_answer": "(a)",
+      "explanation": "Statement 1 is correct: as the passage states that the extinction of a species is primarily driven by non-adaptation to environmental catastrophe. Statement 2 is incorrect: It is an incorrect inference as the passage does not predict the extinction probability in the future. Statement 3 is incorrect: It is incorrect that Darwin\u2019s theory explains all natural phenomena. It only explains the natural phenomena of evolution."
+    },
+    {
+      "type": "text",
+      "content": "Passage-2"
+    },
+    {
+      "type": "text",
+      "content": "With steady economic growth, higher literacy and increasing skill levels, the number of Indian middle-class families has gone up exponentially. Direct results of the affluence have been changes in dietary patterns and energy consumption levels. People have moved to a higher protein-based diet like milk products, fish and meat, all of which need significantly more water to produce than cereal-based diets. Increasing use of electronic and electric machines/gadgets and motor vehicles needs more and more energy and generation of energy needs water."
+    },
+    {
+      "type": "question",
+      "question_no": 3,
+      "question_text": "Which one of the following statements best reflects the crux of the passage?",
+      "options": [
+        "(a) People should be persuaded to continue with the mainly Indian traditional cereal-based diets.",
+        "(b) India needs to focus on developing agricultural productivity and capacity for more energy generation in the coming years.",
+        "(c) Modern technological developments result in the change of cultural and social behaviour of the people.",
+        "(d) Water management practices in India need to change dramatically in the coming years."
+      ],
+      "correct_answer": "(d)",
+      "explanation": "Though, the use of the word, 'dramatically' makes this option look extreme, it is the best option from the given set of options. The author does depict the increased water consumption in modern-day to be an issue."
+    },
+    {
+      "type": "text",
+      "content": "Q.35. How many seconds in total are there in x weeks, x days, x hours, x minutes and x seconds?"
+    },
+    {
+      "type": "question",
+      "question_no": 4,
+      "question_text": "How many seconds in total are there in x weeks, x days, x hours, x minutes and x seconds?",
+      "options": [
+        "(a) 11580x",
+        "(b) 11581x",
+        "(c) 694860x",
+        "(d) 694861x"
+      ],
+      "correct_answer": "(d)",
+      "explanation": "Total time in seconds = 604800x + 86400x + 3600x + 60x + x = 694861x seconds."
+    },
+    {
+      "type": "text",
+      "content": "Q.36. P, Q, R, S, T and U are six members of a family. R is the spouse of Q, U is the mother of T and S is the daughter of U. P's daughter is T and R's son is P. There are two couples in the family."
+    },
+    {
+      "type": "question",
+      "question_no": 5,
+      "question_text": "Which one of the following is correct?",
+      "options": [
+        "(a) is the grandfather of T",
+        "(b) is the grandmother of T",
+        "(c) R is the mother of P.",
+        "(d) T is the granddaughter of"
+      ],
+      "correct_answer": "(d)",
+      "explanation": "The family tree, as per the information provided in the question, has been depicted below: We can see that T is the granddaughter of Q."
+    },
+    {
+      "type": "text",
+      "content": "Q.37. Consider the Question Statements given below in respect of and two three cities P, Q and R in a State:"
+    },
+    {
+      "type": "text",
+      "content": "Question: How far is city P from city Q?"
+    },
+    {
+      "type": "text",
+      "content": "Statement-1: City is 18 km from city R."
+    },
+    {
+      "type": "text",
+      "content": "Statement-2: City P is 43 km from city R."
+    },
+    {
+      "type": "question",
+      "question_no": 6,
+      "question_text": "Which one of the following is correct in respect of the Question and the Statements?",
+      "options": [
+        "(a) Statement-1 alone is sufficient to answer the Question",
+        "(b) Statement-2 alone is sufficient to answer the Question"
+      ],
+      "correct_answer": null,
+      "explanation": null
+    },
+    {
+      "type": "instruction",
+      "text": "(c) Both Statement-1 and Statement-2 are sufficient to answer the Question"
+    },
+    {
+      "type": "instruction",
+      "text": "(d) Both Statement-1 and Statement-2 are not sufficient to answer the Question"
+    },
+    {
+      "type": "question",
+      "question_no": 1,
+      "question_text": "As we do not know the respective positions of P and Q, we cannot find the distance between them, even after using the information in both the statements.",
+      "options": [
+        "(c) Both Statement-1 and Statement-2 are sufficient to answer the Question",
+        "(d) Both Statement-1 and Statement-2 are not sufficient to answer the Question"
+      ],
+      "correct_answer": "(d)",
+      "explanation": "As we do not know the respective positions of P and Q, we cannot find the distance between them, even after using the information in both the statements."
+    },
+    {
+      "type": "passage",
+      "text": "Q.38. Two Statements followed by four Conclusions are given below. You have to take the Statements to be true even if they seem to be at variance from the commonly known facts. Read all the Conclusions and then decide which of the given Conclusions logically follows follow from the Statements, disregarding the commonly known facts : Statement-1 : All pens are books. Statement-2 : No chair is a pen.",
+      "questions": []
+    },
+    {
+      "type": "passage",
+      "text": "Conclusion-I : All chairs are books. Conclusion-II : Some chairs are pens. Conclusion-III : All books are chairs. Conclusion-IV : No chair is a book.",
+      "questions": [
+        {
+          "type": "question",
+          "question_no": 2,
+          "question_text": "Which one of the following is correct?",
+          "options": [
+            "(a) Only Conclusion-1",
+            "(b) Only Conclusion-11",
+            "(c) Both Conclusion-III and Conclusion-IV",
+            "(d) None of the Conclusion follows"
+          ],
+          "correct_answer": "(d)",
+          "explanation": "We can see that none of the conclusion follows."
+        }
+      ]
+    },
+    {
+      "type": "passage",
+      "text": "We can draw the following possible Venn diagrams based on the given two statements:",
+      "questions": []
+    },
+    {
+      "type": "passage",
+      "text": "Q.39. Three Statements followed by three Conclusions are given below. You have to take the Statements to be true even if they seem to be at variance from the commonly known facts. Read all the Conclusions and then decide which of the given Conclusions logically follows/ follow from the Statements, disregarding the commonly known facts: Statement-1 : Some doctors are teachers Statement-2 : All teachers are engineers. Statement-3 : All engineers are scientists.",
+      "questions": []
+    },
+    {
+      "type": "passage",
+      "text": "Conclusion-I : Some scientists are doctors. Conclusion-II : All engineers are doctors. Conclusion-III: Some engineers are doctors.",
+      "questions": [
+        {
+          "type": "question",
+          "question_no": 3,
+          "question_text": "Which one of the following is correct?",
+          "options": [
+            "(a) Only Conclusion-I",
+            "(b) Only Conclusion-II",
+            "(c) Both Conclusion-I and Conclusion-III",
+            "(d) Both Conclusion-I and Conclusion-II"
+          ],
+          "correct_answer": "(c)",
+          "explanation": "We can see that conclusions I and III follow."
+        }
+      ]
+    },
+    {
+      "type": "passage",
+      "text": "Q.40. Eight students A, B, C, D, E, F, G and H sit around a circular table, equidistant from each other, facing the centre of the table, not necessarily in the same order. B and D sit neither adjacent to C nor opposite to C A sits in between E and D. and sits in between B and H.",
+      "questions": [
+        {
+          "type": "question",
+          "question_no": 4,
+          "question_text": "Which one of the following is definitely correct?",
+          "options": [
+            "(a) B sits in between A and G",
+            "(b) C sits opposite to G",
+            "(c) E sits opposite to F",
+            "(d) None of the above"
+          ],
+          "correct_answer": "(d)",
+          "explanation": "We can see that none of (a), (b), or (c) is definitely correct."
+        }
+      ]
+    },
+    {
+      "type": "passage",
+      "text": "The various possible circular arrangements, as per the information provided in the passage, have been depicted below:",
+      "questions": []
+    },
+    {
+      "type": "instruction",
+      "text": "Directions for Read the following 4 (four) Items: following two passages and answer that follow the passages. Your answer to these items should be based on the passages only."
+    },
+    {
+      "type": "passage",
+      "text": "Passage-1 For two or three generations past, ever-increasing number of individuals have been living as workers merely, not as human beings. An excessive amount of labor is rule today in every circle of society, with the result that man's spiritual element cannot thrive. He finds it very difficult to spend his little leisure in serious activities. He does not want to think; or he cannot even if he wants to. He seeks not Self-improvement, but entertainment which would enable him to be mentally idle and to forget his usual activities. Therefore, the so-called culture of our age is dependent more on cinema than on theatre, more on newspapers, magazines and crime stories than on serious literature.",
+      "questions": [
+        {
+          "type": "question",
+          "question_no": 5,
+          "question_text": "The passage is based on the idea that",
+          "options": [
+            "(a) man should not work hard",
+            "(b) the great evil of our age is overstrain",
+            "(c) man cannot think well",
+            "(d) man cannot care for his spiritual welfare"
+          ],
+          "correct_answer": "(b)",
+          "explanation": "The passage talks about today\u2019s workers being engaged in an excessive amount of labour, which limits his spiritual and intellectual development. Hence we can conclude that the idea of the passage is that the great evil of our age is overstrained."
+        }
+      ]
+    },
+    {
+      "type": "passage",
+      "text": "Option (a) is incorrect: The passage suggests the less time left for leisure after work to be an issue as no time is left for spiritual growth- \u201cAn excessive amount of labour is rule today in every circle of society, with the result that man's spiritual element cannot thrive. He finds it very difficult to spend his little leisure in serious activities.\u201d It would be incorrect to infer that the author is suggesting that man should not work hard. It only argues for a balance in the work-life.",
+      "questions": []
+    },
+    {
+      "type": "passage",
+      "text": "Option (b) is correct: The passage talks about today\u2019s workers being engaged in an excessive amount of labour, which limits his spiritual and intellectual development. Hence we can conclude that the idea of the passage is that the great evil of our age is overstrained.",
+      "questions": []
+    },
+    {
+      "type": "passage",
+      "text": "Option (c) is incorrect: The passage does not talk about the lack of the ability of man to think well per se. It rather focusses on the less time left after excessive (hours of) labour to ponder over or involve in spiritual aspects.",
+      "questions": []
+    },
+    {
+      "type": "passage",
+      "text": "Option (d) is incorrect: The passage does not suggest that man is incapable of caring for his spiritual welfare. It just suggests that in order to go towards spirituality or anything serious, people need a proper amount of spare time after work. But people are incapable of devoting such time as a result of being overstrained with work. So, they look for purely entertaining pursuits in the little leisure time that they get.",
+      "questions": [
+        {
+          "type": "question",
+          "question_no": 6,
+          "question_text": "Man does not seek self-improvement because he",
+          "options": [
+            "(a) is not intellectually capable",
+            "(b) has no time to do so",
+            "(c) is distracted by materialism",
+            "(d) loves amusement and is mentally idle"
+          ],
+          "correct_answer": "(b)",
+          "explanation": "A phrase from the passage states that \u201cHe finds it very difficult to spend his little leisure in serious activities.\u201d This statement reflects the unavailability of time, due to which man does not seek self-improvement."
+        }
+      ]
+    },
+    {
+      "type": "passage",
+      "text": "Option (a) is incorrect: The passage does not question the intellectual capability of man. It only talks about overstraining and the very less leisure time at his disposal. Hence this statement is incorrect.",
+      "questions": []
+    },
+    {
+      "type": "passage",
+      "text": "Option (b) is correct: A phrase from the passage states that \u201cHe finds it very difficult to spend his little leisure in serious activities.\u201d This statement reflects the unavailability of time, due to which man does not seek self-improvement.",
+      "questions": []
+    },
+    {
+      "type": "passage",
+      "text": "Option (c) is incorrect: The passage suggests that man does not seek self-improvement due to the lack of ability to do so as a result of lack of time. He is so pressurised by excessive labour that he wants to be mentally idle and forget his usual stress. The passage does not discuss man\u2019s interest in materialism.",
+      "questions": []
+    },
+    {
+      "type": "passage",
+      "text": "Option (d) is incorrect: This option shows man to intrinsically love being unproductive- as a lover of amusement and being mentally idle. But the author of the passage shows man to be so as a result of overstrain, rather than being intrinsically like that.",
+      "questions": []
+    },
+    {
+      "type": "passage",
+      "text": "Passage-2 The demographic dividend, which has begun in India and is expected to last another few decades, is a great window of opportunity. The demographic dividend is basically a swelling in the working age population, which conversely means that the relative ratio of very young and very old will, for a while, be on the decline. From the experience of Ireland and China, we know that this can be a source of energy and an engine of economic growth. The demographic dividend tends to raise a nation's savings rate since in any nation, it is the working age population that is the main saver. And since the savings rate is an important driver of growth, this should help elevate our growth rate.",
+      "questions": []
+    },
+    {
+      "type": "passage",
+      "text": "demographic dividend depend on the quality of the working age population. And this implies bringing back the importance of education, acquisition of skills and human capital.",
+      "questions": [
+        {
+          "type": "question",
+          "question_no": 43,
+          "question_text": "Which of the following would invariably happen in a country, when the demographic dividend has begun to operate?",
+          "options": [
+            "1. The number of illiterate people will decrease.",
+            "2. The ratio of very old and very young will decrease for a while.",
+            "3. Population growth rate will quickly stabilize."
+          ],
+          "correct_answer": "(b)",
+          "explanation": "Statement 1 incorrect: The number of illiterate people will decrease depending upon the emphasis on the same given by the government and other stakeholders. The operation of demographic dividend has no relation with it. However, it is the other way round where literacy will increase the quality of demographic dividend will increase. Statement 2 correct: In the case of a demographic dividend, the number of young people will increase as compared to the dependents- children and old age people. Hence the ratio of very old and very young will decrease for a while as long as the demographic dividend remains. This is reflected in the lines, 'The demographic dividend is basically a swelling in the working age population, which conversely means that the relative ratio of very young and very old will, for a while, be on the decline.' Statement 3 incorrect: The passage does not discuss the relationship between demographic dividend and population growth. Directly, it can not be said that the population growth rate will quickly stabilize on the operation of the demographic dividend. The passage only discusses the following benefits associated with the demographic dividend- 'From the experience of Ireland and China, we know that this can be a source of energy and an engine of economic growth. The demographic dividend tends to raise a nation's savings rate since in any nation, it is the working age population that is the main saver. And since the savings rate is an important driver of growth, this should help elevate our growth rate.'"
+        },
+        {
+          "type": "question",
+          "question_no": 44,
+          "question_text": "With reference to the passage, which of the following inferences can be drawn?",
+          "options": [
+            "1. Demographic dividend is an essential condition for a country to rapidly increase its economic growth rate.",
+            "2. Promotion of higher education is an essential condition for a country for its rapid economic growth."
+          ],
+          "correct_answer": "(d)",
+          "explanation": "The word 'essential', by its dictionary definition, means 'absolutely necessary; extremely important.' Statement 1 incorrect: As per the passage, demographic dividend provides a (great) opportunity for economic growth, as is exemplified by the lines 'The demographic dividend, which has begun in India and is expected to last another few decades, is a great window of opportunity.' However, this does not imply that is an 'essential condition' for economic growth. That means that economic growth might be possible even if a country is not in its demographic dividend phase. Statement 2 incorrect: The passage only talks about the importance of education (acquisition of skills and human capital). It does specify higher education as such- For example, vocational education also helps in the acquisition of skills. Hence, based on the information provided in the passage, we cannot infer that higher education is an essential condition for a country for its rapid economic growth."
+        },
+        {
+          "type": "question",
+          "question_no": 45,
+          "question_text": "Five friends P. O, X, Y and Z purchased some notebooks. The relevant information is given below:",
+          "options": [
+            "1. Z purchased 8 notebooks more than X did.",
+            "2. P and together purchased 21 notebooks.",
+            "3. O purchased 5 notebooks less than P did.",
+            "4. X and Y together purchased 28 notebooks.",
+            "5. P purchased 5 notebooks more than X did."
+          ],
+          "correct_answer": "(a)",
+          "explanation": "As per the information provided in the question: Z = X + 8 \u2026.(i) P + Q = 21 \u2026.(ii) Q = P \u2013 5 \u2026.(iii) X + Y = 28 \u2026.(iv) P = X + 5 \u2026.(v) We need to find the value of P + Q + X + Y + Z Using ii and iii, we get: P + Q = 21 Or P + (P - 5) = 21 Or P = 13 So, Q = P \u2013 5 = 13 \u2013 5 = 8 Using v, we get: P = X + 5 Or X = P \u2013 5 = 13 \u2013 5 = 8 Using i, we get: Z = X + 8 Or Z = 8 + 8 = 16 Using iv, we get: X + Y = 28 Or Y = 28 \u2013 8 = 20 So, P + Q + X + Y + Z = 13 + 8 + 8 + 20 + 16 = 65 So, total cost of all the notebooks = 65 \u00d7 40 = Rs. 2600"
+        },
+        {
+          "type": "question",
+          "question_no": 46,
+          "question_text": "A man started from home at 14:30 hours and drove to village, arriving there when the village clock indicated 15:15 hours. After staying for 25 minutes, he drove back by a different route of length 1.25 times the first route at a rate twice as fast reaching home at 16:00 hours. As compared to the clock at home, the village clock is",
+          "options": [
+            "(a) 10 minutes slow",
+            "(b) 5 minutes slow",
+            "(c) 10 minutes fast",
+            "(d) 5 minutes fast"
+          ],
+          "correct_answer": "(d)",
+          "explanation": "Total time taken by the man to come back home = 16 \u2013 14.5 = 1.5 hours = 90 minutes Out of which he stayed in the village for 25 minutes. So, his total travelling time = 90 \u2013 25 = 65 minutes The return route was 1.25 times the initial route. So, time taken must have increased by 25% too. So, if initial time was 100 units, now it must be 125 units. But it is also given that while returning he drove twice as fast. So, time taken must have been halved. So, time taken while returning back = 125/2 = 62.5 units So, 100 + 62.5 = 65 minutes Or 162.5 units = 65 minutes So, 100 units = (65/162.5) \u00d7 100 = 40 minutes So, the man took 40 minutes to reach to the village. So, the actual time at that moment = 14:30 + 40 minutes = 15:10 hours It\u2019s pretty evident that the village clock is 15:15 \u2013 15:10 = 5 minutes fast"
+        },
+        {
+          "type": "question",
+          "question_no": 47,
+          "question_text": "A person X wants to distribute some pens among six children A B C D E and F. Suppose A gets twice the number of pens received by three times that of four times that of D, five times that of E and six times that of F. What is the minimum number of pens X should buy so that the number of pens each one gets is an even number?",
+          "options": [
+            "(a) 147",
+            "(b) 150",
+            "(c) 294",
+            "(d) 300"
+          ],
+          "correct_answer": "(c)",
+          "explanation": "Let the number of pens with A be the LCM of 2, 3, 4, 5, and 6 = 60 Then the number of pens with B = 60/2 = 30 The number of pens with C = 60/3 = 20 The number of pens with D = 60/4 = 15 (an odd number) The number of pens with E = 60/5 = 12 The number of pens with F = 60/6 = 10 To ensure that all get an even number of pens, we need to double the number of pens bought by A, i.e. 60 \u00d7 2 = 120 So, total number of pens bought by X = 120 + 60 + 40 + 30 + 24 + 20 = 294"
+        },
+        {
+          "type": "question",
+          "question_no": 48,
+          "question_text": "Six Persons A, B, C, D, E and F are sitting equidistant form each other around a circular table (facing the centre of the table). Consider the Question and two statements given below: Question: Who is sitting on the immediate left of A?",
+          "options": [
+            "Statement-1: B is sitting opposite to C and D is sitting opposite to E.",
+            "Statement -2: F is sitting on the immediate left of B."
+          ],
+          "correct_answer": null,
+          "explanation": null
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "content": "(c) Both Statement-1 and Statement-2 are sufficient to answer the Question"
+    },
+    {
+      "type": "text",
+      "content": "(d) Both Statement-1 and Statement-2 are not sufficient to answer the Question"
+    },
+    {
+      "type": "text",
+      "content": "Answer: (d)"
+    },
+    {
+      "type": "text",
+      "content": "It\u2019s pretty evident that neither of the two statements is sufficient alone."
+    },
+    {
+      "type": "text",
+      "content": "Even on combining the two, we get two possible cases:"
+    },
+    {
+      "type": "text",
+      "content": "On observing the above two cases, we can see that the person who is sitting of the immediate left of A cannot be determined."
+    },
+    {
+      "type": "question",
+      "question_no": 49,
+      "question_text": "What is the age of Manisha?",
+      "options": [
+        "(a) Statements-1 alone is sufficient to answer the Question",
+        "(b) Statement-2 alone is sufficient to answer the question",
+        "(c) Both Statement-1 and Statement-2 are sufficient to answer the Question",
+        "(d) Both Statement-1 and Statement-2 are not sufficient to answer the Question"
+      ],
+      "correct_answer": "(c)",
+      "explanation": "It\u2019s pretty evident that neither of the two statements is sufficient alone. So, now let\u2019s combine the two statements. Let the present ages of Manisha and her mother be x and y respectively. As per statement 1, y = x + 24 As per statement 2, (x + 5)/(y + 5) = 3/5 Or 5x + 25 = 3y + 15 Or 3y \u2013 5x = 10 Or 3(x + 24) \u2013 5x = 10 Or 3x + 72 \u2013 5x = 10 Or 2x = 62 Or x = 31 So, Manisha is 31 years old at present. Both statements together are sufficient to answer the question."
+    },
+    {
+      "type": "text",
+      "content": "Q.50. Six lectures A B C D E and F, each of one hour duration, are scheduled between 8:00 am, and 2:00 p.m."
+    },
+    {
+      "type": "text",
+      "content": "Consider the Question and two Statements given below:"
+    },
+    {
+      "type": "text",
+      "content": "Question: Which lecture is in the third period?"
+    },
+    {
+      "type": "text",
+      "content": "Statement-1: Lecture F is preceded by A and followed by C"
+    },
+    {
+      "type": "text",
+      "content": "Statement-2: There is no lecture after lecture B."
+    },
+    {
+      "type": "question",
+      "question_no": 50,
+      "question_text": "Which one of the following is correct in respect of the Question and the Statements?",
+      "options": [
+        "(a) Statement-1 alone is sufficient to answer the question",
+        "(b) Statement-2 alone is sufficient to answer the question",
+        "(c) Both Statement-1 and Statement-2 are sufficient to answer the Question",
+        "(d) Both Statement-1 and Statement-2 are not sufficient to answer the Question"
+      ],
+      "correct_answer": "(d)",
+      "explanation": "It\u2019s pretty evident that neither of the two statements is sufficient alone. Even on combining the two, we get multiple possible cases: AFC_ _ B _AFC_B _ _ AFCB There may be even more cases as it\u2019s not necessary that A, F and C are consequent lectures. So, even by using both the statements we cannot determine the answer."
+    },
+    {
+      "type": "text",
+      "content": "Directions for the following 3 (three) Items: Read the following two passages and answer the items that follow the passages. Your answers to these items should be based on the passages only."
+    },
+    {
+      "type": "passage",
+      "text": null,
+      "questions": [
+        {
+          "type": "question",
+          "question_no": 51,
+          "question_text": "Which of the following statements best reflects the underlying tone of the passage?",
+          "options": [
+            "(a) Only an educated population can best make use of the benefits of economic progress.",
+            "(b) All economic development should be aimed at the creation of leisure.",
+            "(c) An increase in the educated population of a country leads to an increase in the happiness of its people.",
+            "(d) Use of machines should be encouraged in order to create a large leisured population."
+          ],
+          "correct_answer": "(a)",
+          "explanation": "Given that there is a leisured population due to mechanization of economy, the author discusses how to best channelize this leisured population. This makes option (d) incorrect. Let\u2019s consider the other options. Option (a) is correct: The passage clearly outlines the advantages of an educated population. It is happy; it is aware of the intelligent activities and interests to make best use of the leisure time; it enjoys the technical knowledge etc. The use of ONLY makes it an extreme statement. Let\u2019s put this answer option on hold and consider other options. Option (b) is incorrect. The passage only touches upon how to best leverage the leisure time due to mechanization in the economy. It would be an exaggeration to infer that ALL economic development should lead to creation of leisure. Moreover, the author has cautioned that too much of leisure can be tedious, and has recommended that education is a necessity to best use leisure time. Option (c) is incorrect. Refer to the line: 'If a leisured population has to be happy, it must be an educated population\u2026' This line restricts its domain to leisured population. For a leisured population to be happy, it must be educated. If it is not educated, the leisure time might be detrimental to the population. This analogy cannot be extrapolated to the non-leisure population also. Therefore, it would be incorrect to say that an increase in the educated population leads to an increase in happiness among people. Option (d) is incorrect, as already discussed above, at the beginning of the explanation. So, from the above discussion, despite its extreme nature, option (a) is the most appropriate amongst all the provided options."
+        }
+      ]
+    },
+    {
+      "type": "passage",
+      "text": null,
+      "questions": [
+        {
+          "type": "question",
+          "question_no": 52,
+          "question_text": "With reference to the passage, which one of the following statements is correct?",
+          "options": [
+            "(a) It is not possible for adults to feel thrilled by presents.",
+            "(b) There can be more than one reason why adults feel less thrilled by presents.",
+            "(c) The author does not know why adults feel less thrilled by presents.",
+            "(d) Adults have less capacity to feel the joy of loving or being loved."
+          ],
+          "correct_answer": "(b)",
+          "explanation": "Option (a) incorrect: This option is an extreme exaggeration of what the author conveys in the passage. The author only speaks about a tendency for adults to be less thrilled by happy events- He mentions giving and receiving presents to depict one example for the same. The author nowhere makes any assertion or inference that adults cannot be thrilled by presents at all. In fact, (s)he suggests that adults could be happy like children too but only if they would be a little less cautious and sceptical about things- 'Their joys are clear and complete, because they have not yet learnt always to add 'but' to every proposition. Perhaps we are too cautious, too anxious, too sceptical. Perhaps some of our cares would shrink if we thought less about them and entered with more single-minded enjoyment into the happiness that come our way.' Option (b) correct: The author states that adults feel less thrilled due several reasons. For example, (based on the passage) looking too forward or too far backward, being too cautious, too anxious, too"
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "content": "skeptical etc."
+    },
+    {
+      "type": "instruction",
+      "content": "Option (c) incorrect: The author, as per the passage, has properly reasoned why adults dont feel happy with presents, For example, the author reasons, \u201cIf presents bring less thrill now that we are grown up, perhaps it is because we have too much already, or perhaps it is because we have lost the fullness of the joy of giving and with it the fullness of the joy of receiving.\u201d and \u201cPerhaps we are too cautious, too anxious, too sceptical.\u201d Hence this option is incorrect."
+    },
+    {
+      "type": "instruction",
+      "content": "Option (d) incorrect: The author does not talk about the \u201ccapacity\u201d of the adult to feel loved or joy. The author only focuses only on the reasons why an adult should, but does not, feel thrilled."
+    },
+    {
+      "type": "question",
+      "question_no": 53,
+      "question_text": "The author of the passage is against",
+      "options": [
+        "(a) worrying too much about the past and future",
+        "(b) being in the habit of thinking about presents",
+        "(c) not being thrilled by new things",
+        "(d) giving and receiving joy only partially"
+      ],
+      "correct_answer": "(a)",
+      "explanation": "Option (a) is correct: Worrying too much about the past and future is the result of excessive thinking which is reflected in the passage in the lines, \u201cperhaps we are too cautious, too anxious, too sceptical\u201d. Hence option (a) is correct."
+    },
+    {
+      "type": "instruction",
+      "content": "Option (b) is incorrect: The author is arguing for thinking about the present and living it to the fullest. The author argues that adults, like children, must not look forward or far backward. The focus should be on living with joy and completeness. Hence this option is incorrect."
+    },
+    {
+      "type": "instruction",
+      "content": "Option (c) is incorrect: The author reasons why adults feel less thrilled by presents, i.e. \u201cbecause we have too much already, or perhaps it is because we have lost the fullness of the joy of giving and with it the fullness of the joy of receiving. Children's fears are poignant, their miseries are acute, but they do not look too forward nor too far backward. Their joys are clear and complete, because they have not yet learnt always to add 'but' to every proposition. Perhaps we are too cautious, too anxious, too sceptical.\u201d"
+    },
+    {
+      "type": "instruction",
+      "content": "Option (d) is incorrect: The author is against giving and receiving joy only partially, but it is only one of the objections. Hence this option is incorrect."
+    },
+    {
+      "type": "question",
+      "question_no": 54,
+      "question_text": "Let A, B and C represent distinct non-zero digits. Suppose x is the sum of all possible 3-digit numbers formed by A, B and C without repetition. Consider the following statements: 1. The 4-digit least value of x is 1332. 2. The 3-digit greatest value of x is 888 Which of the above statements is/are correct?",
+      "options": [
+        "(a) 1 only",
+        "(b) 2 only",
+        "(c) Both 1 and 2",
+        "(d) Neither 1 nor 2"
+      ],
+      "correct_answer": "(a)",
+      "explanation": "The three-digit numbers have been represented by ABC, wherein A, B, and C are non-zero digits. Using 3 distinct digits we can make 3 \u00d7 2 \u00d7 1 = 6 three-digit numbers. So, x will be the sum of these 6 three-digit numbers. We need to find the two values of x closest to 1000, one just below it (which will be the greatest 3-digit value of x), and the other just above it (which will be the lowest 4-digit value of x). Now, we have to do a bit of hit and try, so that the value of x reaches close to 1000. Let the three digits be the minimum possible ones, i.e. 1, 2, and 3. So, we get x = 123 + 132 + 213 + 231 + 312 + 321 = 1332. This is the least possible value of x. So, statement 1 is correct, but statement 2 is incorrect."
+    },
+    {
+      "type": "question",
+      "question_no": 55,
+      "question_text": "There is a numeric lock which has a 3-digit PIN. The PIN contains digits 1 to 7. There is no repetition of digits. The digits in the PIN from left to right are in decreasing order. Any two digits in the PIN differ by at least 2. How many maximum attempts does one need to find out the PIN with certainty?",
+      "options": [
+        "(a) 6",
+        "(b) 8",
+        "(c) 10",
+        "(d) 12"
+      ],
+      "correct_answer": "(c)",
+      "explanation": "The PIN contains three digits out of \u2013 1, 2, 3, 4, 5, 6, and 7. Now, there is no repetition of digits, digits are in decreasing order from left to right, and any two digits in the PIN differ by at least 2. The maximum attempts will be equal to all the possible combinations of the PIN. Let us consider the various possible cases: Case I: The rightmost digit is 1. The possible combinations are: 531, 631, 731, 641, 741, 751 (i.e. 6 possible combinations). Case II: The rightmost digit is 2. The possible combinations are: 642, 742, 752 (i.e. 3 possible combinations). Case III: The rightmost digit is 3. The possible combinations are: 753 (i.e. 1 possible combination). The rightmost digit cannot be more than 3. So, the total number of possible combinations of the PIN = 6 + 3 + 1 = 10."
+    },
+    {
+      "type": "question",
+      "question_no": 56,
+      "question_text": "There are eight equidistant points on a circle. How many right-angled triangles can be drawn using these points as vertices and taking the diameter as one side of the triangle?",
+      "options": [
+        "(a) 24",
+        "(b) 16",
+        "(c) 12",
+        "(d) 8"
+      ],
+      "correct_answer": "(a)",
+      "explanation": "In the following figure, we have drawn eight equidistant points on a circle - A, B, C, D, E, F, G, and H. When we consider AE as the diameter and one side of the right-angled triangle, we can draw 6 right-angled triangles. Similarly, we consider BF as the diameter and one side of the right-angled triangle, we can draw 6 right-angled triangles. We can do the same when we consider CG and DH as the diameter and one side of the right-angled triangle. Hence, the total number of right-angled triangles that can be drawn = 6 + 6 + 6 + 6 = 24."
+    },
+    {
+      "type": "question",
+      "question_no": 57,
+      "question_text": "24 men and 12 women can do a piece of work in 30 days. In how many days can 12 men and 24. women do the same piece of work?",
+      "options": [
+        "(a) 30 days",
+        "(b) more than 30 days",
+        "(c) Less than 30 days or more than 30 days",
+        "(d) Data is inadequate to draw any conclusion"
+      ],
+      "correct_answer": "(d)",
+      "explanation": "Since the comparative efficiencies of man and women are not known, we cannot determine the time taken by 12 men and 24 women to complete the given work. Hence, the data is inadequate to draw any conclusion."
+    },
+    {
+      "type": "question",
+      "question_no": 58,
+      "question_text": "What is the remainder when 91x92x93x94x95x96x97x98x99 is divided by 1261?",
+      "options": [
+        "(a) 3",
+        "(b) 2",
+        "(c) 1",
+        "(d) 0"
+      ],
+      "correct_answer": "(d)",
+      "explanation": "Given expression = 91 \u00d7 92 \u00d7 93 \u00d7 94 \u00d7 95 \u00d7 96 \u00d7 97 \u00d7 98 \u00d7 99 = X (let). 1261 = 1 \u00d7 13 \u00d7 97. So, its factors are 13 and 97. Since in expression X, multiples of 13 and 97 are there, 1261 will completely divide the expression X. Hence, the remainder = 0."
+    },
+    {
+      "type": "question",
+      "question_no": 59,
+      "question_text": "Consider the following statements in respect of a rectangular sheet of length 20 cm and breadth 8 cm: 1. It is possible to cut the sheet exactly into 4 square sheets. 2. It is possible to cut the sheet into 10 triangular sheets of equal area. Which of the above statements is are correct?",
+      "options": [
+        "(a) 1 only",
+        "(b) 2 only",
+        "(c) Both 1 and 2",
+        "(d) Neither 1 nor 2"
+      ],
+      "correct_answer": "(c)",
+      "explanation": "The rectangle is of dimensions 20 cm \u00d7 8 cm. Statement I: You may think that as the area of rectangle is not a perfect square, it is not possible to cut it into exactly 4 square sheets. But there\u2019s a catch. The statement never says that the 4 squares have to be equal in area. We can do so as follows: Statement II: You may think that we can cut the rectangle into 8 triangles of equal area (as shown below), but not in 10. But again, this can be done. It has been shown below: Hence, both statements 1 and 2 are correct."
+    },
+    {
+      "type": "question",
+      "question_no": 60,
+      "question_text": "When 70% of a number x is added to another number y, the sum becomes 165% of the value of y. When 60% of the number x is added to another number z, then the sum becomes 165% of",
+      "options": [],
+      "correct_answer": "",
+      "explanation": ""
+    },
+    {
+      "type": "question",
+      "question_no": 1,
+      "question_text": "the value of z. which one of the following is correct?",
+      "options": [
+        "(a) z < x < y",
+        "(b) x < y < z",
+        "(c) y < x < z",
+        "(d) z < y < x"
+      ],
+      "correct_answer": "(a)",
+      "explanation": "According to the question, 0.7 x + y = 1.65 y Or 0.7 x = 0.65 y Or x/y = 0.65/0.70, which is less than 1. Hence, x < y   \u2026..(i) Now, 0.6 x + z = 1.65 z Or 0.6 x = 0.65 z Or x/z = 0.65/0.60, which is greater than 1. Hence, x > z     \u2026..(ii) From inequalities (i) and (ii), we get: z < x < y"
+    },
+    {
+      "type": "passage",
+      "text": "Directions for the following 3 (three) items: Read the following two passages and answer the items that follow the passages. Your answers to these items should be based on the passages only.",
+      "questions": []
+    },
+    {
+      "type": "passage",
+      "text": "Passage\u20131 The majority of people who fail to accumulate money sufficient for their needs, are generally, easily influenced by the opinions of others. They permit the newspapers and the gossiping neighbours to do their thinking for them. Opinions are the cheapest commodities on the earth. Everyone has a flock of opinions ready to be wished upon by anyone who will accept them. If you are influenced by opinions when you reach decisions, you will not succeed in any undertaking.",
+      "questions": [
+        {
+          "type": "question",
+          "question_no": 61,
+          "question_text": "Which one of the following is implied by the passage?",
+          "options": [
+            "(a) Most of the people do not accumulate money for their needs.",
+            "(b) Most of the people never fail to accumulate money for their needs.",
+            "(c) There are people who fail to accumulate money for their needs.",
+            "(d) There is no need to accumulate money."
+          ],
+          "correct_answer": "(c)",
+          "explanation": "Option (a) is incorrect as the passage is referring to those people who are not able to accumulate sufficient money to meet their needs. It does not say what proportion of people are able to able to or fail to accumulate money. Thus, statement 1 that most people do not accumulate money to meet their needs is not implied by the passage. Option (b) is incorrect Similarly, the implication given in statement 2 that most people do not fail to accumulate money is also incorrect. Option (c) is correct as the passage talks about the majority of those people who are not able to accumulate sufficient money to meet their needs. This would imply that there are groups of people who are not able to accumulate money to meet their needs. Option (d) is incorrect: The passage does refer to the necessity for accumulating money to meet one\u2019s needs. And if one does not, then (s)he will be misled by a plethora of (incorrect) opinions and would ultimately never succeed in life. This is reflected in the lines 'The majority of people who fail to accumulate money sufficient for their needs, are generally, easily influenced by the opinions of others.' and 'If you are influenced by opinions when you reach decisions, you will not succeed in any undertaking.'"
+        },
+        {
+          "type": "question",
+          "question_no": 62,
+          "question_text": "What is the main idea of the passage?",
+          "options": [
+            "(a) People should not be influenced by the opinions of others.",
+            "(b) People should accumulate as much money as they can.",
+            "(c) People should neither give nor accept the opinions.",
+            "(d) People will succeed in any undertaking if they do not accept any opinion at all"
+          ],
+          "correct_answer": "(a)",
+          "explanation": "Option (a) is correct as the passage concludes by saying that to succeed in any undertaking, people should not be influenced by the opinion of others when they make decisions. Option (b) is incorrect as the author is not suggesting a need to 'accumulate' money as such, beyond one\u2019s needs. It only talks about 'money sufficient for their needs' and not as much money as possible. Option (c) is incorrect as although the passage states that opinions are the cheapest commodity, it does not suggest that people should stop giving or accepting advice altogether. There may be genuine and important advice, which might be important and vital. Understanding the entire tone of the passage, the author seems to only makes a case against the unwarranted advice, which would harm rather than benefit people. So, it prescribes that people should not be influenced by others\u2019 opinions easily while reaching decisions. Option (d) is incorrect as the passage says that people will not succeed if they accept others\u2019 opinions when reaching a decision. However, we cannot infer that if one does not accept such opinions, the person would succeed in their enterprise, as this might be dependent on many other factors as well."
+        }
+      ]
+    },
+    {
+      "type": "passage",
+      "text": "Passage\u20132 'The social order is a sacred right which is the basis of all other rights. Nevertheless, this right does not come from nature, and must therefore be founded on conventions.'",
+      "questions": [
+        {
+          "type": "question",
+          "question_no": 63,
+          "question_text": "With reference to the above passage which of the following statements is/are correct?",
+          "options": [
+            "1. Conventions are the sources of rights of man.",
+            "2. Rights of man can be exercised only when there is a social order."
+          ],
+          "correct_answer": "(c)",
+          "explanation": "Statement (1) is correct. The passage clearly mentions, 'all other rights. Nevertheless, this right does not come from nature, and must therefore be founded on conventions.' The purpose of the first line, 'The social order is a sacred right which is the basis of all other rights.' is to establish that one cannot enjoy any right if there is no social order present. Statement (2) correct. The first line of the passage categorically states that the right of social order is the basis of all other rights. From this we can safely infer that the rights of man can be exercised only when there is social order. This is an extreme stand, but is correct as per the passage."
+        },
+        {
+          "type": "question",
+          "question_no": 64,
+          "question_text": "Two candidates X and Y contested an election. 80% of voters cast their vote and there were no invalid votes. There was no NOTA (None of the above) option. X got 56% of the votes cast and won by 1440 votes. What is the total number of voters in the voters list?",
+          "options": [
+            "(a) 15000",
+            "(b) 12000",
+            "(c) 9600",
+            "(d) 5000"
+          ],
+          "correct_answer": "(a)",
+          "explanation": "Let total number of voters in the voter list be x. So, Number of casted votes = 0.8x X got 56% of the casted votes. So, Y got 44% of the casted votes. Thus, X won by (56 \u2013 44)%, i.e. 12% of the casted votes. According to the question, 12% of 0.8x = 1440 Or x = (1440 \u00d7 100)/(0.8 \u00d7 12) = 15000 Thus, the total number of voters in the voter list is 15000."
+        },
+        {
+          "type": "question",
+          "question_no": 65,
+          "question_text": "What is the smallest number greater than 1000 that when divided by any one of the numbers 6, 9, 12, 15, 18 leaves a remainder of 3?",
+          "options": [
+            "(a) 1063",
+            "(b) 1073",
+            "(c) 1083",
+            "(d) 1183"
+          ],
+          "correct_answer": "(c)",
+          "explanation": "LCM of 6, 9, 12, 15 and 18 = 180 Smallest number greater than 1000 which is a multiple of 180 is 1080. So, Required number = 1080 + 3 = 1083"
+        },
+        {
+          "type": "question",
+          "question_no": 66,
+          "question_text": "Let p be a two-digit number and q be the number consisting of same digits written in reverse order. If p x q = 2430, then what is the difference between p and q?",
+          "options": [
+            "(a) 45",
+            "(b) 27",
+            "(c) 18",
+            "(d) 9"
+          ],
+          "correct_answer": "(d)",
+          "explanation": "p is a two-digit number, and q is the number consisting of the same digits in the reverse order. It\u2019s given that, p \u00d7 q = 2430 The last digit of the product is 0, which indicates that one two of the digits must be 5. Let the remaining digit be x. So, p = x5 = x \u00d7 10 + 5 = 10x + 5 Reverse number, q = 5x = 5 \u00d7 10 + x = 50 + x According to the question, (10x + 5) \u00d7 (50 + x) = 2430 Or 500x + 10x2 + 250 + 5x = 2430 Or 10x2 + 505x \u2013 2180 = 0 Or 2x2 + 101x \u2013 436 = 0 Or x(2x + 109) \u2013 4(2x + 109) = 0 Or (x \u2013 4)(2x + 109) = 0 Or x = 4, or \u2013109/2 (can be neglected) So, x = 4 Therefore, p = x5 = 45 And q = 54 Required difference = 54 \u2013 45 = 9"
+        },
+        {
+          "type": "question",
+          "question_no": 67,
+          "question_text": "Consider the following statements in respect of two natural numbers p and q such that p is a prime number and q is a composite number: 1. p x q can be an odd number. 2. q / p can be a prime number. 3. p + q can be a prime number. Which of the above statements are correct?",
+          "options": [
+            "1 and 2 only",
+            "2 and 3 only",
+            "1 and 3 only",
+            "1, 2 and 3"
+          ],
+          "correct_answer": "(d)",
+          "explanation": "p is a prime number. So, p can be 2, 3, 5, 7, 11, 13, .\u2026. q is a composite number. So, q can be 4, 6, 8, 9, 10, .\u2026. Statement 1: p \u00d7 q can be an odd number, e.g. (3 \u00d7 9 = 27). Thus, statement 1 is correct. Statement 2: q/p can be a prime number, e.g. (4/2 = 2). Thus, statement 2 is correct. Statement 3: p + q can be a prime number, e.g. (3 + 4 = 7). Thus, statement 3 is correct. Thus, all the statements 1, 2 and 3 are correct."
+        },
+        {
+          "type": "question",
+          "question_no": 68,
+          "question_text": "Consider the following statements: 1. Between 3:16 p.m. and 3:17 p.m., both hour hand and minute hand coincide. 2. Between 4:58 p.m. and 4:59 p.m., both minute hand and second hand coincide. Which of the above statements is/are correct?",
+          "options": [
+            "1 only",
+            "2 only",
+            "Both 1 and 2",
+            "Neither 1 nor 2"
+          ],
+          "correct_answer": "(c)",
+          "explanation": "From statement 1: At 3 o\u2019clock, the minute hand is 15 minute spaces apart from hour hand. To be coincident, it must gain 15 minute spaces. We know that, 55 minutes are gained in 60 minutes. So, 15 minutes are gained in (60/55) \u00d7 15 = 180/11 minutes = 16.36 minutes. Thus, hour hand and minute hand will coincide at 3:16:36, which is between 3:16 pm and 3:17 p.m. Hence, statement 1 is correct. From statement 2: At 4:58 p.m. the second hand is at 12. In the next minute, the second will definitely cross the minute hand. Thus, between 4:58 p.m. and 4:59 p.m. the minute hand and second hand will definitely coincide. Hence, statement 2 is correct. Thus, both statements 1 and 2 are correct."
+        },
+        {
+          "type": "question",
+          "question_no": 69,
+          "question_text": "There are two containers X and X contains 100 ml of milk and Y contains 100 ml of water. 20 ml of milk from X is transferred to Y. After mixing well, 20 ml of the mixture in Y is transferred back to X. If m denotes the proportion of milk in X and n denotes the proportion of water in Y, then which one of the following is correct?",
+          "options": [
+            "m=n",
+            "m> n",
+            "m<n",
+            "Cannot be determined due to insufficient data"
+          ],
+          "correct_answer": "(a)",
+          "explanation": "Container X contains 100 ml of milk and container Y contains 100 ml of water. If 20 ml of milk transferred from container X to container Y, then: Amount of milk left in container X = 100 \u2013 20 = 80 ml. Amount of solution in container Y becomes = 100 ml water + 20 ml milk = 120 ml. Ratio of milk and water in container Y = 20 : 100 = 1 : 5. Amount of milk in 20 ml solution of container Y = (1/6) \u00d7 20 = 3.33 ml. Amount of water in 20 ml solution = 20 \u2013 3.33 = 16.67 ml. If 20 ml of this solution is transferred from container Y to container X, then: Amount of solution in container X becomes = (80 + 3.33), i.e. 83.33 ml milk + 16.67 ml water. Amount of solution in container Y becomes = (100 \u2013 16.67), i.e. 83.33 ml water + (20 \u2013 3.33), i.e. 16.67 ml milk. As per the question, m denotes the proportion of milk in X, and n denotes the proportion of water in Y. So, m = 83.33 ml and n = 83.33 ml. Thus, m = n."
+        },
+        {
+          "type": "question",
+          "question_no": 70,
+          "question_text": "A pie chart gives the expenditure on five different items A, B, C, D and E in a household. If B, C, D and E correspond to 90\u00b0, 50\u00b0, 45\u00b0 and 75\u00b0 respectively, then what is the percentage of expenditure on item A?",
+          "options": [
+            "112/9",
+            "125/6",
+            "155/9",
+            "250/9"
+          ],
+          "correct_answer": "(d)",
+          "explanation": "A pie-chart corresponds to 360\u00b0. Items B, C, D and E correspond to 90\u00b0, 50\u00b0, 45\u00b0 and 75\u00b0 respectively on the pie chart. Angle corresponding to A in the pie-chart = 360\u00b0 \u2013 (90\u00b0 + 50\u00b0 + 45\u00b0 + 75\u00b0) = 100\u00b0. So, Percentage of expenditure on item A = (100/360) \u00d7 100 = (250/9) %."
+        }
+      ]
+    },
+    {
+      "type": "passage",
+      "text": "To encourage research is one of the functions of a university. Contemporary universities have encouraged research, not only in those cases where research is necessary, but on all sorts of entirely unprofitable subjects as well. Scientific research is probably never completely valueless. However silly and insignificant it may seem, however mechanical and unintelligent the labours of the researchers, there is always a chance that the results may be of value to the investigator of talent, who can use the facts collected for him by uninspired but industrious researchers as the basis of some fruitful generalization. But where research is not original, but consists in the mere rearrangement of existing materials, where its objects is not scientific but literary or historical, then there is a risk of the whole business becoming merely futile.",
+      "questions": [
+        {
+          "type": "question",
+          "question_no": 71,
+          "question_text": "The author's assumption about scientific research is that",
+          "options": [
+            "it is never very valuable",
+            "it is sometimes very valuable",
+            "it is never without some value",
+            "it is always very valuable"
+          ],
+          "correct_answer": "(c)",
+          "explanation": "Option (a) is incorrect as the author clearly lays out a situation where seemingly silly and insignificant research, when used by an intelligent investigator can be very valuable. The following lines from the passage testify the same- 'Scientific research is probably never completely valueless. However silly and insignificant it may seem, however mechanical and unintelligent the labours of the researchers, there is always a chance that the results may be of value to the investigator of talent, who can use the facts collected for him by uninspired but industrious researchers as the basis of some fruitful generalization.' Option (b) is incorrect. The author has vividly given stated that research is always (and not sometimes) valuable. This is exemplified in the lines, 'Scientific research is probably never completely valueless. However silly and insignificant it may seem, however mechanical and unintelligent the labours of the researchers, there is always a chance that the results may be of value to the investigator of talent, who can use the facts collected for him by uninspired but industrious researchers as the basis of some fruitful generalization.' The last part of the passage that mentions 'But where research is not original, but consists in the mere rearrangement of existing materials, where its objects is not scientific but literary or historical, then there is a risk of the whole business becoming merely futile.' is referring to non scientific research, whereas the question is specifically asking about scientific research."
+        }
+      ]
+    },
+    {
+      "type": "passage",
+      "text": "and historical. This indicates that there is a situation when the research is not valuable. Thus, the research is not always very valuable.",
+      "questions": [
+        {
+          "type": "question",
+          "question_no": 72,
+          "question_text": "According to the author",
+          "options": [
+            "(a) not many research results can be of value to an intelligent investigator",
+            "(b) a research result is always valuable to an intelligent investigator",
+            "(c) any research result can be of value to an intelligent investigator",
+            "(d) a research result must always be of some value to an intelligent investigator"
+          ],
+          "correct_answer": "(c)",
+          "explanation": "Option (a) is incorrect as the author is not discussing how many results are of value to an intelligent investigator. In the lines 'there is always a chance that the results may be of value to the investigator of talent', the author is suggesting a high possibility of the result of research being valuable, but it does not indicate or imply how many of these results are valuable or invaluable. Option (b) is incorrect: Continuing on the previous option\u2019s explanation, one can also see that any result may be of significant value, but does not mean that it is always of value to an intelligent investigator. This is exemplified in the lines 'But where research is not original, but consists in the mere rearrangement of existing materials, where its objects is not scientific but literary or historical, then there is a risk of the whole business becoming merely futile.' Option (c) is correct: From the lines 'Scientific research is probably never completely valueless' we can infer that any result can be valuable and the lines, 'there is always a chance that the results may be of value to the investigator of talent, who can use the facts collected for him by uninspired but industrious researchers as the basis of some fruitful generalization' show the possibility that any result can be valuable. Option (d) is incorrect: The passage does not suggest that it is a must that the research must be of some value to the intelligent investigator! It suggests that a seemingly futile research effort would find utility in the eyes of those who can utilise and make benefit of it and that research never goes waste."
+        }
+      ]
+    },
+    {
+      "type": "passage",
+      "text": "How best can the problems of floods and droughts be addressed so that the losses are minimal and the system becomes resilient? In this context, one important point that needs to be noted is that India gets 'too much' water (about 75% of annual precipitation) during 120 days (June to September) and 'too little' for the remaining 245 days. This skewed water availability has to be managed and regulated for its consumption throughout the year.",
+      "questions": [
+        {
+          "type": "question",
+          "question_no": 73,
+          "question_text": "Which one of the following best reflects the practical, rational and lasting solutions?",
+          "options": [
+            "(a) Constructing huge concrete storage tanks and canals across the country",
+            "(b) Changing the cropping patterns and farming practices",
+            "(c) Interlinking of rivers across the country",
+            "(d) Buffer stocking of water through dams and recharging aquifers"
+          ],
+          "correct_answer": "(d)",
+          "explanation": "Option (a) is incorrect as constructing huge concrete storage tanks and canals across the country is not the most rational and practical solution due to the large capital expenditure associated with such dams, their viability in seismically active zones, and other socio-environmental problems associated with them. Also, the passage only discusses the temporal aspect of the same- 'too much' water (about 75% of annual precipitation) during 120 days (June to September) and 'too little' for the remaining 245 days.'- and not the spatial aspect. Whereas the solution in this option discusses a spatial component as well. Therefore, it does not quite follow the passage and goes beyond its scope. Option (b) is incorrect Apart from the reason discussed above, changing the cropping patterns and farming practices would not lead to practical water management as excess water still can not be utilized or regulated which would flow to the oceans and can not be available for other times. Option (c) is incorrect as the interlinking of rivers is a controversial issue due to sustainability issues associated with it. For example, the displacement of people, the disturbance of the ecosystem of riparian regions, and the loss of biodiversity and productive lands. Option (d) is correct Buffer stocking of water through dams and recharging aquifers would mean that the excess water is being stored in a practical and cost-effective manner. Also, no sustainability issues are involved with it. Recharged aquifer would also ensure that groundwater is available for a longer duration and during the off rainy seasons as well."
+        },
+        {
+          "type": "question",
+          "question_no": 74,
+          "question_text": "15 x 14 x 13 x... x 3 x 2 x 1 = 3m x n Where m and n are positive integers, then what is the maximum value of m?",
+          "options": [
+            "(a) 7",
+            "(b) 6",
+            "(c) 5",
+            "(d) 4"
+          ],
+          "correct_answer": "(b)",
+          "explanation": "15 \u00d7 14 \u00d7 13 \u00d7 12 \u00d7 11 \u00d7 10 \u00d7 9 \u00d7 8 \u00d7 7 \u00d7 6 \u00d7 5 \u00d7 4 \u00d7 3 \u00d7 2 \u00d7 1 = 3m \u00d7 n Numbers which are multiple of 3 = 15 \u00d7 12 \u00d7 9 \u00d7 6 \u00d7 3 = (3 \u00d7 5) \u00d7 (3 \u00d7 4) \u00d7 (3 \u00d7 3) \u00d7 (3 \u00d7 2) \u00d7 3 = 36 \u00d7 (5 \u00d74 \u00d7 2) Therefore, the maximum value of m is 6. Hence, option (b) is the correct answer."
+        },
+        {
+          "type": "question",
+          "question_no": 75,
+          "question_text": "What is the value of X in the sequence 2, 12, 36, 80, 150, X?",
+          "options": [
+            "(a) 248",
+            "(b) 252",
+            "(c) 258",
+            "(d) 262"
+          ],
+          "correct_answer": "(b)",
+          "explanation": "The pattern has been represented below: Hence, option (b) is the correct answer."
+        },
+        {
+          "type": "question",
+          "question_no": 76,
+          "question_text": "One non-zero digit, one vowel and one consonant from English alphabet (in capital) are to be used in forming passwords, such that each password has to start with a vowel and end with a consonant. How many such passwords can be generated?",
+          "options": [
+            "(a) 105",
+            "(b) 525",
+            "(c) 945",
+            "(d) 1050"
+          ],
+          "correct_answer": "(c)",
+          "explanation": "One non-zero digit = 1, 2, 3, 4, 5, 6, 7, 8 or 9, i.e. 9 possible values. There are 5 vowels and 21 consonants in English alphabet. The password starts with a vowel and ends with a consonant. So, the digit will come at the middle. The number of such passwords = 5 \u00d7 9 \u00d7 21 = 945 Hence, 945 such passwords can be generated."
+        },
+        {
+          "type": "question",
+          "question_no": 77,
+          "question_text": "There are 9 cups placed on a table arranged in equal number of rows and columns out of which 6 cups contain coffee and 3 cups contain tea. In how many ways can they be arranged so that each row should contain at least one cup of coffee?",
+          "options": [
+            "(a) 18",
+            "(b) 27",
+            "(c) 54",
+            "(d) 81"
+          ],
+          "correct_answer": "(d)",
+          "explanation": "The cups will be arranged in a 3 \u00d7 3 matrix. Now, let\u2019s consider all the possible cases. Case 1: Each row has 2 cups of coffee and 1 cup of tea. C C T C C T C C T One tea cup can be placed in a row in 3 ways. So, Possible arrangements wherein all rows have 2 coffee cups= 3\u00d73\u00d73 = 27 ways Case 2: One row has 3 cups of coffee. In such a case, one of the rows will have 2 cups of coffee and the other will have 1 cup of coffee. C C C All \u2018C\u2019 can be arranged in 1way C C T 2 C can be arranged in 3 ways C T T 1 C can be arranged in 3 ways If the first row has 3 coffee cups, then the possible arrangements = 3\u00d73 = 9 ways The rows having 3, 2 and 1 coffee cups can be arranged in 3! = 6 ways So, Possible arrangements wherein one row has 3 coffee cups = 9 \u00d7 6 ways = 54 ways Therefore, total possible arrangements = 27 + 54 = 81 ways Hence, option (d) is the correct answer."
+        },
+        {
+          "type": "question",
+          "question_no": 78,
+          "question_text": "The sum of three consecutive integers is equal to their product. How many such possibilities are three?",
+          "options": [
+            "(a) Only one",
+            "(b) Only two",
+            "(c) Only there",
+            "(d) No such possibility is there"
+          ],
+          "correct_answer": "(c)",
+          "explanation": "Let the 3 consecutive numbers be x - 1, x, and x + 1 According to the question, (x \u2013 1) + x + (x + 1) = (x - 1) \u00d7 x \u00d7 (x + 1)"
+        }
+      ]
+    },
+    {
+      "type": "passage",
+      "text": "50 www.visionias.in \u00a9Vision IAS \u21d2 3x = x \u00d7 (x2 - 1) \u21d2 3x = x3 \u2013 x \u21d2 x3 \u2013 4x = 0 \u21d2 x (x2 \u2013 4) = 0 \u21d2 x = 0, 2 or -2 Therefore, there are only 3 such possibilities. Hence, option (c) is the correct answer. Wrong Method: Let the 3 consecutive numbers be x, x + 1 and x + 2 According to the question, x + (x + 1) + (x + 2) = x \u00d7 (x + 1) \u00d7 (x + 2) \u21d2 3x + 3 = x \u00d7 (x + 1) \u00d7 (x + 2) \u21d2 3(x + 1) = x \u00d7 (x + 1) \u00d7 (x + 2) \u21d2 3 = x(x + 2) \u21d2 x2 +2x \u2013 3 = 0 \u21d2 x2 +3x \u2013 x \u2013 3 = 0 \u21d2 x (x + 3) - 1(x + 3) = 0 \u21d2 (x - 1) (x + 3) = 0 \u21d2 x = 1 or -3 As per this, there are only 2 such possibilities.",
+      "questions": [
+        {
+          "type": "question",
+          "question_no": 79,
+          "question_text": "What is the number of numbers of the form 0.XY, where X and Y are distinct non-zero digits?",
+          "options": [
+            "(a) 72",
+            "(b) 81",
+            "(c) 90",
+            "(d) 100"
+          ],
+          "correct_answer": "(a)",
+          "explanation": "Since, X and Y are distinct non-zero digits \u2234 The required number of numbers of the form 0.XY = 9 \u00d7 8 = 72 Hence, option (a) is the correct answer."
+        },
+        {
+          "type": "question",
+          "question_no": 80,
+          "question_text": "The average weight of A, B, C is 40 kg, the average weight of B, D, E is 42 kg and the weight of F is equal to that of B. What is the average weight of A, B, C, D, E and F?",
+          "options": [
+            "(a) 40.5 kg",
+            "(b) 40.8 kg",
+            "(c) 41 kg",
+            "(d) Cannot be determined as data is inadequate"
+          ],
+          "correct_answer": "(c)",
+          "explanation": "According to the question, (A + B + C)/3 = 40 Or (A + B + C) = 120 \u2026\u2026\u2026(i) (B + D + E)/3 = 42 Or (B + D + E) = 126 ..\u2026\u2026(ii) F = B .\u2026\u2026.(iii) From equations (i) and (ii), we get: A + B + C + B + D + E = 120 + 126 Or A + B + C + D + E + B = 246 Or A + B + C + D + E + F = 246 (as F = B) So, average weight of A + B + C + D + E + F = 246/6 = 41"
+        }
+      ]
+    },
+    {
+      "type": "passage",
+      "text": "Copyright \u00a9 by Vision IAS All rights are reserved. No part of this document may be reproduced, stored in a retrieval system or transmitted in any form or by any means, electronic, mechanical, photocopying, recording or otherwise, without prior permission of Vision IAS.",
+      "questions": []
+    }
+  ]
+}

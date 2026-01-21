@@ -1,0 +1,1039 @@
+{
+  "exam_details": {
+    "title": "Vision IAS - CSAT Prelims 2023 Solution",
+    "subject": "CSAT (Civil Services Aptitude Test)",
+    "year": 2023
+  },
+  "questions": [
+    {
+      "question_number": 1,
+      "type": "Reading Comprehension",
+      "passage_text": "In India, the segregation of municipal waste at source is rare. Recycling is mostly with the informal sector. More than three-fourths of the municipal budget goes into collection and transportation, which leaves very little for processing/resource recovery and disposal. Where does waste-to-energy fit into all this? Ideally it fits in the chain after segregation (between wet waste and rest), collection, recycling, and before getting to the landfill. Which technology is most appropriate in converting waste to energy depends on what is in the waste (that is biodegradable versus non-biodegradable component) and its calorific value. The biodegradable component of India's municipal solid waste is a little over 50 per cent, and biomethanation offers a major solution for processing this.",
+      "question_text": "Based on the above passage, the following assumptions have been made:\n1. Collection, processing and segregation of municipal waste should be with government agencies.\n2. Resource recovery and recycling require technological inputs that can be best handled by private sector enterprises.\nWhich of the assumptions given above is/are correct?",
+      "options": {
+        "a": "1 only",
+        "b": "2 only",
+        "c": "Both 1 and 2",
+        "d": "Neither 1 nor 2"
+      },
+      "correct_answer": "d",
+      "explanation": "Statement 1 is incorrect: The passage nowhere makes any assertion indicating that collection, processing and segregation of municipal waste should be with government agencies. In fact, the passage suggests that 'More than three-fourths of the municipal budget goes into collection and transportation, which leaves very little for processing/resource recovery and disposal', indicating how the municipal system (under the government) is already stressed.\n\nStatement 2 is incorrect: The passage nowhere makes any assertion indicating that resource recovery and recycling require technological inputs that can be best handled by private sector enterprises. The passage only limits itself to saying that 'which technology is most appropriate in converting waste to energy depends on what is in the waste... and its calorific value.' and further that 'The biodegradable component of India's municipal solid waste is a little over 50 per cent, and biomethanation offers a major solution for processing this.' So, the passage makes a case for the mode of resource recovery and recycling, i.e., biomethanation, rather than which sector should perform it."
+    },
+    {
+      "question_number": 2,
+      "type": "Reading Comprehension",
+      "passage_text": "In India, the segregation of municipal waste at source is rare. Recycling is mostly with the informal sector. More than three-fourths of the municipal budget goes into collection and transportation, which leaves very little for processing/resource recovery and disposal. Where does waste-to-energy fit into all this? Ideally it fits in the chain after segregation (between wet waste and rest), collection, recycling, and before getting to the landfill. Which technology is most appropriate in converting waste to energy depends on what is in the waste (that is biodegradable versus non-biodegradable component) and its calorific value. The biodegradable component of India's municipal solid waste is a little over 50 per cent, and biomethanation offers a major solution for processing this.",
+      "question_text": "Which one of the following statements best reflects the crux of the passage?",
+      "options": {
+        "a": "Generation of energy from municipal solid waste is inexpensive.",
+        "b": "Biomethanation is the most ideal way of generating energy from municipal solid waste.",
+        "c": "Segregation of municipal solid waste is the first step in ensuring the success of waste-to-energy plants.",
+        "d": "The biodegradable component of India's municipal solid waste is not adequate to provide energy from waste efficiently/effectively."
+      },
+      "correct_answer": "c",
+      "explanation": "Option (a) is incorrect: The passage nowhere specifies or even dwells upon the cost of generation of energy from municipal solid waste.\n\nOption (b) is incorrect: The passage does state that 'The biodegradable component of India's municipal solid waste is a little over 50 per cent, and biomethanation offers a major solution for processing this.' However, 'major solution' cannot be equated with 'most ideal way' in the strict sense. Further, the question is asking us to suggest the crux of the passage. The fact about biomethanation offering a major solution is a solution to the crux of the passage, which is about the issue of the rarity of segregation of municipal waste at source and achieving waste-to-energy amidst such a challenging scenario.\n\nOption (c) is correct: The passage begins with laying the central theme that 'In India, the segregation of municipal waste at source is rare.' Further, it goes on to say, 'Where does waste-to-energy fit into all this? Ideally, it fits in the chain after segregation...'. This line lays the sequential chain of waste processing, which can further be re-aligned to generate energy. Hence from these lines, it is clear that the segregation of municipal solid waste is the first step in ensuring the success of waste-to-energy plants.\n\nOption (d) is incorrect: The passage clearly refutes this by mentioning that biomethanation offers a major solution."
+    },
+    {
+      "question_number": 3,
+      "type": "Reading Comprehension",
+      "passage_text": "There is a claim that organic farming is inherently safer and healthier. The reality is that because the organic farming industry is still young and not well-regulated in India, farmers and consumers, alike, are not only confused about what products are best for them, but sometimes use products in ways that could harm them as well. For example, since organic fertilizers are difficult to obtain on a large scale in India, farmers often use farmyard manure, which may contain toxic chemicals and heavy metals. Certain plant sprays, such as Datura flower and leaf spray, have an element called atropine. If it is not applied in the right dose, it can act on the nervous system of the consumer. Unfortunately, how much and when to use it are not well-researched or regulated issues.",
+      "question_text": "Based on the above passage, the following assumptions have been made:\n1. Organic farming is inherently unsafe for both farmers and consumers.\n2. Farmers and consumers need to be educated about eco-friendly food.\nWhich of the assumptions given above is/are correct?",
+      "options": {
+        "a": "1 only",
+        "b": "2 only",
+        "c": "Both 1 and 2",
+        "d": "Neither 1 nor 2"
+      },
+      "correct_answer": "b",
+      "explanation": "Statement 1 is incorrect: This statement is incorrect because of the use of the word 'inherently'. The passage states that 'The reality is that because the organic farming industry is still young and not well-regulated in India...'. Therefore, we must infer that organic farming is not inherently unsafe, but might be unsafe due to factors such as lack of regulation, lack of availability of fertilizers, or incorrect dosage.\n\nStatement 2 is correct: This assumption closely aligns with the content of the passage. The passage discusses the confusion among farmers and consumers due to the lack of regulation and research in the organic farming industry. This implies that there is a need for more education about what constitutes eco-friendly food and how it should be produced and consumed safely."
+    },
+    {
+      "question_number": 4,
+      "type": "Reading Comprehension",
+      "passage_text": "There is a claim that organic farming is inherently safer and healthier. The reality is that because the organic farming industry is still young and not well-regulated in India, farmers and consumers, alike, are not only confused about what products are best for them, but sometimes use products in ways that could harm them as well. For example, since organic fertilizers are difficult to obtain on a large scale in India, farmers often use farmyard manure, which may contain toxic chemicals and heavy metals. Certain plant sprays, such as Datura flower and leaf spray, have an element called atropine. If it is not applied in the right dose, it can act on the nervous system of the consumer. Unfortunately, how much and when to use it are not well-researched or regulated issues.",
+      "question_text": "Which one of the following statements best reflects the most logical, rational and practical message conveyed by the author of the passage?",
+      "options": {
+        "a": "In India, organic farming should not be promoted as a substitute for conventional farming.",
+        "b": "There are no safe organic alternatives to chemical fertilizers.",
+        "c": "In India, farmers need to be guided and helped to make their organic farming sustainable.",
+        "d": "The aim of organic farming should not be to generate huge profits as there is still no global market for its products."
+      },
+      "correct_answer": "c",
+      "explanation": "Option (a) is incorrect: It is a little extreme. The passage is using a cautionary, rather than an exaggerated, tone regarding organic farming. The author is nowhere found comparing or promoting conventional farming at the cost of organic farming.\n\nOption (b) is incorrect: This option is extreme. Nowhere has the author indicated that there are no safe organic alternatives. In fact, the author states 'since organic fertilizers are difficult to obtain on a large scale in India', implying that safe organic alternatives are present but not accessible or readily available.\n\nOption (c) is correct: The passage mentions that farmers and consumers are confused and sometimes use products in ways that could harm them. Therefore, we can correctly infer that in India, farmers need to be guided and helped to make their organic farming sustainable.\n\nOption (d) is incorrect: The passage does not discuss the profit or market aspect of organic farming."
+    },
+    {
+      "question_number": 5,
+      "type": "Reading Comprehension",
+      "passage_text": "Food consumption patterns have changed substantially in India over the past few decades. This has resulted in the disappearance of many nutritious foods such as millets. While food grain production has increased over five times since independence, it has not sufficiently addressed the issue of malnutrition. For long, the agriculture sector focused on increasing food production particularly staples, which led to lower production and consumption of indigenous traditional corps/grains, fruits and other vegetables, impacting food and nutrition security in the process. Further, intensive, monoculture agriculture practices can perpetuate the food and nutrition security problem by degrading the quality of land, water and food derived through them.",
+      "question_text": "Based on the above passage, the following assumptions have been made:\n1. To implement the Sustainable Development Goals and to achieve zero-hunger goal, monoculture agriculture practices are inevitable even if they do not address malnutrition.\n2. Dependence on a few crops has negative consequences for human health and the ecosystem.\n3. Government policies regarding food planning need to incorporate nutritional security.\n4. For the present monoculture agriculture practices, farmers receive subsidies in various ways and government offers remunerative prices for grains and therefore they do not tend to consider crop diversity.\nWhich of the above assumptions are valid?",
+      "options": {
+        "a": "1, 2 and 4 only",
+        "b": "2 and 3 only",
+        "c": "3 and 4 only",
+        "d": "1, 2, 3 and 4"
+      },
+      "correct_answer": "b",
+      "explanation": "Statement 1 is incorrect: The passage neither promotes monoculture nor refers to it as inevitable. In fact, it makes a case against it.\n\nStatement 2 is correct: The passage indicates that dependence on a few crops (staples) has negative consequences, evidenced by the disappearance of nutritious foods like millets and the impact on food/nutrition security and land/water quality.\n\nStatement 3 is correct: The passage mentions that increased food grain production has not sufficiently addressed malnutrition and that focus on staples impacted nutrition security. This makes a strong case for incorporating nutritional security in government policies.\n\nStatement 4 is incorrect: The passage does not mention anything about subsidies or reasons behind monoculture like remunerative prices."
+    },
+    {
+      "question_number": 6,
+      "type": "Quantitative Aptitude",
+      "question_text": "A box contains 14 black balls, 20 blue balls, 26 green balls, 28 yellow balls, 38 red balls and 54 white balls. Consider the following statements:\n1. The smallest number n such that any n balls drawn from the box randomly must contain one full group of at least one colour is 175.\n2. The smallest number m such that any m balls drawn from the box randomly must contain at least one ball of each colour is 167.\nWhich of the above statements is/are correct?",
+      "options": {
+        "a": "1 only",
+        "b": "2 only",
+        "c": "Both 1 and 2",
+        "d": "Neither 1 nor 2"
+      },
+      "correct_answer": "c",
+      "explanation": "Value of n:\nWe need the minimum balls drawn to guarantee one full group. Consider the worst-case scenario where we draw the maximum number of balls *without* completing any group:\nSelect 13 black (14-1), 19 blue (20-1), 25 green (26-1), 27 yellow (28-1), 37 red (38-1), and 53 white (54-1).\nTotal = 13 + 19 + 25 + 27 + 37 + 53 = 174 balls.\nIf we select one more ball (174 + 1 = 175), it must complete one of the groups. So Statement 1 is correct.\n\nValue of m:\nWe need the minimum balls drawn to guarantee at least one ball of *each* colour. Consider the worst-case scenario where we maximize balls without getting a specific colour (the one with the smallest count, which is black).\nSelect 20 blue, 26 green, 28 yellow, 38 red, and 54 white.\nTotal = 166 balls.\nNow, only black balls are left. The next ball drawn must be black, ensuring we have all colours. So $m = 166 + 1 = 167$. Statement 2 is correct."
+    },
+    {
+      "question_number": 7,
+      "type": "Logical Reasoning",
+      "question_text": "If 'ZERO' is written as 'CHUR', then how is 'PLAYER' written?",
+      "options": {
+        "a": "SOCACT",
+        "b": "SODBGT",
+        "c": "SODBHT",
+        "d": "SODBHU"
+      },
+      "correct_answer": "d",
+      "explanation": "The underlying pattern is adding 3 to each letter's position:\n$Z+3=C$\n$E+3=H$\n$R+3=U$\n$O+3=R$\n\nApplying to PLAYER:\n$P+3=S$\n$L+3=O$\n$A+3=D$\n$Y+3=B$\n$E+3=H$\n$R+3=U$\nCode: SODBHU."
+    },
+    {
+      "question_number": 8,
+      "type": "Logical Reasoning",
+      "question_text": "Consider the following statements:\n1. A is older than B.\n2. C and D are of the same age.\n3. E is the youngest.\n4. F is younger than D.\n5. F is older than A.\nHow many statements given above are required to determine the oldest person/persons?",
+      "options": {
+        "a": "Only two",
+        "b": "Only three",
+        "c": "Only four",
+        "d": "All five"
+      },
+      "correct_answer": "d",
+      "explanation": "Persons: A, B, C, D, E, F.\nStatement 3 gives the youngest: E.\nStatement 2: $C = D$.\nStatement 4: $D > F$.\nStatement 5: $F > A$.\nStatement 1: $A > B$.\nCombining: $C = D > F > A > B > E$.\nTo establish this complete chain and determine the oldest (C and D), we needed all information linking the groups. Specifically, Statement 5 links the (C, D, F) group with the (A, B) group. Statement 3 eliminates E from being oldest. Thus, all five statements are required."
+    },
+    {
+      "question_number": 9,
+      "type": "Logical Reasoning",
+      "question_text": "Consider the following including the Question and the Statements:\nThere are 5 members A, B, C, D, E in a family.\nQuestion: What is the relation of E to B?\nStatement-1: A and B are a married couple.\nStatement-2: D is the father of C.\nStatement-3: E is D's son.\nStatement-4: A and C are sisters.\nWhich one of the following is correct in respect of the above Questions and Statements?",
+      "options": {
+        "a": "Statement-1, Statement-2 and Statement-3 are sufficient to answer the Question.",
+        "b": "Statement-1, Statement-3 and Statement-4 are sufficient to answer the Question.",
+        "c": "All four statement together are sufficient to answer the Question.",
+        "d": "All four statements are not sufficient to answer the Question."
+      },
+      "correct_answer": "c",
+      "explanation": "We need to find E's relation to B.\nStatement 1: $A(female) = B(male)$ (since A is sister in S4).\nStatement 4: A and C are sisters.\nStatement 2: D is father of C (and thus A).\nStatement 3: E is D's son. This makes E the brother of A and C.\nSince E is the brother of A, and A is the wife of B, E is the Brother-in-law of B.\nTo derive this, we used:\n- S1 (B's relation to A)\n- S4 (A's relation to C)\n- S2 (C's relation to D)\n- S3 (E's relation to D)\nTherefore, all four statements are required."
+    },
+    {
+      "question_number": 10,
+      "type": "Quantitative Aptitude",
+      "question_text": "Choose the group which is different from the others:\n(a) 17, 37, 47, 97\n(b) 31, 41, 53, 67\n(c) 71, 73, 79, 83\n(d) 83, 89, 91, 97",
+      "options": {
+        "a": "17, 37, 47, 97",
+        "b": "31, 41, 53, 67",
+        "c": "71, 73, 79, 83",
+        "d": "83, 89, 91, 97"
+      },
+      "correct_answer": "d",
+      "explanation": "Prime numbers check:\nOptions (a), (b), and (c) contain only prime numbers.\nIn option (d), the number 91 is present.\n$91 = 13 \\times 7$. Thus, 91 is not a prime number. This group is different."
+    },
+    {
+      "question_number": 11,
+      "type": "Reading Comprehension",
+      "passage_text": "To tackle the problem of pollution in cities, policy makers think that drastic actions like temporary use of odd-even number scheme for vehicles, closing schools, factories, construction activities, and banning the use of certain type of vehicles are a way forward. Even then the air is not clean. Vehicles more than 15 years old comprise one percent of the total; and taking them off the road will not make any difference. Banning certain fuels and car types arbitrarily is not proper. Diesel engines produce more PM 2.5 and less CO2 than petrol or CNG engines. On the other hand, both diesel and CNG engines produce more NOx than petrol engines. No one has measured the amount of NOx that CNG engines are emitting. Arbitrary bans on vehicles that have passed mandated fitness tests and periodic pollution tests are unfair. What is needed is the scientific and reliable information about the source of pollutants on a continuing basis and the technologies that will work to reduce pollution from them.",
+      "question_text": "Which one of the following statements best reflects the most logical and rational implication conveyed by the passage?",
+      "options": {
+        "a": "Arbitrary curbs on vehicles to reduce pollution are difficult to implement.",
+        "b": "Knee-jerk reactions cannot but an evidence-based approach will be more effective.",
+        "c": "A heavy penalty should be enforced on those driving without periodic pollution tests.",
+        "d": "In the absence of laws to deal with the problem of pollution, the administration tends to make arbitrary decisions."
+      },
+      "correct_answer": "b",
+      "explanation": "Option (a) is incorrect: The passage implies arbitrary curbs are pointless/ineffective, not necessarily difficult to implement.\n\nOption (b) is correct: The passage highlights that 'drastic actions' (knee-jerk reactions) are not working ('Even then the air is not clean'). It concludes by stating 'What is needed is the scientific and reliable information...', which supports an evidence-based approach.\n\nOption (c) is incorrect: Heavy penalties are another form of short-term measure not advocated by the passage.\n\nOption (d) is incorrect: The passage does not claim a lack of laws, but rather criticizes the policy flaws and lack of scientific basis."
+    },
+    {
+      "question_number": 12,
+      "type": "Reading Comprehension",
+      "passage_text": "Good corporate governance structures encourage companies to provide accountability and control. A fundamental reason why corporate governance has moved onto the economic and political agenda worldwide has been the rapid growth in international capital markets. Effective corporate governance enhance access to external financing by firms, leading to greater investment, higher growth and employment. Investors look to place their funds where the standards of disclosure, of timely and accurate financial reporting, and of equal treatment to all stakeholders are met.",
+      "question_text": "Which of the following statements best reflects the logical inference from the passage given above?",
+      "options": {
+        "a": "It is an important agenda of the countries around the world to ensure access to good external financing.",
+        "b": "Good corporate governance improves the credibility of the firms.",
+        "c": "International capital markets ensure that the firms maintain good corporate governance.",
+        "d": "Good corporate governance paves the way for robust supply chains."
+      },
+      "correct_answer": "b",
+      "explanation": "Option (a) is incorrect: While true, it is a secondary argument. The core is about corporate governance.\n\nOption (b) is correct: The passage states that effective governance enhances access to external financing because investors look for standards of disclosure and reporting. This implies that good governance improves the credibility/trustworthiness of firms in the eyes of investors.\n\nOption (c) is incorrect: The passage focuses on governance leading to market access, not markets enforcing governance.\n\nOption (d) is incorrect: No mention of supply chains."
+    },
+    {
+      "question_number": 13,
+      "type": "Reading Comprehension",
+      "passage_text": "Elephants are landscape architects, creating clearings in the forest, preventing overgrowth of certain plant species and allowing space for the regeneration of others, which in turn provide sustenance to others herbivorous animals. Elephants eat plants, fruits and seeds, propagating the seeds when they defecate in other places as they travel. Elephant dung provides nourishment to plants and animals and acts as a breeding ground for insects. In times of drought, they access water by digging holes which benefits other wildlife.",
+      "question_text": "Which one of the following statements best reflects the most logical and rational inference that can be drawn from the passage?",
+      "options": {
+        "a": "The home range of elephants needs to be a vast area of rich biodiversity.",
+        "b": "Elephants are the keystone species and they benefit the biodiversity.",
+        "c": "Rich biodiversity cannot be maintained in the forests without the presence of elephants.",
+        "d": "Elephants are capable of regenerating forests with species as per their requirement."
+      },
+      "correct_answer": "b",
+      "explanation": "Option (a) is incorrect: The passage does not discuss the home range requirements.\n\nOption (b) is correct: The passage describes how elephants shape the landscape, propagate seeds, provide nourishment via dung, and provide water access. This aligns with the definition of a keystone species that benefits biodiversity.\n\nOption (c) is incorrect: This is extreme. While elephants are important, the passage does not say biodiversity *cannot* be maintained without them.\n\nOption (d) is incorrect: The passage indicates regeneration is involuntary (e.g., via defecation), not 'as per their requirement'."
+    },
+    {
+      "question_number": 14,
+      "type": "Quantitative Aptitude",
+      "question_text": "If $7\\oplus9\\oplus10=8,$ $9\\oplus11\\oplus30=5,$ $11\\oplus17\\oplus21=13$ what is the value of $23\\oplus4\\oplus15$?",
+      "options": {
+        "a": "6",
+        "b": "8",
+        "c": "13",
+        "d": "15"
+      },
+      "correct_answer": "a",
+      "explanation": "Logic: Add numbers, then sum the digits of the result.\n$7+9+10 = 26 \\rightarrow 2+6 = 8$\n$9+11+30 = 50 \\rightarrow 5+0 = 5$\n$11+17+21 = 49 \\rightarrow 4+9 = 13$\n\nCalculation for $23\\oplus4\\oplus15$:\n$23+4+15 = 42$\n$4+2 = 6$."
+    },
+    {
+      "question_number": 15,
+      "type": "Quantitative Aptitude",
+      "question_text": "Let x be a positive integer such that $7x+96$ is divisible by x. How many values of x are possible?",
+      "options": {
+        "a": "10",
+        "b": "11",
+        "c": "12",
+        "d": "Infinitely many"
+      },
+      "correct_answer": "c",
+      "explanation": "$(7x+96)/x = 7 + (96/x)$.\nFor this to be an integer, 96 must be divisible by x. In other words, x is a factor of 96.\n$96 = 32 \\times 3 = 2^5 \\times 3^1$.\nTotal factors = $(5+1)(1+1) = 6 \\times 2 = 12$.\nThe factors are 1, 2, 3, 4, 6, 8, 12, 16, 24, 32, 48, 96."
+    },
+    {
+      "question_number": 16,
+      "type": "Quantitative Aptitude",
+      "question_text": "If p, q, r and s are distinct single digit positive numbers, then what is the greatest value of $(p+q)(r+s)$?",
+      "options": {
+        "a": "230",
+        "b": "225",
+        "c": "224",
+        "d": "221"
+      },
+      "correct_answer": "b",
+      "explanation": "Single digit positive numbers: 1 to 9.\nTo maximize the product $(p+q)(r+s)$, we should choose the largest distinct digits: 9, 8, 7, 6.\nWe need to split these into two sums $(p+q)$ and $(r+s)$ such that the numbers are as close as possible (square yields max product).\nPossible sums using 9,8,7,6: (9+6)=15 and (8+7)=15.\nProduct = $15 \\times 15 = 225$."
+    },
+    {
+      "question_number": 17,
+      "type": "Quantitative Aptitude",
+      "question_text": "A number N is formed by writing 9 for 99 times. What is the remainder if N is divided by 13?",
+      "options": {
+        "a": "11",
+        "b": "9",
+        "c": "7",
+        "d": "1"
+      },
+      "correct_answer": "a",
+      "explanation": "Pattern of remainders for sequences of 9 divided by 13:\nRem[9/13] = 9\nRem[99/13] = 8\nRem[999/13] = 11\nRem[9999/13] = 2\nRem[99999/13] = 3\nRem[999999/13] = 0 (Pattern repeats every 6 digits).\nSince the number has 99 nines:\n$99 = 16 \\times 6 + 3$.\nThe remainder corresponds to the remainder of a number with 3 nines.\nRem[999/13] = 11."
+    },
+    {
+      "question_number": 18,
+      "type": "Quantitative Aptitude",
+      "question_text": "Each digit of a 9-digit number is 1. It is multiplied by itself. What is the sum of the digits of the resulting number?",
+      "options": {
+        "a": "64",
+        "b": "80",
+        "c": "81",
+        "d": "100"
+      },
+      "correct_answer": "c",
+      "explanation": "Number is 111,111,111 (9 digits).\n$111111111 \\times 111111111 = 12345678987654321$.\nSum of digits:\n$(1+2+3+4+5+6+7+8) \\times 2 + 9$\n$= 36 \\times 2 + 9 = 72 + 9 = 81$.\nAlternatively, sum of digits of 111...111 is 9. Product sum of digits rule: $9 \\times 9 = 81$."
+    },
+    {
+      "question_number": 19,
+      "type": "Quantitative Aptitude",
+      "question_text": "What is the sum of all digits which appear in all the integers from 10 to 100?",
+      "options": {
+        "a": "855",
+        "b": "856",
+        "c": "910",
+        "d": "911"
+      },
+      "correct_answer": "b",
+      "explanation": "Split into ranges 10-99 and 100.\nRange 10-99 (90 numbers):\nUnit digits: (0+1+...+9) repeated 9 times = $45 \\times 9 = 405$.\nTens digits: (1 appearing 10 times, 2 appearing 10 times... 9 appearing 10 times).\nSum = $(1+2+...+9) \\times 10 = 45 \\times 10 = 450$.\nSum for 10-99 = $405 + 450 = 855$.\nFor number 100: Sum of digits = $1+0+0 = 1$.\nTotal Sum = $855 + 1 = 856$."
+    },
+    {
+      "question_number": 20,
+      "type": "Quantitative Aptitude",
+      "question_text": "ABCD is a square. One point on each of AB and CD and two distinct points on each of BC and DA are chosen. How many distinct triangles can be drawn using any three points as vertices out of these six points?",
+      "options": {
+        "a": "16",
+        "b": "18",
+        "c": "20",
+        "d": "24"
+      },
+      "correct_answer": "c",
+      "explanation": "Total points = 6.\nPoints distribution: 1 on AB, 1 on CD, 2 on BC, 2 on DA.\nNo three points are collinear (since they are on sides of a square, max 2 points on one side).\nNumber of triangles = Number of ways to choose 3 points from 6.\n${}^6C_3 = \\frac{6 \\times 5 \\times 4}{3 \\times 2 \\times 1} = 20$."
+    },
+    {
+      "question_number": 21,
+      "type": "Reading Comprehension",
+      "passage_text": "The emissions humans put into the atmosphere now will affect the climate in the middle of the century and onwards. Technological change, meanwhile, could make a future transition away from fossil fuels cheap or it might not, leaving the world with a terrible choice between sharply reducing emissions at huge cost or suffering through the effects of unabated warming. Businesses that do not hedge against the threat of uncertain outcomes fail. The world cannot afford such recklessness on climate change.",
+      "question_text": "Which one of the following statements best reflects the crucial message conveyed by the author of the passage?",
+      "options": {
+        "a": "Businesses that cause emissions may need to close down or pay for pollution in future.",
+        "b": "The only solution is technological development related to the issues of climate change.",
+        "c": "Waiting to deal with carbon emissions until technology improves is not a wise strategy.",
+        "d": "Since future technological change is uncertain, new industries should be based on renewable energy sources."
+      },
+      "correct_answer": "c",
+      "explanation": "Option (a) is incorrect: The passage mentions businesses failing if they don't hedge, not necessarily paying for pollution.\nOption (b) is incorrect: Too extreme ('only solution') and not supported.\nOption (c) is correct: The passage emphasizes uncertainty in technological advancement and describes the 'recklessness' of relying on it. It suggests we cannot afford to wait, making this the crucial message.\nOption (d) is incorrect: Specific solutions like 'new industries based on renewable energy' are not discussed."
+    },
+    {
+      "question_number": 22,
+      "type": "Reading Comprehension",
+      "passage_text": "Environmental problems cause health problems. Substantial changes in lifestyle can reduce environmental or health problems, but this idea appears almost impossible to adopt. With environmental problems, individual efforts can be perceived as having a negligible effect and therefore lead to inertia. With health, on the other hand, individual choices can make the difference between life and death, literally. And yet, barring a few, there seems to be the same collective lethargy towards making their choices.",
+      "question_text": "Which one of the following statements best implies the most rational assumption that can be made from the passage?",
+      "options": {
+        "a": "We are likely to spend more money on cure than prevention.",
+        "b": "It is the job of the government to solve our environmental and public health problems.",
+        "c": "Health can be protected even if environmental problems go on unattended.",
+        "d": "Loss of traditional lifestyle and the influence of western values led to some unhealthy way of living."
+      },
+      "correct_answer": "a",
+      "explanation": "Note on the answer: The source solution discusses a conflict. Based strictly on the provided passage, Option (c) seems logical as individual choices in health can be transformative unlike environmental ones. However, the source text from which the passage is derived explicitly mentions that 'we are likely to spend far more money on cure than on prevention', making Option (a) the intended answer by the examiner. The provided solution ultimately points to Option (a) as the likely official key due to source text adherence, though (c) is logical in isolation."
+    },
+    {
+      "question_number": 23,
+      "type": "Reading Comprehension",
+      "passage_text": "Many people are not eating the right food. For some, it is simply a decision to stick with food they enjoy but which is not too healthy. This is leading to an increase in non-communicable diseases. This in turn leads to major burden on our health-care systems that have the potential to derail the economic progress which is essential for the poor to improve their lives. For others, it is about limited access to nutritious food or a lack of affordability... Part of the reason nutrition is under threat worldwide is that our food systems are not properly responding to nutritional needs.",
+      "question_text": "Which one of the following statements best reflects the crux of the passage?",
+      "options": {
+        "a": "The scheme of Universal Basic Income should be implemented worldwide as a way of poverty alleviation.",
+        "b": "We must place food-based nutrition at the centre of our policy debate.",
+        "c": "Nutritional status of food should be improved by creating appropriate genetically modified crops.",
+        "d": "Using modern food processing technologies, we must fortify food items with required nutrient elements."
+      },
+      "correct_answer": "b",
+      "explanation": "Option (b) is correct: The passage discusses issues with food consumption, health impacts, and economic progress, linking them to food systems not responding to needs. This suggests that placing food-based nutrition at the center of policy is the crux.\nOptions (a), (c), and (d) introduce specific solutions (UBI, GMO, Fortification) not mentioned in the text."
+    },
+    {
+      "question_number": 24,
+      "type": "Quantitative Aptitude",
+      "question_text": "Three of the five positive integers p, q, r, s, t are even and two of them are odd (not necessarily in order). Consider the following:\n1. $p+q+r-s-t$ is definitely even.\n2. $2p+q+2r-2s+t$ is definitely odd.\nWhich of the above statements is/are correct?",
+      "options": {
+        "a": "1 Only",
+        "b": "2 Only",
+        "c": "Both 1 and 2",
+        "d": "Neither 1 nor 2"
+      },
+      "correct_answer": "a",
+      "explanation": "We have 3 Even and 2 Odd numbers.\nStatement 1: Sum/Difference of integers.\nSum of 3 Evens = Even.\nSum of 2 Odds = Even.\nTotal Sum/Difference = Even + Even = Even. Statement 1 is correct.\n\nStatement 2: $2p+q+2r-2s+t$.\nTerms multiplied by 2 ($2p, 2r, 2s$) are definitely Even.\nExpression reduces to Even + q + Even - Even + t = Even + q + t.\nThis depends on q and t. If q and t are both odd, sum is even. If one is odd and one is even, sum is odd. Since we don't know which variables are odd/even, this is not 'definitely' odd. Statement 2 is incorrect."
+    },
+    {
+      "question_number": 25,
+      "type": "Quantitative Aptitude",
+      "question_text": "Consider the following in respect of prime number p and composite number c.\n1. $\\frac{p+c}{p-c}$ can be even.\n2. $2p+c$ can be odd.\n3. $pc$ can be odd.\nWhich of the statements given above are correct?",
+      "options": {
+        "a": "1 and 2 only",
+        "b": "2 and 3 only",
+        "c": "1 and 3 only",
+        "d": "1, 2 and 3"
+      },
+      "correct_answer": "d",
+      "explanation": "Let's test with values.\nCase 1: $p=11, c=9$.\n1. $(11+9)/(11-9) = 20/2 = 10$ (Even). Statement 1 is correct.\n2. $2(3) + 9 = 6+9 = 15$ (Odd). Statement 2 is correct.\n3. $p=3, c=9$. $pc = 27$ (Odd). Statement 3 is correct."
+    },
+    {
+      "question_number": 26,
+      "type": "Quantitative Aptitude",
+      "question_text": "A 3-digit number ABC, on multiplication with D gives 37DD where A, B, C and D are different non-zero digits. What is the value of A+B+C?",
+      "options": {
+        "a": "18",
+        "b": "16",
+        "c": "15",
+        "d": "Cannot be determined due to insufficient data"
+      },
+      "correct_answer": "a",
+      "explanation": "$ABC \\times D = 37DD$.\n$ABC = 37DD / D = (3700 + 11D)/D = 3700/D + 11$.\nWe need D such that 3700/D is an integer and ABC is 3 digits.\nPossible D: 1, 2, 4, 5.\nIf D=1: $ABC = 3711$ (Not 3 digits).\nIf D=2: $ABC = 1850 + 11 = 1861$ (Not 3 digits).\nIf D=5: $ABC = 740 + 11 = 751$ (Here $B=5=D$, distinct condition violated).\nIf D=4: $ABC = 925 + 11 = 936$. (Distinct digits 9,3,6,4). This works.\n$A+B+C = 9+3+6 = 18$."
+    },
+    {
+      "question_number": 27,
+      "type": "Quantitative Aptitude",
+      "question_text": "For any choices of values of X, Y and Z, the 6 digit number of the form XYZXYZ is divisible by:",
+      "options": {
+        "a": "7 and 11 only",
+        "b": "11 and 13 only",
+        "c": "7 and 13 only",
+        "d": "7, 11 and 13"
+      },
+      "correct_answer": "d",
+      "explanation": "$XYZXYZ = XYZ000 + XYZ = XYZ(1000 + 1) = XYZ \\times 1001$.\n$1001 = 7 \\times 11 \\times 13$.\nSo the number is divisible by 7, 11, and 13."
+    },
+    {
+      "question_number": 28,
+      "type": "Quantitative Aptitude",
+      "question_text": "125 identical cubes are arranged in the form of cubical block. How many cubes are surrounded by other cubes from each side?",
+      "options": {
+        "a": "27",
+        "b": "25",
+        "c": "21",
+        "d": "18"
+      },
+      "correct_answer": "a",
+      "explanation": "Total cubes = $125 = 5^3$. So $n=5$.\nCubes surrounded from all sides are the internal cubes.\nNumber of internal cubes = $(n-2)^3 = (5-2)^3 = 3^3 = 27$."
+    },
+    {
+      "question_number": 29,
+      "type": "Quantitative Aptitude",
+      "question_text": "How many distinct 8-digit numbers can be formed by rearranging the digits of the number 11223344 such that odd digits occupy odd positions and even digits occupy even positions?",
+      "options": {
+        "a": "12",
+        "b": "18",
+        "c": "36",
+        "d": "72"
+      },
+      "correct_answer": "c",
+      "explanation": "Digits: 1,1,3,3 (Odd) and 2,2,4,4 (Even).\nPositions: 4 Odd, 4 Even.\nArrangements of Odd digits in Odd positions: $\\frac{4!}{2!2!} = 6$.\nArrangements of Even digits in Even positions: $\\frac{4!}{2!2!} = 6$.\nTotal arrangements = $6 \\times 6 = 36$."
+    },
+    {
+      "question_number": 30,
+      "type": "Quantitative Aptitude",
+      "question_text": "A, B, C working independently can do a piece of work in 8, 16 and 12 days respectively. A alone works on Monday, B alone works on Tuesday, C alone works on Wednesday; A alone, again works on Thursday and so on. consider the following statements:\n1. The work will be finished on Thursday.\n2. The work will be finished in 10 days.\nWhich of the above statements is/are correct?",
+      "options": {
+        "a": "1 Only",
+        "b": "2 Only",
+        "c": "Both 1 and 2",
+        "d": "Neither 1 nor 2"
+      },
+      "correct_answer": "a",
+      "explanation": "LCM(8, 16, 12) = 48 units.\nEfficiency: A=6, B=3, C=4 units/day.\nCycle (3 days): A+B+C = 6+3+4 = 13 units.\n3 Cycles (9 days) = $13 \\times 3 = 39$ units.\nRemaining work = $48 - 39 = 9$ units.\nDay 10 (Wednesday): A works. $9 - 6 = 3$ units left.\nDay 11 (Thursday): B works. B can do 3 units. Work finished.\nSo work finishes on Thursday (Statement 1 correct) in 11 days (Statement 2 incorrect)."
+    },
+    {
+      "question_number": 31,
+      "type": "Reading Comprehension",
+      "passage_text": "We often hear about conflicts among different States in India over river waters. Of the 20 major river systems, 14 are already water-stressed... Key to ensuring balance between competing demands of various stakeholders is a basin-based approach to allocate water amongst constituent regions and States. Allocating fair share of water to them requires assessments based on objective criteria...",
+      "question_text": "Which one of the following statements best reflects the most rational, practical and immediate action required to ensure fair and equitable allocation of water to different stakeholders?",
+      "options": {
+        "a": "A national, pragmatic, legal and policy framework for water allocation should be made.",
+        "b": "All river systems of the country should be linked and huge aquifers created.",
+        "c": "Water channels between regions of water surplus and regions of water deficit should be created.",
+        "d": "To mitigate water crisis, water demand of sectors such as agriculture and industry should be reduced."
+      },
+      "correct_answer": "a",
+      "explanation": "Option (a) is correct: The passage discusses the need for a basin-based approach and objective criteria for allocation. Since inter-state rivers are a Union subject, a national policy framework is the most rational and practical immediate action.\nOptions (b) and (c) (Interlinking) are not explicitly mentioned and are long-term/complex.\nOption (d) suggests demand reduction which isn't the primary solution offered in the text."
+    },
+    {
+      "question_number": 32,
+      "type": "Reading Comprehension",
+      "passage_text": "More than half of Indian women and almost a quarter of Indian men of working age suffer from anaemia... India also has the largest tuberculosis burden... It is becoming increasingly clear that on many measures of cognitive ability, malnourished Indian children perform, two or three times worse than their adequately nourished peers. For an economy that will be more dependent on highly skilled workers, this poses a significant challenge. And it is one that really should be addressed given India's demographic outlook.",
+      "question_text": "Which one the following statements best reflects what is implied by the passage?",
+      "options": {
+        "a": "Education system must be strengthened in rural areas.",
+        "b": "Large scale and effective implementation of skill development programme is the need of the hour.",
+        "c": "For economic development, health and nutrition of only skilled workers needs special attention.",
+        "d": "For rapid economic growth as envisaged by us, attention should be paid to health and nutrition of the people."
+      },
+      "correct_answer": "d",
+      "explanation": "Option (d) is correct: The passage links health issues (anaemia, TB, malnutrition) to productivity and cognitive ability, which in turn affects the economy's need for skilled workers. Thus, attending to health and nutrition is implied for economic growth."
+    },
+    {
+      "question_number": 33,
+      "type": "Reading Comprehension",
+      "passage_text": "In India, a majority of farmers are marginal and small, less educated and possess low adaptive capabilities to climate change... To deal with this, adaptation to climate change is paramount, alongside a fast mitigation response. Another solution is to have a planned or policy-driven adaptation... Perception is a necessary pre-requisite for adaptation. Whether farmers are adapting agricultural practices to climate change depends on whether they perceive it or not. However, this is not always enough for adaptation. It is important how a farmer perceives the risks associated with climate change.",
+      "question_text": "Which one of the following statements best reflects the most logical and rational message conveyed by the author of the passage?",
+      "options": {
+        "a": "Adaptation to climate change and mitigation response are basically the responsibilities of the government.",
+        "b": "Climate change causes a change in government policies regarding land use patterns in the country.",
+        "c": "Risk perceptions of farmers are important for motivating them for taking adaptation decisions.",
+        "d": "Since mitigation is not possible, governments should come up with policies for quick response to climate change."
+      },
+      "correct_answer": "c",
+      "explanation": "Option (c) is correct: The passage emphasizes that 'Perception is a necessary pre-requisite for adaptation' and discusses how farmers perceive risks.\nOption (a) is incorrect: It is not exclusively the government's responsibility.\nOption (d) is incorrect: The passage says mitigation response is needed alongside adaptation, not that it is impossible."
+    },
+    {
+      "question_number": 34,
+      "type": "Quantitative Aptitude",
+      "question_text": "Raj has ten pairs of red, nine pairs of white and eight pairs of black shoes in a box. If he randomly picks shoes one by one (without replacement) from the box to get a red pair of shoes to wear, what is the maximum number of attempts he has to make?",
+      "options": {
+        "a": "27",
+        "b": "36",
+        "c": "44",
+        "d": "45"
+      },
+      "correct_answer": "d",
+      "explanation": "Pairs: 10 Red, 9 White, 8 Black.\nIndividual shoes: 20 Red, 18 White, 16 Black.\nWorst case scenario to get a Red Pair (Left + Right):\n1. Pick all non-red shoes: $18 (White) + 16 (Black) = 34$.\n2. Now pick Red shoes. To ensure a pair, we might pick all Left red shoes first (or all Right). There are 10 pairs, so 10 Left and 10 Right. Worst case: pick all 10 Left red shoes.\nTotal so far: $34 + 10 = 44$.\n3. The next pick (45th) must be a Right red shoe, completing a pair.\nTotal = 45."
+    },
+    {
+      "question_number": 35,
+      "type": "Quantitative Aptitude",
+      "question_text": "In how many ways can a batsman score exactly 25 runs by scoring single runs, fours and sixes only, irrespective of the sequence of scoring shots?",
+      "options": {
+        "a": "18",
+        "b": "19",
+        "c": "20",
+        "d": "21"
+      },
+      "correct_answer": "b",
+      "explanation": "Equation: $x + 4y + 6z = 25$, where $x, y, z \\ge 0$.\nCases based on z (sixes):\n1. $z=0: x+4y=25$. Max y=6. Values of y: 0 to 6 (7 ways).\n2. $z=1: x+4y=19$. Max y=4. Values of y: 0 to 4 (5 ways).\n3. $z=2: x+4y=13$. Max y=3. Values of y: 0 to 3 (4 ways).\n4. $z=3: x+4y=7$. Max y=1. Values of y: 0 to 1 (2 ways).\n5. $z=4: x+4y=1$. Max y=0. Value of y: 0 (1 way).\nTotal ways = $7+5+4+2+1 = 19$."
+    },
+    {
+      "question_number": 36,
+      "type": "Quantitative Aptitude",
+      "question_text": "There are four letters and four envelopes and exactly one letter is to be put in exactly one envelope with the correct address. If the letters are randomly inserted into the envelopes, then consider the following statements:\n1. It is possible that exactly one letter goes into an incorrect envelope.\n2. There are only six ways in which only two letters can go into the correct envelopes.\nWhich of the statements given above is/are correct?",
+      "options": {
+        "a": "1 only",
+        "b": "2 only",
+        "c": "Both 1 and 2",
+        "d": "Neither 1 nor 2"
+      },
+      "correct_answer": "b",
+      "explanation": "Statement 1: Incorrect. If one letter is in the wrong envelope, the letter intended for that envelope must also be misplaced. It is impossible to misplace exactly one item in a permutation.\nStatement 2: Correct. To have exactly 2 letters correct, we choose 2 envelopes out of 4 to be correct: ${}^4C_2 = 6$ ways. The remaining 2 must be deranged (swapped), which can happen in only 1 way. Total ways = $6 \\times 1 = 6$."
+    },
+    {
+      "question_number": 37,
+      "type": "Quantitative Aptitude",
+      "question_text": "What is the remainder when $85 \\times 87 \\times 89 \\times 91 \\times 95 \\times 96$ is divided by 100?",
+      "options": {
+        "a": "0",
+        "b": "1",
+        "c": "2",
+        "d": "4"
+      },
+      "correct_answer": "a",
+      "explanation": "Numerator contains 85 (has factor 5), 95 (has factor 5), and 96 (has factor 4).\n$5 \\times 5 \\times 4 = 100$.\nSince the numerator is a multiple of 100, the remainder is 0."
+    },
+    {
+      "question_number": 38,
+      "type": "Quantitative Aptitude",
+      "question_text": "What is the unit digit in the expansion of $(57242)^{9 \\times 7 \\times 5 \\times 3 \\times 1}$?",
+      "options": {
+        "a": "2",
+        "b": "4",
+        "c": "6",
+        "d": "8"
+      },
+      "correct_answer": "a",
+      "explanation": "Unit digit depends on $2^N$. Exponent $N = 945$. \nCyclicity of 2 is 4.\n$N = 945$. $945 / 4$ leaves remainder 1.\nSo unit digit is $2^1 = 2$."
+    },
+    {
+      "question_number": 39,
+      "type": "Quantitative Aptitude",
+      "question_text": "If ABC and DEF are both 3-digit numbers such that A, B, C, D, E, and F are distinct non-zero digits such that $ABC+DEF=1111,$ then what is the value of A+B+C+D+E+F?",
+      "options": {
+        "a": "28",
+        "b": "29",
+        "c": "30",
+        "d": "31"
+      },
+      "correct_answer": "d",
+      "explanation": "To get sum 1111 with distinct non-zero digits:\n$C+F$ must end in 1. Likely $C+F=11$ (Carry 1).\n$B+E+1$ must end in 1. So $B+E=10$ (Carry 1).\n$A+D+1$ must be 11. So $A+D=10$.\nSum $A+B+C+D+E+F = (A+D) + (B+E) + (C+F) = 10 + 10 + 11 = 31$.\nExample: $432 + 679 = 1111$."
+    },
+    {
+      "question_number": 40,
+      "type": "Quantitative Aptitude",
+      "question_text": "D is a 3-digit number such that the ratio of the number to the sum of its digits is least. What is the difference between the digit at the hundred's place and the digit at the unit's place of D?",
+      "options": {
+        "a": "0",
+        "b": "7",
+        "c": "8",
+        "d": "9"
+      },
+      "correct_answer": "c",
+      "explanation": "We want to minimize $N / Sum(Digits)$.\nThis ratio is minimized when the number is large and sum of digits is large. Specifically, numbers ending in 99 often yield minima locally.\nChecking ranges:\n$199 / (1+9+9) = 199/19 = 10.47$.\n$299 / 20 = 14.95$.\n$999 / 27 = 37$.\nThe absolute minimum is at 199.\nNumber 199. Hundred's digit = 1. Unit's digit = 9.\nDifference = $9 - 1 = 8$."
+    },
+    {
+      "question_number": 41,
+      "type": "Reading Comprehension",
+      "passage_text": "In India, while the unemployment rate is a frequently used measure of poor performance of the economy, under conditions of rising school and college enrolment, it paints an inaccurate picture. The reported unemployment rate is dominated by the experience of younger Indians who face higher employment challenges and exhibit greater willingness to wait for the right job than their older peers. The unemployment challenge is greater for people with secondary or higher education, and rising education levels inflate unemployment challenges.",
+      "question_text": "Which one of the following statements most likely reflects as to what the author of the passage intends to say?",
+      "options": {
+        "a": "Enrolment in schools and colleges is high but there is no quality education.",
+        "b": "Unemployment must be seen as a function of rising education and aspirations of young Indians.",
+        "c": "There are no labour-intensive industries to accommodate the huge number of unemployed people.",
+        "d": "The education system should be properly designed so as to enable the educated people to be self-employed."
+      },
+      "correct_answer": "b",
+      "explanation": "Option (b) is correct: The passage argues that rising education levels inflate unemployment stats because educated youth are willing to wait for the right job. Thus, unemployment is tied to rising education and aspirations."
+    },
+    {
+      "question_number": 42,
+      "type": "Reading Comprehension",
+      "passage_text": "Science by itself is not enough, there must be a force and discipline outside the sciences to coordinate them and point to a goal... What science needs is philosophy... Government suffers, precisely like science, for lack of philosophy. Philosophy bears to science the same relationship which statesmanship bears to politics: movement guided by total knowledge and perspective, as against aimless and individual seeking. Just as the pursuit of knowledge becomes scholasticism when divorced from the actual needs of men and life, so the pursuit of politics becomes a destructive bedlam when divorced from science and philosophy.",
+      "question_text": "Which one of the following statements best reflects the most rational, logical and practical message conveyed by the passage?",
+      "options": {
+        "a": "Modern statesmen need to be well trained in scientific methods and philosophical thinking to enable them to have a better perspective of their roles, responsibilities and goals.",
+        "b": "It is not desirable to have Governments managed by empirical statesmen unless well mixed with others who are grounded in learning and reflect wisdom.",
+        "c": "As the statesmen/bureaucrats are the products of a society, it is desirable to have a system of education in a society that focuses on training its citizens in scientific method and philosophical thinking from a very early age.",
+        "d": "It is desirable that all scientists need to be philosophers as well to make their work goal-oriented and thus purposeful and useful to the society."
+      },
+      "correct_answer": "b",
+      "explanation": "Option (b) is correct: The passage draws an analogy between Science/Philosophy and Politics/Statesmanship. It argues that politics without philosophy/science (values/perspective) is destructive. The phrase 'unless well mixed with others who are grounded in learning' reflects the need for statesmanship (wisdom/perspective) alongside empirical politics, as directly supported by the source text quoted in the solution."
+    },
+    {
+      "question_number": 43,
+      "direction": "Passage-3: \"The last end of the state is not to dominate men, nor to restrain them by fear; rather it is so to free each man from fear that he may live and act with full security and without injury to himself or his neighbour. The end of the state, I repeat, is not to make rational beings into brute beasts and machines. It is to enable their bodies and their minds to function safely. It is to lead men to live by, and to exercise, a free reason; that they may not waste their strength in hatred, anger and guile, nor act unfairly toward one another.\"",
+      "question_text": "Based on the above passage, which one of the following terms expresses the ultimate goal of the state?",
+      "options": {
+        "a": "Personal safety",
+        "b": "Health of body and mind",
+        "c": "Communal harmony",
+        "d": "Liberty"
+      },
+      "answer": "d",
+      "explanation": "Option (a) is incorrect: The passage mentions that the end of the state is to \"free each man from fear that he may live and act with full security and without injury to himself or his neighbour,\" which does suggest personal safety. However, this might be considered as one aspect rather than the ultimate goal.\nOption (b) is incorrect: While the passage does talk about enabling bodies and minds to function safely, it doesn't suggest this as the ultimate goal of the state.\nOption (c) is incorrect: The text does imply communal harmony as one of the goals - \"that they may not waste their strength in hatred, anger and guile, nor act unfairly toward one another\" - but again, this seems more like one of the aspect of the ultimate goal rather than the ultimate goal itself.\nOption (d) is correct: The passage strongly emphasises that the end of the state is to lead men to live by, and exercise, a free reason. This suggests liberty as a core goal, encompassing elements of personal safety, the health of body and mind, and communal harmony. Based on the passage, \"Liberty\" - seems to best express the ultimate goal of the state."
+    },
+    {
+      "question_number": 44,
+      "question_text": "What is the remainder if $2^{192}$ is divided by 6?",
+      "options": {
+        "a": "0",
+        "b": "1",
+        "c": "2",
+        "d": "4"
+      },
+      "answer": "d",
+      "explanation": "Method I:\n$2^{192}/6 = 2^{191}/3$\nRemainder $[2^{191}/3] = (-1)^{191} = -1 = 2$\nSo, Remainder $[2^{192}/6] = 2 \\times 2 = 4$\n\nMethod II:\nTo find the remainder when $2^{192}$ is divided by 6, we can observe a pattern in the remainders of powers of 2 when divided by 6.\n$2^{1}$ divided by 6 leaves a remainder of 2.\n$2^{2}$ divided by 6 leaves a remainder of 4.\n$2^{3}$ divided by 6 leaves a remainder of 2.\n$2^{4}$ divided by 6 leaves a remainder of 4.\n$2^{5}$ divided by 6 leaves a remainder of 2.\nWe notice that when power of 2 is odd, the remainder is 2; and when power of 2 is even, the remainder is 4. Therefore, the answer would be 4."
+    },
+    {
+      "question_number": 45,
+      "question_text": "Consider the sequence ABC__ABC_DABBCD_ABCD that follows a certain pattern. Which of the following completes the sequence?",
+      "options": {
+        "a": "DACB",
+        "b": "CDAB",
+        "c": "DCCA",
+        "d": "DDCA"
+      },
+      "answer": "d",
+      "explanation": "Method I:\nThe given sequence: ABC__ABC_DABBCD_ABCD\nWe can break this sequence in five sets of 4 elements each.\nOn analysing it in this manner, we can see that the last element moves to the first position in a cyclic manner.\nThe complete sequence is: ABCD DABC CDAB BCDA ABCD\n\nMethod II:\nThe given sequence: ABC__ABC_DABBCD_ABCD\nThere are 20 elements in this series. Let's break this sequence in four sets of 5 elements each.\nABC__\nABC_D\nABBCD\n_ABCD\nThe third set ABBCD gives us a clue that one letter is being repeated. Using option (d): ABCDD ABCCD ABBCD AABCD. We can see that in the first set letter D is getting repeated, in the second set 3rd letter is getting repeated, etc."
+    },
+    {
+      "question_number": 46,
+      "question_text": "AB and CD are 2-digit numbers. Multiplying AB with CD results in a 3-digit number DEF. Adding DEF to another 3-digit number GHI results in 975. Further A, B, C, D, E, F, G, H, I are distinct digits. If E=0, F=8, then what is A+B+C equal to?",
+      "options": {
+        "a": "6",
+        "b": "7",
+        "c": "8",
+        "d": "9"
+      },
+      "answer": "a",
+      "explanation": "As per the question,\n(i) $AB \\times CD = DEF$\n(ii) $DEF + GHI = 975$\nAlso, $E=0$ and $F=8$. So, equation (ii) can also be written as, $D08 + GHI = 975$.\nLet's consider the given sum, i.e. $D08 + GHI = 975$.\nAt unit's place of the resulting sum we have 5. This is possible only if $I=7$. So, $8+7=15$. So, we will get a carry of 1.\nNow, $1+0+H=7$ Or $H=6$.\nNow, $D+G=9$. This can be obtained in following ways: $9+0$, $8+1$, $7+2$, $6+3$, $5+4$. Since values of E(0), F(8), I(7), H(6) are already taken, we eliminate pairs involving these digits. Therefore, the values of D and G must be 4 or 5.\nIf $D=5$, then $AB \\times C5 = 508$. This is not possible, as multiplying any number ending in 5 results in 0 or 5 at the unit's digit. So $D=4$ and $G=5$.\nDigits used: D=4, E=0, F=8, G=5, H=6, I=7. Left digits: 1, 2, 3, 9.\nAnalyzing $AB \\times C4 = 408$, we can see that $12 \\times 34 = 408$.\nTherefore, $A=1, B=2, C=3$. $A+B+C = 1+2+3=6$."
+    },
+    {
+      "question_number": 47,
+      "question_text": "Consider the following statements in respect of five candidates P, Q, R, S, and T. Two statements are true and one statement is false.\nTrue Statement: One of P and Q was selected for the job.\nFalse Statement: At least one of R and S was selected for the job.\nTrue Statement: At most two of R, S and T were selected for the job.\nWhich of the following conclusions can be drawn?\n1. At least four were selected for the job.\n2. S was selected for the job.",
+      "options": {
+        "a": "1 only",
+        "b": "2 only",
+        "c": "Both 1 and 2",
+        "d": "Neither 1 nor 2"
+      },
+      "answer": "d",
+      "explanation": "The five candidates are P, Q, R, S, and T.\nTrue statement: One of P and Q was selected for the job. So, either P was selected or Q was selected.\nFalse statement: At least one of R and S was selected for the job. As this statement is false, we can deduce that neither R nor S was selected.\nTrue statement: At most two of R, S and T were selected for the job. But we already know that neither R nor S was selected. So, we are only left with T. It may or may not be selected.\nThe selected candidates could be P, PT, Q, or QT. So, the number of candidates that can be selected is either 1 or 2.\nSo, Conclusion 1 (At least four selected) is incorrect.\nConclusion 2 (S was selected) is incorrect because R and S were not selected.\nTherefore, Neither 1 nor 2 is correct."
+    },
+    {
+      "question_number": 48,
+      "question_text": "Let P, Q, R, S and T be five statements such that:\nI. If P is true, then both Q and S are true.\nII. If R and S are true, then T is false.\nWhich of the following can be concluded?\n1. If T is true, then at least one of P and R must be false.\n2. If Q is true, then P is true.",
+      "options": {
+        "a": "1 Only",
+        "b": "2 Only",
+        "c": "Both 1 and 2",
+        "d": "Neither 1 nor 2"
+      },
+      "answer": "a",
+      "explanation": "I. If P is true, then both Q and S are true. (However, if P is false, we cannot say anything about Q and S).\nII. If R and S are true, then T is false.\n\nConclusion 1: If T is true, then at least one of P and R must be false.\nIf T is true, then it means that 'R and S are true' must be false (from statement II). This means at least one of R or S must be false. \nIf S is false, then P must also be false (because if P were true, S would have to be true per statement I). \nSo, either R is false or P is false. Thus, at least one of P and R must be false. Conclusion 1 is correct.\n\nConclusion 2: If Q is true, then P is true.\nIf Q is true, it doesn't necessarily mean P is true (P implies Q does not mean Q implies P). Conclusion 2 is not correct."
+    },
+    {
+      "question_number": 49,
+      "question_text": "A cuboid of dimensions 7cm x 5cm x 3cm is painted red, green and blue colour on each pair of opposite faces of dimensions 7cm x 5cm, 5cm x 3cm, 7cm x 3cm respectively. Then the cuboid is cut and separated into various cubes each of side length 1cm. Which of the following statements is/are correct?\n1. There are exactly 15 small cubes with no paint on any face.\n2. There are exactly 6 small cubes with exactly two faces, one painted with blue and the other with green.",
+      "options": {
+        "a": "1 Only",
+        "b": "2 Only",
+        "c": "Both 1 and 2",
+        "d": "Neither 1 nor 2"
+      },
+      "answer": "a",
+      "explanation": "Statement 1: Only the internal cubes will have no paint on any face. We need to find the number of internal cubes in the cuboid.\nNumber of internal cubes = $(7-2) \\times (5-2) \\times (3-2) = 5 \\times 3 \\times 1 = 15$. So, Statement 1 is correct.\nStatement 2: We need to find the number of cubes having only two painted faces, one with blue and the other with green colour. These faces are painted on dimensions $5cm \\times 3cm$ (green) and $7cm \\times 3cm$ (blue). These cubes can be found in the middle of the four 3 cm edges. There is only one such cube at the middle of each of these four 3 cm edges ($3-2=1$). So, there are only 4 such cubes (not 6). So, Statement 2 is incorrect."
+    },
+    {
+      "question_number": 50,
+      "question_text": "The letters of the word \"INCOMPREHENSIBILITIES\" are arranged alphabetically in reverse order. How many positions of the letter/letters will remain unchanged?",
+      "options": {
+        "a": "None",
+        "b": "One",
+        "c": "Two",
+        "d": "Three"
+      },
+      "answer": "c",
+      "explanation": "The given word is INCOMPREHENSIBILITIES.\nOn arranging its letters alphabetically in reverse order, we will get: TSSRPONNMLIIIIIHEEECB\nComparing the two:\nOriginal: I N C O M P R E H E N S I B I L I T I E S\nReverse: T S S R P O N N M L I I I I I H E E E C B\nWe find that only two I's remain in the same position (the 12th and 14th letters). Hence, option (c) is correct."
+    },
+    {
+      "question_number": 51,
+      "direction": "Passage-1: The paradox of choice is illustrated by the story of Buridan's ass. Jean Buridan, the 14th century philosopher, wrote about free will and the inability to choose due to numerous choices and uncertainties. In the story, a donkey stands between two equally appealing stacks of hay. Unable to decide which to eat, it starves to death. Changes in technology and innovations such as smart phones and tablets only exacerbate our glut of choices. Constant connectivity and overconsumption of real-time data and social media can leave little room for self-reflection and rest, making decisions more difficult. Life is about choices. Many people are overwhelmed with attractive life choices, yet find themselves unhappy and anxious.",
+      "question_text": "Which one of the following statements best reflects the most logical message implied by the above passage?",
+      "options": {
+        "a": "Modern technology enfeebles societal structure and makes life difficult.",
+        "b": "Modern life is full of uncertainties and endless difficult choices.",
+        "c": "We are influenced by the opinion of others and have no courage to follow our own convictions.",
+        "d": "In our lives, having too few choices may not be a good thing, but having too many can be equally as difficult."
+      },
+      "answer": "d",
+      "explanation": "Option (a) is incorrect: While the passage mentions technology, it does not directly address how it weakens the societal structure.\nOption (b) is incorrect: While it aligns with the theme, the passage does not explicitly discuss the 'uncertainties' of modern life as the primary focus compared to the paradox of choice.\nOption (c) is incorrect: The passage does not discuss the influence of others' opinions.\nOption (d) is correct: This Option captures the essence of the passage well, which focuses on the paradox of choice - how both the lack of choices (though implied by the ass story) and an overabundance of them (explicit in text) can lead to decision-making difficulties."
+    },
+    {
+      "question_number": 52,
+      "direction": "Passage-2: Household finance in India is unique. We have a tendency to invest heavily in physical assets such as gold and property. Steps to encourage the financialization of savings are critical. A populace accustomed to traditional processes will not simply jump into financialization. Hurdles to change include onerous bureaucracy, a scepticism of organized financial institutions, a lack of basic information about which of the myriad services and providers is best for each family, and how (and even if) one can make the transition between them if necessary.",
+      "question_text": "Regarding the financialization of household savings, which of the following statements best reflect the solutions that are implied by the passage?\n1. A flexible environment is needed to develop solutions.\n2. Households need customized solutions.\n3. Innovations in financial technology are required.",
+      "options": {
+        "a": "1 and 2 only",
+        "b": "2 and 3 only",
+        "c": "1 and 3 only",
+        "d": "1, 2 and 3"
+      },
+      "answer": "a",
+      "explanation": "Statement 1 is correct: The line \"Hurdles to change include onerous bureaucracy...\" implies a rigid environment creates challenges. Thus, a flexible environment is required to develop solutions.\nStatement 2 is correct: The line \"A lack of basic information about which of the myriad services and providers is best for each family\" reflects that families do not have information and access to solutions that meet their specific needs. This can be solved by providing customized solutions.\nStatement 3 is incorrect: The passage focuses more on scepticism and lack of knowledge. While fintech could help, it is not directly implied as a solution in the text."
+    },
+    {
+      "question_number": 53,
+      "direction": "Passage-3: Pharmaceutical patents grant protection to the patentee for the duration of the patent term. The patentees enjoy the liberty to determine the price of medicines, which is time-limited to the period of monopoly, but could be unaffordable to the public. Such patent protection offered to the patentees is believed to benefit the public over the longer term through innovations and research and development (R&D), although it comes at a cost, in the nature of higher prices for patented medicine. The patent provides the patentee with a legitimate mechanism to get returns on the costs incurred in innovation and research.",
+      "question_text": "Based on the above passage, the following assumptions have been made:\n1. Patent protection given to patentees puts a huge burden on public's purchasing power in accessing patented medicines.\n2. Dependence on other countries for pharmaceutical products is a huge burden for developing and poor countries.\n3. Providing medicines to the public at affordable prices is a key goal during the public health policy design in many countries.\n4. Governments need to find and appropriate balance between the rights of patentees and the requirements of the patients.\nWhich of the above assumptions are valid?",
+      "options": {
+        "a": "1 and 2",
+        "b": "1 and 4",
+        "c": "3 and 4",
+        "d": "2 and 3"
+      },
+      "answer": "b",
+      "explanation": "Statement 1 is correct: The line, \"The patentees enjoy the liberty to determine the prices... but could be unaffordable to the public\" assumes that patent protection puts a huge burden on the purchasing power.\nStatement 2 is incorrect: It is beyond the scope of the passage.\nStatement 3 is incorrect: The passage does not talk about public health policy design goals.\nStatement 4 is correct: The text indicates the desirability of the patent regime (long term benefit) but acknowledges the cost (higher prices). Therefore, it implies governments need to balance these competing interests."
+    },
+    {
+      "question_number": 54,
+      "direction": "Passage-4: India should ensure the growth of the digital economy while keeping personal data of citizens secure and protected. No one will innovate in a surveillance-oriented environment or in a place where an individual's personal information is compromised. The ultimate control of data must reside with the individuals who generate it; they should be enabled to use, restrict or monetize it as they wish. Therefore, data protection laws should enable the right kind of innovation-one that is user-centric and privacy protecting.",
+      "question_text": "Based on the above passage, the following assumptions have been made:\n1. Protection of privacy is not just a right, but it has value to the economy.\n2. There is a fundamental link between privacy and innovation.\nWhich of the above assumptions is/are valid?",
+      "options": {
+        "a": "1 only",
+        "b": "2 only",
+        "c": "Both 1 and 2",
+        "d": "Neither 1 nor 2"
+      },
+      "answer": "c",
+      "explanation": "Statement 1 is correct: The lines \"The ultimate control... they should be enabled to use, restrict or monetize it\" highlights privacy as a right and giving control over monetization indicates it has economic value.\nStatement 2 is correct: The line \"No one will innovate in a surveillance-oriented environment...\" establishes a direct link between innovation and privacy."
+    },
+    {
+      "question_number": 55,
+      "question_text": "In an examination, the maximum marks for each of the four papers namely P, Q, R and S are 100. Marks scored by the students are in integers. A student can score 99% in n different ways. What is the value of n?",
+      "options": {
+        "a": "16",
+        "b": "17",
+        "c": "23",
+        "d": "35"
+      },
+      "answer": "d",
+      "explanation": "Method I:\nMaximum marks = 400. Marks scored = 99% of 400 = 396.\nThe student has lost 4 marks in total. Losing 4 marks can happen in the following ways:\n(4,0,0,0): Lose 4 in one paper. Ways = $4!/3! = 4$.\n(3,1,0,0): Lose 3 in one, 1 in another. Ways = $4!/2! = 12$.\n(2,1,1,0): Lose 2 in one, 1 in two others. Ways = $4!/2! = 12$.\n(2,2,0,0): Lose 2 in two papers. Ways = $4!/(2!2!) = 6$.\n(1,1,1,1): Lose 1 in all four. Ways = 1.\nTotal n = 4 + 12 + 12 + 6 + 1 = 35.\n\nMethod II:\nDistribute 4 marks among 4 papers: $w+x+y+z=4$.\nNumber of solutions = $^{n+r-1}C_{r-1} = ^{4+4-1}C_{4-1} = ^{7}C_{3} = (7 \\times 6 \\times 5)/(3 \\times 2) = 35$."
+    },
+    {
+      "question_number": 56,
+      "question_text": "A flag has to be designed with 4 horizontal strips using some or all of the colours red, green and yellow. What is the number of different ways in which this can be done so that no two adjacent stripes have the same colour?",
+      "options": {
+        "a": "12",
+        "b": "18",
+        "c": "24",
+        "d": "36"
+      },
+      "answer": "c",
+      "explanation": "For the first stripe, we have 3 colour options.\nFor the second stripe, we need to choose a colour different from the first, so 2 options.\nFor the third stripe, different from the second, so 2 options.\nFor the fourth stripe, different from the third, so 2 options.\nTotal ways = $3 \\times 2 \\times 2 \\times 2 = 24$."
+    },
+    {
+      "question_number": 57,
+      "question_text": "A rectangular floor measures 4 m in length and 2.2m in breadth. Tiles of size 140 cm by 60 cm have to be laid such that the tiles do not overlap. A tile can be placed in any orientation so long as its edges are parallel to the edges of the floor. What is the maximum number of tiles that can be accommodated on the floor?",
+      "options": {
+        "a": "6",
+        "b": "7",
+        "c": "8",
+        "d": "9"
+      },
+      "answer": "c",
+      "explanation": "Floor dimensions: 400 cm x 220 cm.\nTile dimensions: 140 cm x 60 cm.\nNo matter how we arrange the tiles, we cannot arrange more than 8. Arrangement examples provided in the solution show fitting 8 tiles (e.g., using a mix of orientations to fill the space efficiently, but area constraints and dimensions limit it to 8)."
+    },
+    {
+      "question_number": 58,
+      "question_text": "There are five persons, P, Q, R, S and T each one of whom has to be assigned one task. Neither P nor Q can be assigned Task-1. Task-2 must be assigned to either R or S. In how many ways can the assignment be done?",
+      "options": {
+        "a": "6",
+        "b": "12",
+        "c": "18",
+        "d": "24"
+      },
+      "answer": "d",
+      "explanation": "Case 1: Task-2 is assigned to R.\nTask 1 cannot be P or Q. Since R is taken, Task 1 can be S or T (2 ways).\nRemaining 3 tasks for remaining 3 people = $3! = 6$ ways.\nTotal for Case 1 = $2 \\times 6 = 12$ ways.\n\nCase 2: Task-2 is assigned to S.\nTask 1 cannot be P or Q. Since S is taken, Task 1 can be R or T (2 ways).\nRemaining 3 tasks for remaining 3 people = $3! = 6$ ways.\nTotal for Case 2 = $2 \\times 6 = 12$ ways.\n\nTotal ways = $12 + 12 = 24$."
+    },
+    {
+      "question_number": 59,
+      "question_text": "There are large number of silver coins weighing 2gm, 5gm, 10gm, 25gm, 50gm each. Consider the following statements:\n1. To buy 78 gm of coins one must buy at least 7 coins.\n2. To weigh 78 gm using these coins one can use less than 7 coins.\nWhich of the statements given above is/are correct?",
+      "options": {
+        "a": "1 only",
+        "b": "2 only",
+        "c": "Both 1 and 2",
+        "d": "Neither 1 nor 2"
+      },
+      "answer": "c",
+      "explanation": "Statement 1: To find minimum coins to sum to 78gm, maximize heavier coins.\n$50 \\times 1 = 50$\n$25 \\times 0$ (cannot add 25 as it exceeds 78 with 50)\n$10 \\times 2 = 20$ (Total 70)\n$5 \\times 1$ (Total 75) - wait, if we use 10x2, we have 8 left. Maximize: 50+10+10 = 70. Remaining 8. 5+2+? No. \nCorrect Minimization Logic: $50(1) + 10(2) + 2(4) = 78$. Total coins = $1+2+4=7$. Statement 1 is correct.\nStatement 2: To weigh 78gm using a balance scale. We can put weights on both sides.\nWe can place 80gm on one side and 2gm on the other side with the object.\nTo make 80gm: $50+25+5$. \nSo, place 50, 25, 5 on one pan and 2 on the other pan along with the object. Total coins used = 4. This is less than 7. Statement 2 is correct."
+    },
+    {
+      "question_number": 60,
+      "question_text": "Consider the following:\nI. A + B means A is neither smaller nor equal to B.\nII. A - B means A is not greater than B.\nIII. A x B means A is not smaller than B.\nIV. A ÷ B means A is neither greater nor equal to B.\nV. A ± B means A is neither smaller nor greater than B.\nStatement: P x Q, P - T, T ÷ R, R ± S\nConclusion-1: Q ± T\nConclusion-2: S + Q\nWhich one of the following is correct?",
+      "options": {
+        "a": "Only Conclusion-1 follows",
+        "b": "Only Conclusion-2 follows",
+        "c": "Both follow",
+        "d": "Neither follows"
+      },
+      "answer": "b",
+      "explanation": "Decoding symbols:\n$+$ means $>$\n$-$ means $\\le$\n$\\times$ means $\\ge$\n$\\div$ means $<$\n$\\pm$ means $=$\nGiven Statement: $P \\ge Q$, $P \\le T$, $T < R$, $R = S$.\nCombining: $S = R > T \\ge P \\ge Q$.\nConclusion 1: $Q = T$. From $T \\ge Q$, T could be greater than Q. Not necessarily true.\nConclusion 2: $S > Q$. Since $S > T$ and $T \\ge Q$, then $S > Q$ is definitely true.\nHence, option (b) is correct."
+    },
+    {
+      "question_number": 61,
+      "direction": "Passage-1: Sourcing food from non-agricultural lands (uncultivated systems such as forests, wetlands, pastures, etc) in addition to agricultural lands enables a systemic approach to food consumption. It allows rural and tribal communities to sustain themselves for the whole year and steer clear of natural disasters and season-inducted shortfalls of agricultural food. Since the productivity of trees is often more resilient to adverse weather conditions than annual crops, forest foods often provide a safety net during periods of food shortages caused by crop failure; forest foods also make important contributions during seasonal crop production gaps.",
+      "question_text": "Which one of the following statements best reflects the most logical and rational message conveyed by the author of the passage?",
+      "options": {
+        "a": "Food yielding trees should replace other trees in rural and tribal areas and community owned lands.",
+        "b": "Food security cannot be ensured in India with the present practice of conventional agriculture.",
+        "c": "Wastelands and degraded areas in India should be converted into agroforestry systems to help the poor.",
+        "d": "Agroecosystems should be developed in addition to or along with conventional agriculture."
+      },
+      "answer": "d",
+      "explanation": "Option (a) is incorrect: Passage doesn't suggest replacing other trees.\nOption (b) is incorrect: Passage says forest foods provide a safety net, not that conventional agriculture *cannot* ensure security on its own (too strong).\nOption (c) is incorrect: Passage doesn't mention converting wastelands.\nOption (d) is correct: The passage emphasizes using non-agricultural lands in *addition* to agricultural lands to reduce vulnerability and provide a safety net. This aligns with developing agroecosystems alongside conventional agriculture."
+    },
+    {
+      "question_number": 62,
+      "direction": "Passage-2: While awareness on use/misuse and abuse of antibiotics is common knowledge... the environmental impact of antibiotics-manufacturing companies not treating their waste has scarcely been discussed... Pollution from antibiotics factories is fuelling the rise of drug-resistant infections. The occurrence of drug-resistant bacteria surrounding the pharma manufacturing plants is well known.",
+      "question_text": "Which one of the following statements best reflects the most logical and practical message conveyed by the passage?",
+      "options": {
+        "a": "It is necessary to put proper effluent treatment protocols in place.",
+        "b": "It is necessary to promote environmental awareness among people.",
+        "c": "Spread of drug-resistant bacteria cannot be done away with, as it is inherent in modern medical care.",
+        "d": "Pharma-manufacturing companies should be set up in remote rural areas, away from crowded towns and cities."
+      },
+      "answer": "a",
+      "explanation": "Option (a) is correct: The passage explicitly links pollution from untreated waste to drug-resistant infections. Thus, effluent treatment is the logical solution.\nOption (b) is incorrect: Awareness alone doesn't solve the manufacturing waste issue.\nOption (c) is incorrect: Too pessimistic and not the point of the passage.\nOption (d) is incorrect: Moving factories doesn't stop the pollution/resistance issue."
+    },
+    {
+      "question_number": 63,
+      "direction": "Passage-3: Benefits of good quality school education accrue only when students complete and leave school after having acquired the gateway skills. Like one learns to walk before running, similarly one picks up advanced skills only after picking the basic foundational skills. The advent of the knowledge economy poses new challenges, and one of the severe consequences of having an uneducated workforce will be our inability to keep pace with the global economy. Without a strong learning foundation at the primary level, there can be no improvement in higher education or skill development.",
+      "question_text": "Which one of the following statements best reflects the crux of the passage?",
+      "options": {
+        "a": "To become a global power, India needs to invest in universal quality education.",
+        "b": "India is unable to become a global power because it is not focusing or promoting knowledge economy.",
+        "c": "Our education system should focus more on imparting skills during higher education.",
+        "d": "Parents of many school children are illiterate and are unaware of the benefits of quality education."
+      },
+      "answer": "a",
+      "explanation": "Option (a) is correct: The passage links foundational skills and uneducated workforce to the inability to keep pace with the global economy. Thus, investing in quality education is key.\nOption (b) is incorrect: Not explicitly supported.\nOption (c) is incorrect: The passage emphasizes primary foundation, not just higher education.\nOption (d) is incorrect: Irrelevant to the passage."
+    },
+    {
+      "question_number": 64,
+      "question_text": "40 children are standing in a circle and one of them (say child-1) has a ring. The ring is passed clockwise. Child-1 passes on to child-2, child-2 passes on to child-4, child-4 passes on to child-7 and so on. After how many such changes (including child-1) will the ring be in the hands of child-1 again?",
+      "options": {
+        "a": "14",
+        "b": "15",
+        "c": "16",
+        "d": "17"
+      },
+      "answer": "b",
+      "explanation": "The series is formed by adding +1, +2, +3... to the position.\nPositions: 1, 2, 4, 7, 11, 16, 22, 29, 37, 46(6), 56(16)... and so on.\nWe need the position to be 1 (or 1 mod 40).\nSequence of positions: 1, 2, 4, 7, 11, 16, 22, 29, 37, 6, 16, 27, 39, 12, 26, 1.\nThe 16th term is 1. The number of *changes* needed is 15."
+    },
+    {
+      "question_number": 65,
+      "question_text": "What is the middle terms of the sequence Z, Z, Y, Y, Y, X, X, X, X, W, W, W, W, W,........A?",
+      "options": {
+        "a": "H",
+        "b": "I",
+        "c": "J",
+        "d": "M"
+      },
+      "answer": "b",
+      "explanation": "Number of terms: Z(2) + Y(3) + X(4) + ... + A(27).\nSum of terms = Sum of integers from 2 to 27.\nSum = $\\frac{27(28)}{2} - 1 = 377$.\nMiddle term is the $(\\frac{377+1}{2}) = 189$th term.\nSum of first few groups (Z to J, etc) needed to reach 189.\nReverse sum from A: $27+26+...$ or simply subtract from total.\n$377 - (Sum of terms for A through H) = 189$.\nCalculations show the 189th term corresponds to letter I."
+    },
+    {
+      "question_number": 66,
+      "question_text": "Questions: Is p greater than q?\nStatement-1: $p \\times q$ is greater than zero.\nStatement-2: $p^2$ is greater than $q^2$.\nWhich one of the following is correct?",
+      "options": {
+        "a": "Statement 1 alone is sufficient",
+        "b": "Statement 2 alone is sufficient",
+        "c": "Both together are sufficient",
+        "d": "Neither is sufficient"
+      },
+      "answer": "d",
+      "explanation": "Statement 1: $p \\times q > 0$. Means p and q have same sign. Could be $2, 3$ ($3>2$) or $-2, -3$ ($-2>-3$). Cannot determine if $p>q$.\nStatement 2: $p^2 > q^2$. Could be $3^2 > 2^2$ ($3>2$) or $(-3)^2 > (-2)^2$ ($-3 < -2$). Cannot determine if $p>q$.\nUsing both: We know signs are same and magnitude of p is greater. If both positive, $p>q$. If both negative, $p<q$. Still cannot determine."
+    },
+    {
+      "question_number": 67,
+      "question_text": "Questions: Is $(p+q-r)$ greater than $(p-q+r)$, where p, q and r are integers?\nStatement-1: $(p-q)$ is positive.\nStatement-2: $(p-r)$ is negative.",
+      "options": {
+        "a": "Statement 1 alone is sufficient",
+        "b": "Statement 2 alone is sufficient",
+        "c": "Both together are sufficient",
+        "d": "Neither is sufficient"
+      },
+      "answer": "c",
+      "explanation": "Question simplifies to: Is $2q - 2r > 0$? Or Is $q > r$?\nStatement 1: $p > q$.\nStatement 2: $p < r$.\nCombining both: $q < p < r$, so $q < r$. The answer is No. Both statements are required to answer."
+    },
+    {
+      "question_number": 68,
+      "question_text": "In a party, 75 persons took tea, 60 persons took coffee and 15 persons took both tea and coffee. No one taking milk takes tea. Each person takes at least one drink.\nQuestion: how many persons attended the party?\nStatement-1: 50 persons took milk.\nStatement-2: Number of persons who attended the party is five times the number of persons who took milk only.",
+      "options": {
+        "a": "Statement 1 alone is sufficient",
+        "b": "Statement 2 alone is sufficient",
+        "c": "Both together are sufficient",
+        "d": "Neither is sufficient"
+      },
+      "answer": "a",
+      "explanation": "Tea only = $75-15=60$. Coffee only (assuming overlap with milk possible) is unknown variables.\nGiven: No one taking milk takes tea. Tea and Milk are disjoint.\nFrom Venn diagram logic:\nTea Only (60) + Both T&C (15) + Coffee Only + Milk Only + Milk&Coffee.\nStatement 1: 50 took milk. But we don't know overlap between milk and coffee. This statement seems insufficient based on standard logic, but the provided answer is (a). Let's check the source logic.\nSource Logic for S1: \"$x+y=50$. But using this we cannot find out total... So Statement 1 alone is NOT sufficient.\"\nWait, the source answer key says (a), but the explanation text explicitly says \"Statement 1 alone is not sufficient\" and \"Statement 2 alone is sufficient\".\nCorrection based on source explanation text: The source concludes Statement 2 alone is sufficient. Therefore, the Answer Key (a) listed in the summary might be a typo in the source or refers to option 'b' in a different set. However, reading the text: \"So, Statement 2 alone is sufficient. Hence, option (a) is correct.\" This implies in this specific exam format, option (a) might correspond to \"Statement 2 alone\" or there is a contradiction.\nRe-reading Source content [713]: \"(a) The Question can be answered by using one of the Statements alone, but cannot be answered using the other Statement alone.\"\nThis choice encompasses either S1 only OR S2 only. Since S2 is sufficient and S1 is not, Option (a) is indeed the correct choice for this format."
+    },
+    {
+      "question_number": 69,
+      "question_text": "Consider a 3-digit number. Question: What is the number?\nStatement-1: The sum of the digits of the number is equal to the product of the digits.\nStatement-2: The number is divisible by the sum of the digits of the number.",
+      "options": {
+        "a": "Statement 1 alone",
+        "b": "Statement 2 alone",
+        "c": "Both together",
+        "d": "Neither even together"
+      },
+      "answer": "d",
+      "explanation": "Statement 1: $1+2+3 = 1\\times2\\times3$. Possible numbers: 123, 132, 213, 231, 312, 321. Not unique.\nStatement 2: Divisible by sum. 132/6 = 22, 312/6 = 52. Not unique.\nBoth together: Still multiple candidates (e.g. 132 and 312). Cannot determine unique number."
+    },
+    {
+      "question_number": 70,
+      "question_text": "For five children with ages a < b < c < d < e; any two successive ages differs by 2 years. Question: What is the age of the youngest child?\nStatement-1: The age of the eldest is 3 times the youngest.\nStatement-2: The average age of the children is 8 years",
+      "options": {
+        "a": "One statement alone is sufficient",
+        "b": "Either statement alone is sufficient",
+        "c": "Both needed",
+        "d": "Neither"
+      },
+      "answer": "b",
+      "explanation": "Ages: $a, a+2, a+4, a+6, a+8$.\nStatement 1: $a+8 = 3a \\Rightarrow 2a=8 \\Rightarrow a=4$. Sufficient.\nStatement 2: Average is $a+4$. $a+4=8 \\Rightarrow a=4$. Sufficient.\nSince either alone works, option (b) (defined as \"either statement alone\" in the source text context) is correct."
+    },
+    {
+      "question_number": 71,
+      "direction": "Passage-1: Scientist studied the vernal window - transition period from winter to the growing season. They found that warmer winters with less snow resulted in a longer lag time between spring events and a more protracted vernal window... As the ice melts earlier, the birds don't return, causing a delay, or events.",
+      "question_text": "With reference to the above passage, the following assumptions have been made:\n1. Global warming is causing spring to come early and for longer durations.\n2. Early spring and longer period of spring is not good for bird populations.\nWhich of the above assumptions is/are correct?",
+      "options": {
+        "a": "1 only",
+        "b": "2 only",
+        "c": "Both 1 and 2",
+        "d": "Neither 1 nor 2"
+      },
+      "answer": "a",
+      "explanation": "The source discusses that while the passage text uses simple tenses (facts), the context of 'warmer winters' and 'changing timetable' implies Global Warming as an assumption (Source leans to 'a'). Assumption 2 is considered invalid as the passage mentions birds causing a delay in events, but not explicitly that it is 'not good' for the population (though implied in broader ecology, strictly text-wise it's weak). The source concludes (a) is the best choice given external context, or (d) if strictly limiting to text, but provides Answer: (a) / (d)."
+    },
+    {
+      "question_number": 72,
+      "direction": "Passage-2: A global analysis of nitrogen use efficiency... Currently, the global average for nitrogen use efficiency is approximately 0.4... More than half of the world's population is nourished by food grown with fertilizers containing synthetic nitrogen... excess is left in the ground... results in significant emissions...",
+      "question_text": "Which one of the following statements best reflects the most logical, rational and crucial message implied by the passage?",
+      "options": {
+        "a": "An enhanced efficiency of use of nitrogen is imperative for both food production and environment.",
+        "b": "Production of synthetic nitrogen fertilizers cannot be stopped as it will adversely affect global food security.",
+        "c": "Alternatives to crops that require excess of nitrogen should be identified and cultivated.",
+        "d": "Conventional agriculture using synthetic fertilizers should be replaced with agroforestry, agroecosystems and organic farming."
+      },
+      "answer": "a",
+      "explanation": "Option (a) is correct: The passage links nitrogen necessity for food with the environmental damage of low efficiency. Thus, improving efficiency benefits both."
+    },
+    {
+      "question_number": 73,
+      "direction": "Passage-3: Along with sustainable lifestyles, climate justice is regarded as a significant principle... The crucial question in the next few years will be how resources, technologies and regulations are used to support the victims of climate change. Justice in climate is not confined to actions relating to mitigation, but includes the wider notion of support for adaptation...",
+      "question_text": "Which one of the following statements best reflects the most logical, rational and crucial message conveyed by the passage?",
+      "options": {
+        "a": "Climate justice should be ingrained in detail in the rules of all the new climate compacts/agreements.",
+        "b": "Environmental resources are unevenly distributed and exploited across the globe.",
+        "c": "There is an impending issue of dealing with a huge number of climate change victims/climate refugees.",
+        "d": "Climate changes in all its connotations is mostly due to developed countries and therefore their share of burden should be more."
+      },
+      "answer": "a",
+      "explanation": "Option (a) is correct: The passage highlights the need for climate justice mechanisms (resources, regs) to support victims. Integrating this into agreements is the logical message."
+    },
+    {
+      "question_number": 74,
+      "question_text": "A principal P becomes Q in 1 year when compounded half-yearly with R% annual rate of interest. If the same principal P becomes Q in 1 year when compounded annually with S% annual rate of interest, then which one of the following is correct?",
+      "options": {
+        "a": "R = S",
+        "b": "R > S",
+        "c": "R < S",
+        "d": "R <= S"
+      },
+      "answer": "c",
+      "explanation": "Equation 1: $Q = P[1 + R/200]^2$\nEquation 2: $Q = P[1 + S/100]^1$\nEquating them: $[1 + R/200]^2 = 1 + S/100$.\nLet $R=20$. Then LHS $= (1.1)^2 = 1.21$.\n$1 + S/100 = 1.21 \\Rightarrow S = 21$.\nSince $21 > 20$, $S > R$ or $R < S$."
+    },
+    {
+      "question_number": 75,
+      "question_text": "How many natural numbers are there which give a remainder of 31 when 1186 is divided by these natural numbers?",
+      "options": {
+        "a": "Not provided in snippet",
+        "b": "Not provided in snippet",
+        "c": "Not provided in snippet",
+        "d": "9 (inferred from answer)"
+      },
+      "answer": "d",
+      "explanation": "Dividend = Divisor $\\times$ Quotient + Remainder.\n$1186 = \\text{Divisor} \\times \\text{Quotient} + 31$.\n$\\text{Divisor} \\times \\text{Quotient} = 1155$.\nThe divisor must be a factor of 1155 and must be greater than the remainder (31).\nFactors of $1155 = 1 \\times 3 \\times 5 \\times 7 \\times 11$.\nFactors > 31 are: 33, 35, 55, 77, 105, 165, 231, 385, 1155.\nThere are 9 such numbers."
+    },
+    {
+      "question_number": 76,
+      "question_text": "Let pp, qq and rr be 2 digit numbers where p < q < r. If pp + qq + rr = tt0, where tt0 is a 3-digit number ending with zero, consider the following statements:\n1. The number of possible values of p is 5.\n2. The number of possible values of q is 6\nWhich of the above statements is/are correct?",
+      "options": {
+        "a": "1 only",
+        "b": "2 only",
+        "c": "Both 1 and 2",
+        "d": "Neither 1 nor 2"
+      },
+      "answer": "c",
+      "explanation": "$11p + 11q + 11r = 110$ or $220$.\nCase 1: $p+q+r = 10$. With $p<q<r$, possibilities for (p,q,r): (1,2,7), (1,3,6), (1,4,5), (2,3,5). p can be 1, 2.\nCase 2: $p+q+r = 20$. With $p<q<r$, possibilities imply p can be 1, 2, 3, 4, 5. Total unique values for p: 1,2,3,4,5 (5 values). Statement 1 correct.\nFor q: In Case 1, q can be 2, 3, 4. In Case 2, q can be 6, 7, 8 (plus overlaps). Total values found 6. Statement 2 correct."
+    },
+    {
+      "question_number": 77,
+      "question_text": "What is the sum of all 4-digit numbers less than 2000 formed by the digits 1, 2, 3 and 4, where none of the digits is repeated?",
+      "options": {
+        "a": "7998",
+        "b": "8028",
+        "c": "8878",
+        "d": "9238"
+      },
+      "answer": "a",
+      "explanation": "Numbers must start with 1 (since < 2000).\nPossibilities: 1234, 1243, 1324, 1342, 1423, 1432.\nSum = $1234+1243+1324+1342+1423+1432 = 7998$."
+    },
+    {
+      "question_number": 78,
+      "question_text": "What is the number of selections of 10 consecutive things out of 12 things in a circle taken in the clockwise direction?",
+      "options": {
+        "a": "3",
+        "b": "11",
+        "c": "12",
+        "d": "66"
+      },
+      "answer": "c",
+      "explanation": "There are 12 starting points for a sequence of 10 consecutive items in a circle ($x_1$ to $x_{10}$, $x_2$ to $x_{11}$, etc., up to $x_{12}$ to $x_9$). So there are 12 possible ways."
+    },
+    {
+      "question_number": 79,
+      "question_text": "If today is Sunday, then which day is it $10^{10}$th day?",
+      "options": {
+        "a": "Wednesday",
+        "b": "Thursday",
+        "c": "Friday",
+        "d": "Saturday"
+      },
+      "answer": "b",
+      "explanation": "$10^{10} \\pmod 7$.\n$10 \\equiv 3 \\pmod 7$.\n$10^2 = 100 \\equiv 2 \\pmod 7$.\n$10^3 = 1000 \\equiv 6 \\equiv -1 \\pmod 7$.\n$10^{10} = (10^3)^3 \\times 10 = (-1)^3 \\times 3 = -3 \\equiv 4 \\pmod 7$.\nSo, 4 days after Sunday is Thursday."
+    },
+    {
+      "question_number": 80,
+      "question_text": "There are three traffic signals... The first signal takes 25 seconds, the second signal takes 39 seconds and the third signal takes 60 seconds to change the colour from green to red. The durations for green and red colours are same. At 2:00 p.m, they together turn green. At what time will they change to green next, simultaneously?",
+      "options": {
+        "a": "4:00 p.m.",
+        "b": "4:10 p.m.",
+        "c": "4:20 p.m.",
+        "d": "4:30 p.m."
+      },
+      "answer": "b",
+      "explanation": "Cycle for Green -> Red -> Green is double the given time (since durations are same).\nHowever, question asks when they turn Green *from* Red together.\nTime to turn Red together = LCM(25, 39, 60) = 3900 seconds = 65 mins.\nTime to complete Red phase and turn Green = Another 65 mins.\nTotal time = 130 mins = 2 hours 10 mins.\n2:00 pm + 2hr 10min = 4:10 p.m."
+    }
+
+  ]
+}

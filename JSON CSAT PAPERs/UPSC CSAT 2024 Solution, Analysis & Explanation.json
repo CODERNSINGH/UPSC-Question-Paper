@@ -1,0 +1,1196 @@
+{
+  "source_file": "VisionIAS - UPSC CSAT 2024 Solution, Analysis & Explanation.pdf",
+  "content": [
+    {
+      "type": "text",
+      "text": "UPSC CSAT YEAR WISE TREND\nAnalysis of The Difficulty Level, Aiding Performance Assessment, and Strategy Assistance For UPSC Mains, 2024. The UPSC Prelims 2024 featured a pivotal examination component-the Civil Services Aptitude Test (CSAT). This review deeply explores the CSAT, evaluating its sections on Mathematics, Reasoning, and Reading Comprehension, analysing its overall difficulty, and offering strategic advice for those advancing to the Mains."
+    },
+    {
+      "type": "text",
+      "text": "The observation about UPSC 2024 CSAT Paper: The CSAT can really throw you off if you're unprepared for its twists and turns. Last year's paper was a wake-up call for many aspirants who attempted the UPSC Prelims 2023. This year's CSAT paper has returned to its roots with a few surprises. Seemingly, the difficulty level for this year's paper is moderate compared to last year."
+    },
+    {
+      "type": "text",
+      "text": "In this year's UPSC CSAT paper, the distribution of questions was notably varied across the sections. There were 35-36 questions in Mathematics, 17-18 in Reasoning, and 27 in Reading Comprehension. This structure is consistent with previous years, especially in the Reasoning and Reading Comprehension components."
+    },
+    {
+      "type": "text",
+      "text": "Detailed Analysis of Difficulty Levels\nMathematics: This year's mathematics section of the CSAT paper prominently focused on testing candidates through algebraic expressions and number theory, with specific emphasis on divisibility and prime numbers. Additionally, it featured questions like Time & Work, Profit & Loss etc. In CSAT 2024 paper, a significant observation was the absence of questions from the topic of Permutation and Combination, a topic often regarded as challenging and complex. This omission relieved many aspirants, contrasting with the previous year's more demanding content. The exam included many questions typically covered in CSAT preparatory courses, focusing on concept-based understanding rather than rote memorisation. Of the 35 questions dedicated to Mathematics, many were aimed explicitly at testing proficiency in the Number system. This distribution suggests that the difficulty level of the Mathematics section ranged from moderate to challenging."
+    },
+    {
+      "type": "text",
+      "text": "Reasoning: The Reasoning section, perceived as more straightforward than in previous years, featured 16-17 questions ranging from logical puzzles to data sufficiency tasks. The section emphasised deductive Reasoning, which requires candidates to draw logical conclusions from given statements. Furthermore, the examination tested Pattern Recognition and Sequence Solving skills."
+    },
+    {
+      "type": "text",
+      "text": "Reading Comprehension: This year UPSC CSAT reading comprehension question encompasses a wide range of topics, including environmental issues, economic policies, and the impacts of social media on politics. The test includes inference-based questions, assumption-based queries, and central idea questions. The intricacy of the passages, especially with tricky traps strategically placed at paragraph ends, escalated the overall difficulty. Comprising 27 questions, this section ranged from moderate to difficult."
+    },
+    {
+      "type": "instruction",
+      "text": "Directions for the following 4 (four) items: Read the following two passages and answer the items that follow the passages. Your answers to these items should be based on the passages only."
+    },
+    {
+      "type": "passage",
+      "text": "Passage-1\nAccording to the Food and Agriculture Organization, one-third of food produced for human consumption is lost or wasted globally. Food is lost or wasted throughout the supply chain, from initial agricultural production to final household consumption. The increasing wastage also results in land degradation by about 45%, mainly due to deforestation, unsustainable agricultural practices, and excessive groundwater extraction. The energy spent over wasted food results in about 3.5 billion tonnes of carbon dioxide production every year. Decay also leads to harmful emissions of other gases in the atmosphere. Addressing the loss and wastage of food in all forms is critical to complete the cycle of food efficiency and food sustainability.",
+      "questions": [
+        {
+          "type": "question",
+          "question_no": 1,
+          "question_text": "Which of the following statements best reflect the most logical and rational inferences that can be made from the passage?\n1. The current methods of food distribution are solely responsible for the loss and wastage of food.\n2. Land productivity is adversely affected by the prevailing trend of food loss and wastage.\n3. Reduction in the loss and wastage of food results in lesser carbon footprint.\n4. Post-harvest technologies to prevent or reduce the loss and wastage of food are not available.\nSelect the correct answer using the code given below :",
+          "options": {
+            "a": "1, 2 and 3",
+            "b": "2 and 3 only",
+            "c": "1, 3 and 4",
+            "d": "1, 2 and 4"
+          },
+          "correct_answer": "b",
+          "explanation": "Inference 1 is incorrect: This statement is not supported by the passage. The passage mentions \"Food is lost or wasted throughout the supply chain...\" not solely due to distribution methods.\nInference 2 is correct: Land productivity is based on the quality of land. The passage mentions that due to wastage, the quality of the land degrades (by about 45%), which adversely affects land productivity.\nInference 3 is correct: This statement is supported by the passage, which mentions that the energy spent on wasted food results in significant carbon dioxide production. Therefore, reduction in food loss and waste would reduce the carbon footprint.\nInference 4 is incorrect: The passage does not discuss the non-availability of post-harvest technologies."
+        },
+        {
+          "type": "question",
+          "question_no": 2,
+          "question_text": "Based on the above passage, the following assumptions have been made :\n1. The food distribution mechanism needs to be reimagined and made effective to reduce the loss and wastage of food.\n2. Ensuring the reduction of wastage and loss of food is a social and moral responsibility of all citizens.\nWhich of the assumptions given above is/are valid?",
+          "options": {
+            "a": "1 only",
+            "b": "2 only",
+            "c": "Both 1 and 2",
+            "d": "Neither 1 nor 2"
+          },
+          "correct_answer": "a",
+          "explanation": "Assumption 1 is valid: The passage mentions that food is lost or wasted throughout the supply chain. While it does not specifically single out the distribution mechanism, it implies that improvements across the entire supply chain, including distribution, would help reduce food wastage.\nAssumption 2 is invalid: The passage focuses on the environmental and economic impacts of food wastage. While one could argue it is a social and moral responsibility, the passage does not provide explicit support for this assumption. (Note: VisionIAS notes a possibility for assumption 2 being valid based on 'household consumption' indicating responsibility, but marks (a) as the primary answer)."
+        }
+      ]
+    },
+    {
+      "type": "passage",
+      "text": "Passage-2\nAs inflation rises, even governments previously committed to budget discipline are spending freely to help households. Higher interest rates announced by central banks are supposed to help produce modest fiscal austerity, because to maintain stable debts while paying more to borrow, governments must cut spending or raise taxes. Without the fiscal backup, monetary policy eventually loses traction. Higher interest rates become inflationary, not disinflationary, because they simply lead governments to borrow more to pay rising debt-service costs. The risk of monetary unmooring is greater when public debt rises, because interest rates become more important to budget deficits.",
+      "questions": [
+        {
+          "type": "question",
+          "question_no": 3,
+          "question_text": "Which of the following statements best reflects/reflect the most logical and rational inference/inferences that can be made from the passage?\n1. Central banks cannot bring down inflation without budgetary backing.\n2. The effects of monetary policy depend on the fiscal policies pursued by the government.\nSelect the correct answer using the code given below :",
+          "options": {
+            "a": "1 only",
+            "b": "2 only",
+            "c": "Both 1 and 2",
+            "d": "Neither 1 nor 2"
+          },
+          "correct_answer": "c",
+          "explanation": "Inference 1 is correct: The passage suggests that without fiscal backing (i.e., the government cutting spending or raising taxes), monetary policy loses effectiveness.\nInference 2 is correct: The passage states \"Without the fiscal backup, monetary policy eventually loses traction\". This indicates that the effectiveness of monetary policy is heavily influenced by the fiscal policies of the government."
+        },
+        {
+          "type": "question",
+          "question_no": 4,
+          "question_text": "Based on the above passage, the following assumptions have been made :\n1. Fiscal policies of governments are solely responsible for higher prices.\n2. Higher prices do not affect the long-term government bonds.\nWhich of the assumptions given above is/are valid?",
+          "options": {
+            "a": "1 only",
+            "b": "2 only",
+            "c": "Both 1 and 2",
+            "d": "Neither 1 nor 2"
+          },
+          "correct_answer": "d",
+          "explanation": "Assumption 1 is invalid: The passage discusses how government spending and fiscal policies interact with monetary policies but does not suggest fiscal policies are solely responsible.\nAssumption 2 is invalid: The passage does not mention the impact or interaction between long-term government bonds and higher prices."
+        }
+      ]
+    },
+    {
+      "type": "question",
+      "question_no": 5,
+      "question_text": "What is the least possible number of cuts required to cut a cube into 64 identical pieces?",
+      "options": {
+        "a": "8",
+        "b": "9",
+        "c": "12",
+        "d": "16"
+      },
+      "correct_answer": "b",
+      "explanation": "Let n be the number of cubes on each edge of the cube. $n^{3}=64$ or $n=4$. So, there are 4 cubes on each edge. To get 4 pieces, we need 3 cuts. This can be achieved by cutting the cube 3 times along each of the three axes x, y and z. Total number of minimum possible cuts = 3 + 3 + 3 = 9."
+    },
+    {
+      "type": "question",
+      "question_no": 6,
+      "question_text": "In the expression 5*4*3*2*1, * is chosen from +, -, each at most two times. What is the smallest non-negative value?",
+      "options": {
+        "a": "3",
+        "b": "2",
+        "c": "1",
+        "d": "0"
+      },
+      "correct_answer": "d",
+      "explanation": "$5-4-3+2\\times1 = 5-4-3+2 = 0$."
+    },
+    {
+      "type": "question",
+      "question_no": 7,
+      "question_text": "A certain number of men can complete a piece of work in 6k days, where k is a natural number. By what percent should the number of men be increased so that the work can be completed in 5k days?",
+      "options": {
+        "a": "10%",
+        "b": "(50/3)%",
+        "c": "20%",
+        "d": "25%"
+      },
+      "correct_answer": "c",
+      "explanation": "Let m be the number of men initially and n be the new number. $6k \\times m = 5k \\times n$. Or $6m = 5n$, so $n = 1.2m$. This means $n = m + 20\\%$ of m. So, the number of men need to be increased by 20%."
+    },
+    {
+      "type": "question",
+      "question_no": 8,
+      "question_text": "X, Y and Z can complete a piece of work individually in 6 hours, 8 hours and 8 hours respectively. However, only one person at a time can work in each hour and nobody can work for two consecutive hours. All are engaged to finish the work. What is the minimum amount of time that they will take to finish the work.",
+      "options": {
+        "a": "6 hours 15 minutes",
+        "b": "6 hours 30 minutes",
+        "c": "6 hours 45 minutes",
+        "d": "7 hours"
+      },
+      "correct_answer": "c",
+      "explanation": "To finish in minimum time, utilize the most efficient worker (X) the most. Use X alternatively: X, (Y or Z), X, (Y or Z)... X completes 16.67% per hour, Y/Z complete 12.5% per hour. Sequence: X + Y + X + Y + X + Y = 3X + 3Y = 50 + 37.5 = 87.5% in 6 hours. Remaining 12.5% is X's turn. X can do it in $(12.5/16.67)$ hours = 0.75 hours = 45 minutes. Total time = 6 hours 45 minutes."
+    },
+    {
+      "type": "question",
+      "question_no": 9,
+      "question_text": "How many consecutive zeros are there at the end of the integer obtained in the product $1^{2}\\times2^{4}\\times3^{6}\\times4^{8}\\times....\\times25^{50}?$",
+      "options": {
+        "a": "50",
+        "b": "55",
+        "c": "100",
+        "d": "200"
+      },
+      "correct_answer": "d",
+      "explanation": "Number of zeros depends on number of pairs of 2 and 5. In the sequence, 2 is more frequent than 5. Number of zeros equals number of 5s. 5s are in terms $5^{10}, 10^{20}, 15^{30}, 20^{40}, 25^{50}$. Powers of 5: $10 + 20 + 30 + 40 + (2 \\times 50) = 10 + 20 + 30 + 40 + 100 = 200$. (Note: $25^{50} = (5^2)^{50} = 5^{100}$)."
+    },
+    {
+      "type": "instruction",
+      "text": "Directions for the following 4 (four) items: Read the following two passages and answer the items that follow the passages. Your answers to these items should be based on the passages only."
+    },
+    {
+      "type": "passage",
+      "text": "Passage-1\nToday, if we consider cities such as New York, London and Paris as some of the most iconic cities in the world, it is because plans carrying a heavy systems approach were imposed on their precincts. The backbone of the systems theory is the process of translating social, spatial and cultural desirables into mathematical models using computing, statistics, optimization and an algorithmic way of formulating and solving problems. The early universities of the West which began to train professionals in planning, spawned some of the most ingenious planners, who were experts in these domains. This was because these very subjects were absorbed into the planning curriculum that had its roots in the social sciences, geography and architecture. Planning in India, and its education differ from the West.",
+      "questions": [
+        {
+          "type": "question",
+          "question_no": 11,
+          "question_text": "Which one of the following statements best reflects the most logical and rational inference that can be made from the above passage?",
+          "options": {
+            "a": "Curriculum for urban planning courses should have diverse and interdisciplinary approach.",
+            "b": "In India, city administration is under bureaucracy which lacks formal training in urban planning and management.",
+            "c": "In India, the management of urban areas is a local affair with a chronic problem of insufficient funds.",
+            "d": "With high density of population and widespread poverty in our urban areas, planned development in them is very difficult."
+          },
+          "correct_answer": "a",
+          "explanation": "Inference (a) is correct: The passage emphasizes the importance of a systems approach that factors in social, spatial, and cultural aspects. It mentions subjects like social sciences, geography, and architecture being absorbed into the planning curriculum, implying a need for a diverse and interdisciplinary approach.\nOther options (b, c, d) mention bureaucracy, funds, or poverty which are beyond the scope of the passage."
+        },
+        {
+          "type": "question",
+          "question_no": 12,
+          "question_text": "Based on the above passage, the following assumptions have been made :\n1. India needs a new generation of urban professionals with knowledge relevant to modern urban practice.\n2. Indian universities at present have no capacity or potential to impart training in systems approach.\nWhich of the assumptions given above is/are correct?",
+          "options": {
+            "a": "1 only",
+            "b": "2 only",
+            "c": "Both 1 and 2",
+            "d": "Neither 1 nor 2"
+          },
+          "correct_answer": "a",
+          "explanation": "Assumption 1 is valid: The passage contrasts Indian planning education with the West and notes the success of Western systems approach, suggesting a need for updated knowledge in India.\nAssumption 2 is invalid: The passage states Indian education differs, but does not explicitly state Indian universities have \"no capacity or potential\"."
+        }
+      ]
+    },
+    {
+      "type": "passage",
+      "text": "Passage-2\nNot every voice on the internet commands the same kind of audience. When anonymous private entities with high capital can pay for more space for their opinions, they are effectively buying a louder voice. If political discourse in the digital sphere is a matter of outshining one's opponent till the election is won, then the quality of politics suffers. The focus of social media is restricted to the promotion of content that generates more user engagement, regardless of how inflammatory the content may be.",
+      "questions": [
+        {
+          "type": "question",
+          "question_no": 13,
+          "question_text": "Which one of the following statements best reflects the central idea of the above passage?",
+          "options": {
+            "a": "Constructed as a marketplace of views, social media ensures instant access to information.",
+            "b": "Social media are not ideal or moral institutions but the products built by companies to make profits.",
+            "c": "Social media have been created to strengthen democracies.",
+            "d": "In today's world, social media are inevitable for well-informed social life."
+          },
+          "correct_answer": "b",
+          "explanation": "Option (b) is correct: The passage highlights that social media platforms are driven by profit motives (prioritization of user engagement and inflammatory content) and capital (buying a louder voice), rather than ideal discourse."
+        },
+        {
+          "type": "question",
+          "question_no": 14,
+          "question_text": "Based on the above passage, the following assumptions have been made:\n1. Internet is not inclusive enough.\n2. Internet can adversely affect the quality of policies in a country.\nWhich of the assumptions given above is/are valid?",
+          "options": {
+            "a": "1 only",
+            "b": "2 only",
+            "c": "Both 1 and 2",
+            "d": "Neither 1 nor 2"
+          },
+          "correct_answer": "c",
+          "explanation": "Assumption 1 is valid: The passage mentions entities with high capital buying a louder voice, suggesting the internet favors resources, making it not inclusive.\nAssumption 2 is valid: The passage states \"the quality of politics suffers\", which implies an adverse effect on policies/politics."
+        }
+      ]
+    },
+    {
+      "type": "question",
+      "question_no": 15,
+      "question_text": "$222^{333}+333^{222}$ is divisible by which of the following numbers?",
+      "options": {
+        "a": "2 and 3 but not 37",
+        "b": "3 and 37 but not 2",
+        "c": "2 and 37 but not 3",
+        "d": "2, 3 and 37"
+      },
+      "correct_answer": "b",
+      "explanation": "$222^{333}+333^{222} = 111^{333} \\times 2^{333} + 111^{222} \\times 3^{222}$. Factoring out $111^{222}$, the expression involves multiples of 111 (which is $37 \\times 3$). Hence divisible by 3 and 37. Sum of even and odd number is odd, so not divisible by 2."
+    },
+    {
+      "type": "question",
+      "question_no": 16,
+      "question_text": "What percent of water must be mixed with honey so as to gain 20% by selling the mixture at the cost price of honey ?",
+      "options": {
+        "a": "20%",
+        "b": "10%",
+        "c": "5%",
+        "d": "4%"
+      },
+      "correct_answer": "a",
+      "explanation": "Gain is 20% = 1/5. If CP of honey is Rs 100, SP is Rs 100 but represents value of Rs 120 quantity. To gain 20% by selling at CP, water must be 20% of the honey volume."
+    },
+    {
+      "type": "question",
+      "question_no": 17,
+      "question_text": "What is the rightmost digit preceding the zeros in the value of $30^{30}?$",
+      "options": {
+        "a": "1",
+        "b": "3",
+        "c": "7",
+        "d": "9"
+      },
+      "correct_answer": "d",
+      "explanation": "$30^{30} = 3^{30} \\times 10^{30}$. $10^{30}$ gives 30 zeros. The preceding digit is the unit digit of $3^{30}$. Cyclicity of 3 is 4. $30 = 4 \\times 7 + 2$. Unit digit of $3^{30}$ is same as $3^2 = 9$."
+    },
+    {
+      "type": "question",
+      "question_no": 18,
+      "question_text": "421 and 427, when divided by the same number, leave the same remainder 1. How many numbers can be used as the divisor in order to get the same remainder 1?",
+      "options": {
+        "a": "1",
+        "b": "2",
+        "c": "3",
+        "d": "4"
+      },
+      "correct_answer": "c",
+      "explanation": "Subtract remainder 1 from numbers: 420 and 426. Prime factors of 420: $2,2,3,5,7$. Factors of 426: $2,3,71$. Common factors are 1, 2, 3, 6. Divisors must be greater than remainder 1. So divisors can be 2, 3, 6. Total 3 numbers."
+    },
+    {
+      "type": "question",
+      "question_no": 19,
+      "question_text": "A can X contains 399 litres of petrol and a can Y contains 532 litres of diesel. They are to be bottled in bottles of equal size so that whole of petrol and diesel would be separately bottled. The bottle capacity in terms of litres is an integer. How many different bottle sizes are possible?",
+      "options": {
+        "a": "3",
+        "b": "4",
+        "c": "5",
+        "d": "6"
+      },
+      "correct_answer": "b",
+      "explanation": "Find common factors of 399 and 532. $399 = 3 \\times 7 \\times 19$. $532 = 2 \\times 2 \\times 7 \\times 19$. Common factors are 1, 7, 19, and $7 \\times 19 = 133$. So 4 sizes are possible."
+    },
+    {
+      "type": "question",
+      "question_no": 20,
+      "question_text": "Consider the following statements: x, y and z are distinct prime numbers each less than 10. Let $S=x+y+z$. 1. The unit digit of S can be 0. 2. The unit digit of S can be 9. 3. The unit digit of S can be 5. Which of the statements given above is/are correct?",
+      "options": {
+        "a": "1 and 2 only",
+        "b": "2 and 3 only",
+        "c": "1 and 3 only",
+        "d": "1, 2 and 3"
+      },
+      "correct_answer": "c",
+      "explanation": "Distinct primes < 10 are 2, 3, 5, 7. Combinations: 2+3+5=10 (unit digit 0, statement 1 valid). 3+5+7=15 (unit digit 5, statement 3 valid). No combination sums to a number ending in 9."
+    },
+    {
+      "type": "instruction",
+      "text": "Direction for the following 3 (three) items: Read the following two passages and answer the items that follow the passages. Your answers to these items should be based on the passages only."
+    },
+    {
+      "type": "passage",
+      "text": "Passage-1\nBy the time children reach class 8, the bulk of them tend to be in the age range of 13 years to 15 years. But in our country, about a quarter of all children in class 8 struggle with reading simple texts and more than half are still unable to do basic arithmetic operations like division. Every year about 25 million young boys and girls from elementary school move into the life that lies for them beyond compulsory schooling. They cannot enter the workforce at least in the organized sector till they are 18. For many families, these children are the first from their families ever to get this far in school. Parents and children expect that such 'graduates' from school will go on to high school and college. Hardly anyone wants to go back to agriculture. On the other hand, abilities in terms of academic competencies are far lower than they should be even based on curricular expectations of class 8.",
+      "questions": [
+        {
+          "type": "question",
+          "question_no": 21,
+          "question_text": "Based on the above passage, the following assumptions have been made :\n1. For effective school education, parents have greater role than the governments.\n2. School curriculum that conforms to today's requirements and is uniform for the entire country may address the issues brought out.\nWhich of the assumptions given above is/are valid?",
+          "options": {
+            "a": "1 only",
+            "b": "2 only",
+            "c": "Both 1 and 2",
+            "d": "Neither 1 nor 2"
+          },
+          "correct_answer": "d",
+          "explanation": "Assumption 1 is invalid: The passage does not discuss the relative roles of parents vs government. Assumption 2 is invalid: The passage discusses lags in competency but does not suggest uniform curriculum as the solution."
+        },
+        {
+          "type": "question",
+          "question_no": 22,
+          "question_text": "Which one of the following statements best reflects the central idea conveyed by the passage?",
+          "options": {
+            "a": "Total eradication of poverty in the country will resolve the issue of under-performance of our school-children.",
+            "b": "Monetary incentives to parents and teachers is a strategy to improve the children's academic performance.",
+            "c": "Public policy should ensure that competencies and achievements of young people are aligned with their expectations.",
+            "d": "India is not going to take advantage of the demographic dividend unless some school pass-outs go back to agriculture."
+          },
+          "correct_answer": "c",
+          "explanation": "Option (c) is correct: The passage highlights the disconnect between the low academic competencies of students and their high expectations (college/high school, not agriculture). This suggests a need for policy to bridge this gap."
+        }
+      ]
+    },
+    {
+      "type": "passage",
+      "text": "Passage-2\nWe take it for granted now that science has a social responsibility. The idea would not have occurred to Newton or Galileo. They thought of science as an account of the world as it is, and the only responsibility that they acknowledged was to tell the truth. The idea that science is a social enterprise is modern, and it begins at the industrial revolution. We are surprised that we cannot trace a social sense further back, because we nurse the illusion that the industrial revolution ended a golden age.",
+      "questions": [
+        {
+          "type": "question",
+          "question_no": 23,
+          "question_text": "Which one of the following statements best reflects the thinking of the author about the science?",
+          "options": {
+            "a": "Science must value the commitment of the scientists.",
+            "b": "Science is a product of civilized society and must be used for the promotion of scientific awareness in people.",
+            "c": "Industrial revolution was made possible by the advancements in science.",
+            "d": "Science must pursue truth but be responsible for social welfare."
+          },
+          "correct_answer": "d",
+          "explanation": "Option (d) is correct: It captures the dual aspect described: the historical pursuit of truth (Newton/Galileo) and the modern responsibility for social welfare (post-Industrial Revolution)."
+        }
+      ]
+    },
+    {
+      "type": "question",
+      "question_no": 24,
+      "question_text": "Consider the sequence\nA BCD BBCDABC DABC D\nthat follows a certain pattern. Which one of the following completes the sequence?",
+      "options": {
+        "a": "B, A, D, C",
+        "b": "B, A, C, D",
+        "c": "A, A, C, D",
+        "d": "A, A, D, C"
+      },
+      "correct_answer": "c",
+      "explanation": "Sequence pattern: A ABCD / A BBCD / AB C CD / ABC DD. Missing letters are A, A, C, D."
+    },
+    {
+      "type": "question",
+      "question_no": 25,
+      "question_text": "Two persons P and Q enter into a business. P puts 14,000 more than Q, but P has invested for 8 months and Q has invested for 10 months. If P's share is 400 more than Q's share out of the total profit of 2,000, what is the capital contributed by P?",
+      "options": {
+        "a": "30,000",
+        "b": "26,000",
+        "c": "24,000",
+        "d": "20,000"
+      },
+      "correct_answer": "a",
+      "explanation": "Total profit 2000. P's share = Q + 400. P+Q=2000, so 2Q+400=2000 -> Q=800, P=1200. Profit ratio 1200:800 = 3:2. Investment ratio: $(P_{cap} \\times 8) / (Q_{cap} \\times 10) = 3/2$. Let Q's cap be X. P's cap is X+14000. Solve for X=16000. P = 16000+14000 = 30,000."
+    },
+    {
+      "type": "question",
+      "question_no": 26,
+      "question_text": "P's salary is 20% lower than Q's salary which is 20% lower than R's salary. By how much percent is R's salary more than P's salary?",
+      "options": {
+        "a": "48.75%",
+        "b": "56.25%",
+        "c": "60.50%",
+        "d": "62.25%"
+      },
+      "correct_answer": "b",
+      "explanation": "Let R = 100. Q = 80. P = 80% of 80 = 64. R is more than P by $(100-64)/64 = 36/64 = 56.25\\%.$"
+    },
+    {
+      "type": "question",
+      "question_no": 27,
+      "question_text": "A number is mistakenly divided by 4 instead of multiplying by 4. What is the percentage change in the result due to this mistake?",
+      "options": {
+        "a": "25%",
+        "b": "50%",
+        "c": "72.75%",
+        "d": "93.75%"
+      },
+      "correct_answer": "d",
+      "explanation": "Let number be 1. Correct result = 4. Incorrect = 1/4 = 0.25. Change = $(4 - 0.25)/4 = 3.75/4 = 93.75\\%.$"
+    },
+    {
+      "type": "question",
+      "question_no": 28,
+      "question_text": "In an examination, 80% of students passed in English, 70% of students passed in Hindi and 15% failed in both the subjects. What is the percentage of students who failed in only one subject?",
+      "options": {
+        "a": "15%",
+        "b": "20%",
+        "c": "25%",
+        "d": "35%"
+      },
+      "correct_answer": "b",
+      "explanation": "Fail in English = 20%. Fail in Hindi = 30%. Fail in Both = 15%. Fail in ONLY English = 20-15=5%. Fail in ONLY Hindi = 30-15=15%. Total failed in exactly one subject = 5+15=20%."
+    },
+    {
+      "type": "question",
+      "question_no": 29,
+      "question_text": "A father said to his son, \"n years back I was as old as you are now. My present age is four times your age n years back\". If the sum of the present ages of the father and the son is 130 years, what is the difference of their ages?",
+      "options": {
+        "a": "30 years",
+        "b": "32 years",
+        "c": "34 years",
+        "d": "36 years"
+      },
+      "correct_answer": "a",
+      "explanation": "Let Father=X, Son=Y. $X-n = Y$ and $X = 4(Y-n)$. $X+Y=130$. Solving gives X=80, Y=50. Difference = 30."
+    },
+    {
+      "type": "question",
+      "question_no": 30,
+      "question_text": "Consider the following: 1. 1000 litres = 1m³ 2. 1 metric ton = 1000 kg 3. 1 hectare = 10000 m² Which of the above are correct?",
+      "options": {
+        "a": "1 and 2 only",
+        "b": "2 and 3 only",
+        "c": "1 and 3 only",
+        "d": "1, 2 and 3"
+      },
+      "correct_answer": "d",
+      "explanation": "All statements are correct standard conversions."
+    },
+    {
+      "type": "instruction",
+      "text": "Directions for the following 4 (four) Items: Read the following two passages and answer the items that follow the passages. Your answers to these items should be based on the passages only."
+    },
+    {
+      "type": "passage",
+      "text": "Passage-1\n\"The history of science is the real history of mankind.\" In this striking epigram, a nineteenth-century writer links science with its background. Like most epigrams, its power lies in emphasizing by contrast an aspect of truth which may be easily overlooked. In this case, it is easy to overlook the relations between science and mankind, and to treat the former has some abstract third party, which can sometimes be praised for its beneficial influences, but frequently and conveniently blamed for the horrors of war. Science and mankind cannot be divorced from time to time at men's convenience. Yet we have seen that, in spite of countless opportunities of improvement, the opening years of the present period of civilization have been dominated by international conflict. Is this the inevitable result of the progress of science or does the fault lie elsewhere?",
+      "questions": [
+        {
+          "type": "question",
+          "question_no": 31,
+          "question_text": "Which of the following is/are emphatically conveyed by the author of the passage?\n1. Without science, mankind could not have continued to exist till today.\n2. It is the science that will ultimately determine the destiny of mankind.\nSelect the correct answer using the code given below.",
+          "options": {
+            "a": "1 only",
+            "b": "2 only",
+            "c": "Both 1 and 2",
+            "d": "Neither 1 nor 2"
+          },
+          "correct_answer": "d",
+          "explanation": "Statement 1 is incorrect: The passage implies a strong link but doesn't state existence depends solely on science. Statement 2 is incorrect: The passage questions the role of science in destiny/conflict rather than determining it."
+        },
+        {
+          "type": "question",
+          "question_no": 32,
+          "question_text": "Based on the above passage, the following assumptions have been made:\n1. The horrors of modern life are the inevitable result of the progress of science.\n2. The aspect of truth likely to be overlooked is that science is what man has made it.\nWhich of the assumptions given above is/are correct?",
+          "options": {
+            "a": "1 only",
+            "b": "2 only",
+            "c": "Both 1 and 2",
+            "d": "Neither 1 nor 2"
+          },
+          "correct_answer": "b",
+          "explanation": "Assumption 1 is invalid: The author questions this inevitability. Assumption 2 is valid: The passage emphasizes the interconnectedness of science and mankind, suggesting science is not an abstract entity but shaped by humans."
+        }
+      ]
+    },
+    {
+      "type": "passage",
+      "text": "Passage-2\nOnly with long experience and opening of his wares on many a beach where his language is not spoken, will the merchant come to know the worth of what he carries, and what is parochial and what is universal in his choice. Such delicate goods as justice, love and honour, courtesy, and indeed all the things we care for, are valid everywhere but they are variously moulded and often differently handled, and sometimes nearly unrecognizable if you meet them in a foreign land, and the art of learning fundamental common values is perhaps the greatest gain of travel to those who wish to live at ease among their fellows.",
+      "questions": [
+        {
+          "type": "question",
+          "question_no": 33,
+          "question_text": "When we meet other people while we travel, we learn to differentiate between",
+          "options": {
+            "a": "imagination and understanding",
+            "b": "communities and nationalities",
+            "c": "local values and universal values",
+            "d": "friends and foes"
+          },
+          "correct_answer": "c",
+          "explanation": "Option (c) is correct: The passage speaks of learning \"what is parochial and what is universal\", aligning with local vs universal values."
+        },
+        {
+          "type": "question",
+          "question_no": 34,
+          "question_text": "With reference to the above passage, the following assumptions have been made :\n1. Travel leads to an understanding of humans.\n2. Travel helps those who wish to learn fundamental common values.\n3. A person with long experience in travel can resolve differences amongst people.\nWhich of the assumptions given above are valid?",
+          "options": {
+            "a": "1 and 2 only",
+            "b": "2 and 3 only",
+            "c": "1 and 3 only",
+            "d": "1, 2 and 3"
+          },
+          "correct_answer": "a",
+          "explanation": "Assumption 1 and 2 are valid based on the text about learning values and living at ease among fellows. Assumption 3 is invalid as the passage does not mention resolving differences."
+        }
+      ]
+    },
+    {
+      "type": "question",
+      "question_no": 35,
+      "question_text": "Let X be a two-digit number and Y be another two-digit number formed by interchanging the digits of X. If (X+Y) is the greatest two-digit number, then what is the number of possible values of X?",
+      "options": {
+        "a": "2",
+        "b": "4",
+        "c": "6",
+        "d": "8"
+      },
+      "correct_answer": "d",
+      "explanation": "$X = 10a+b, Y = 10b+a$. $X+Y = 11(a+b) = 99$. $a+b=9$. Pairs (a,b) where $a,b \\neq 0$: (1,8), (2,7), (3,6), (4,5), (5,4), (6,3), (7,2), (8,1). 8 values."
+    },
+    {
+      "type": "question",
+      "question_no": 36,
+      "question_text": "Consider the following:\nWeight of 6 boys = Weight of 7 girls = Weight of 3 men = Weight of 4 women\nIf the average weight of the women is 63 kg, then what is the average weight of the boys?",
+      "options": {
+        "a": "40 kg",
+        "b": "42 kg",
+        "c": "45 kg",
+        "d": "63 kg"
+      },
+      "correct_answer": "b",
+      "explanation": "Weight of 4 women = $4 \\times 63 = 252$ kg. Weight of 6 boys = 252 kg. Average weight of boy = 252/6 = 42 kg."
+    },
+    {
+      "type": "question",
+      "question_no": 37,
+      "question_text": "How many times the hour hand and the minute hand coincide in a clock between 10:00 a.m. and 2.00 p.m. (same day)?",
+      "options": {
+        "a": "3 times",
+        "b": "4 times",
+        "c": "5 times",
+        "d": "6 times"
+      },
+      "correct_answer": "a",
+      "explanation": "Coincidences: 10-11 (approx 10:54), 11-1 (at 12:00 exactly), 1-2 (approx 1:05). Total 3 times."
+    },
+    {
+      "type": "question",
+      "question_no": 38,
+      "question_text": "The calendar for the year 2025 is same for",
+      "options": {
+        "a": "2029",
+        "b": "2030",
+        "c": "2031",
+        "d": "2033"
+      },
+      "correct_answer": "c",
+      "explanation": "Calendar repeats when odd days sum to 0 mod 7. 2025(1), 2026(1), 2027(1), 2028(2), 2029(1), 2030(1). Total = 7. Next year 2031 repeats 2025."
+    },
+    {
+      "type": "question",
+      "question_no": 39,
+      "question_text": "Let p, q, r and s be distinct positive integers. Let p, q be odd and r, s be even. Consider the following statements :\n1. $(p-r)^{2}(qs)$ is even.\n2. $(q-s)q^{2}s$ is even.\n3. $(q+r)^{2}(p+s)$ is odd.\nWhich of the statements given above are correct?",
+      "options": {
+        "a": "1 and 2 only",
+        "b": "2 and 3 only",
+        "c": "1 and 3 only",
+        "d": "1, 2 and 3"
+      },
+      "correct_answer": "d",
+      "explanation": "s is even. Statement 1: qs is even, so product is even. Correct. Statement 2: s is even, so product is even. Correct. Statement 3: (q+r) = odd+even = odd. (p+s) = odd+even = odd. odd*odd = odd. Correct."
+    },
+    {
+      "type": "question",
+      "question_no": 40,
+      "question_text": "What is the angle between the minute hand and hour hand when the clock shows 4:25 hours?",
+      "options": {
+        "a": "12.5°",
+        "b": "15°",
+        "c": "17.5°",
+        "d": "20°"
+      },
+      "correct_answer": "c",
+      "explanation": "Angle = $|30H - 5.5M|$. $|30(4) - 5.5(25)| = |120 - 137.5| = 17.5^{\\circ}$."
+    },
+    {
+      "type": "instruction",
+      "text": "Directions for the following 4 (four) items: Read the following two passages and answer the items that follow the passages. Your answers to these items should be based on the passages only."
+    },
+    {
+      "type": "passage",
+      "text": "Passage-1\nConventional classrooms, by emphasizing fixed duration over learning effectiveness, resign themselves to variable outcomes. The tyranny of the classroom is that every learner is subjected to the same set of lectures in the same way for the same duration. In the end, a few learners shine, some survive, and the rest are left behind. After the fixed duration, the classroom model moves on, with not a thought spared for those left behind. This is how we end up with 10 percent employability in our graduates after a decade and half of formal education. Repeating the same ineffectual script in the realm of skill education will not produce different results.",
+      "questions": [
+        {
+          "type": "question",
+          "question_no": 41,
+          "question_text": "Which of the following statements best reflects/reflect the most logical and rational inference/inferences that can be made from the passage?\n1. In conventional classroom learning, the central goal is duration of learning rather than attainment of competency.\n2. Conventional classrooms encourage one-size-fits-all approach and stamp out all differentiation.\nSelect the correct answer using the code given below.",
+          "options": {
+            "a": "1 only",
+            "b": "2 only",
+            "c": "Both 1 and 2",
+            "d": "Neither 1 nor 2"
+          },
+          "correct_answer": "c",
+          "explanation": "Inference 1 is correct: The passage says conventional classrooms emphasize \"fixed duration over learning effectiveness\". Inference 2 is correct: It mentions \"same set of lectures in the same way\" and \"tyranny\", supporting the one-size-fits-all approach."
+        },
+        {
+          "type": "question",
+          "question_no": 42,
+          "question_text": "Based on the above passage, the following assumptions have been made :\n1. As a large number of workers in our country are employed in unorganized sector, India does not need to change its present conventional classroom system of education.\n2. Even with its present conventional classroom system of education, India produces sufficient number of skilled workers to fully realize the benefits of demographic dividend.\nWhich of the assumptions given above is/are valid?",
+          "options": {
+            "a": "1 only",
+            "b": "2 only",
+            "c": "Both 1 and 2",
+            "d": "Neither 1 nor 2"
+          },
+          "correct_answer": "d",
+          "explanation": "Both inferences are incorrect as they contradict the passage, which criticizes the current system and low employability."
+        }
+      ]
+    },
+    {
+      "type": "passage",
+      "text": "Passage-2\nWhen a child reaches adolescence, there is apt to be a conflict between the parents and the child, since the latter considers himself to be by now quite capable of managing his own affairs, while the former are filled with parental solicitude, which is often a disguise for love of power. Parents consider, usually, that the various moral problems which arise in adolescence are peculiarly their province. The options they express, however, are so dogmatic that the young seldom confide in them, and usually go their own way in secret.",
+      "questions": [
+        {
+          "type": "question",
+          "question_no": 43,
+          "question_text": "Based on the above passage, the following assumptions have been made :\n1. The adolescent does not feel comfortable with his parents because they tend to be dominating and assertive.\n2. The adolescent of modern times does not have much respect for parents.\nWhich of the assumptions given above is/are valid?",
+          "options": {
+            "a": "1 only",
+            "b": "2 only",
+            "c": "Both 1 and 2",
+            "d": "Neither 1 nor 2"
+          },
+          "correct_answer": "a",
+          "explanation": "Assumption 1 is valid based on parents being \"dogmatic\" and showing \"love of power\". Assumption 2 is invalid as lack of respect is not explicitly stated."
+        },
+        {
+          "type": "question",
+          "question_no": 44,
+          "question_text": "Which one of the following statements best reflects the central idea of the above passage?",
+          "options": {
+            "a": "Parents in general may not be of much help when children are on their way to becoming adults.",
+            "b": "When children reach adolescence, involvement of parents in their lives is unnecessary.",
+            "c": "Modern-day nuclear families are not capable of bringing up children properly.",
+            "d": "In modern societies, adolescents tend to be stubborn, disobedient and careless."
+          },
+          "correct_answer": "a",
+          "explanation": "Option (a) reflects the conflict and lack of confidence described in the passage."
+        }
+      ]
+    },
+    {
+      "type": "question",
+      "question_no": 45,
+      "question_text": "What is the number of fives used in numbering a 260-page book?",
+      "options": {
+        "a": "55",
+        "b": "56",
+        "c": "57",
+        "d": "60"
+      },
+      "correct_answer": "b",
+      "explanation": "1-100: 20 fives. 101-200: 20 fives. 201-260: 205, 215, 225, 235, 245, 250-259 (11 fives). Total in 200s up to 260 = 16. Wait, logic in text: 20+20+20 is for full hundreds. Up to 260: 205, 215, 225, 235, 245, 250, 251, 252, 253, 254, 255 (two 5s), 256, 257, 258, 259. Total 16. Total = 20+20+16 = 56. (Note: Text calculation says (20+20+20)-4 = 56, implying 260-299 has 4 numbers with 5 which is incorrect logic but result 56 matches)."
+    },
+    {
+      "type": "question",
+      "question_no": 46,
+      "question_text": "What is the sum of the first 28 terms in the following sequence?\n1, 1, 2, 1, 3, 2, 1, 4, 3, 2, 1, 5, 4, 3, 2,......",
+      "options": {
+        "a": "83",
+        "b": "84",
+        "c": "85",
+        "d": "86"
+      },
+      "correct_answer": "b",
+      "explanation": "Groups: (1), (1,2), (1,3,2 - wait sequence is 1, 3, 2?), no it is 1 / 1,2 / 1,3,2? No, pattern is groups of length n counting down? 1 / 1,2 / 1,3,2... The text says \"1, 1, 2, 1, 3, 2, 1, 4, 3, 2, 1, 5, 4, 3, 2\". Groups: (1), (1,2), (1,3,2) -> wait, text says 1, 3, 2. Actually it looks like groups: (1), (1,2), (1,3,2) is wrong. Let's trace: 1 | 1, 2 | 1, 3, 2 | 1, 4, 3, 2 | 1, 5, 4, 3, 2 | 1, 6, 5, 4, 3, 2 | 1, 7... Lengths: 1, 2, 3, 4, 5, 6, 7. Sum of lengths: 1+2+3+4+5+6 = 21. Next group length 7. 21+7=28 terms. Sum of terms: Sum(1) + Sum(1..2) + Sum(1..3) + Sum(1..4) + Sum(1..5) + Sum(1..6) + Sum(1..7). Sum = 1 + 3 + 6 + 10 + 15 + 21 + 28 = 84."
+    },
+    {
+      "type": "question",
+      "question_no": 47,
+      "question_text": "A person buys three articles P, Q and R for 3,330. If P costs 25% more than R and R costs 20% more than Q, then what is the cost of P?",
+      "options": {
+        "a": "1,000",
+        "b": "1,200",
+        "c": "1,250",
+        "d": "1,350"
+      },
+      "correct_answer": "d",
+      "explanation": "Let Q=100. R=120. P = 125% of 120 = 150. Ratio P:Q:R = 150:100:120 = 15:10:12. Sum units = 37. Total cost 3330. 1 unit = 90. P = 15 * 90 = 1350."
+    },
+    {
+      "type": "question",
+      "question_no": 48,
+      "question_text": "If the sum of the two-digit numbers AB and CD is the three-digit number 1CE, where the letters A, B, C, D, E denote distinct digits, then what is the value of A?",
+      "options": {
+        "a": "9",
+        "b": "8",
+        "c": "7",
+        "d": "Cannot be determined due to insufficient data"
+      },
+      "correct_answer": "a",
+      "explanation": "AB + CD = 1CE. Max sum 99+98 = 197. So 1CE is 100+. Tens column: A+C + (carry) = 10 + C. For this to hold, A + carry = 10. Since A is a digit, A must be 9 and carry must be 1. (A=10 impossible)."
+    },
+    {
+      "type": "question",
+      "question_no": 49,
+      "question_text": "Three numbers x, y, z are selected from the set of the first seven natural numbers such that x > 2y > 3z. How many such distinct triplets (x, y, z) are possible?",
+      "options": {
+        "a": "One triplet",
+        "b": "Two triplets",
+        "c": "Three triplets",
+        "d": "Four triplets"
+      },
+      "correct_answer": "d",
+      "explanation": "Possible triplets (x,y,z): z=1 -> 3z=3 -> 2y>3 -> y>=2. If y=2, 2y=4 -> x>4 (5,6,7). Triplets: (5,2,1), (6,2,1), (7,2,1). If y=3, 2y=6 -> x>6 (7). Triplet: (7,3,1). Total 4 triplets."
+    },
+    {
+      "type": "question",
+      "question_no": 50,
+      "question_text": "The total cost of 4 oranges, 6 mangoes and 8 apples is equal to twice the total cost of 1 orange, 2 mangoes and 5 apples. Consider the following statements:\n1. The total cost of 3 oranges, 5 mangoes and 9 apples is equal to the total cost of 4 oranges, 6 mangoes and 8 apples.\n2. The total cost of one orange and one mango is equal to the cost of one apple.\nWhich of the statements given above is/are correct?",
+      "options": {
+        "a": "1 only",
+        "b": "2 only",
+        "c": "Both 1 and 2",
+        "d": "Neither 1 nor 2"
+      },
+      "correct_answer": "c",
+      "explanation": "$4Q+6M+8A = 2(Q+2M+5A) \\Rightarrow 4Q+6M+8A = 2Q+4M+10A \\Rightarrow 2Q+2M=2A \\Rightarrow Q+M=A$. Statement 1: $3Q+5M+9A$ vs $4Q+6M+8A$. Diff is $-Q-M+A$. Since $A=Q+M$, diff is 0. Equal. Correct. Statement 2: $Q+M=A$. Correct."
+    },
+    {
+      "type": "instruction",
+      "text": "Directions for the following 3 (three) items: Read the following three passages and answer the items that follow the passages. Your answers to these items should be based on the passages only."
+    },
+    {
+      "type": "passage",
+      "text": "Passage-1\nWhen an international team of pumped a carbon dioxide and water mix into underground basalt rocks, basic chemistry took over. The acidic mixture dissolved rocks' calcium and magnesium and formed limestone Basically carbon dioxide is converted into stone, exclaimed the scientists.",
+      "questions": [
+        {
+          "type": "question",
+          "question_no": 51,
+          "question_text": "Which one of the following statements best reflects the most logical, rational and practical suggestion implied by the passage?",
+          "options": {
+            "a": "It is a cheap and practical method to produce limestone at commercial level for building purposes.",
+            "b": "This can be used as one of the methods of carbon sequestration.",
+            "c": "Basalt rock can be made a good source of calcium and magnesium minerals by this method.",
+            "d": "Good rock-dissolving acid can be produced by mixing carbon dioxide and water."
+          },
+          "correct_answer": "b",
+          "explanation": "Option (b) is correct: Converting CO2 into stone implies a method for carbon sequestration."
+        }
+      ]
+    },
+    {
+      "type": "passage",
+      "text": "Passage-2\nGeographers analyzed 175 satellite images of ocean colour, which is an indicator of Phytoplankton productivity at the ocean's surface, and found that giant icebergs are responsible for storing up to 20 percent of carbon in the Southern Ocean. The researchers discovered that melting water from giant icebergs which contains iron and other nutrients, supports hitherto unexpectedly high levels of phytoplankton growth.",
+      "questions": [
+        {
+          "type": "question",
+          "question_no": 52,
+          "question_text": "Based on the above passage, the following assumptions have been made:\n1. Giant icebergs have a bearing on primary productivity and food chains of the Southern Ocean.\n2. Melting of giant icebergs can produce climate change effects and impact world fisheries.\nWhich of the assumptions given above is/ are valid?",
+          "options": {
+            "a": "1 only",
+            "b": "2 only",
+            "c": "Both 1 and 2",
+            "d": "Neither 1 nor 2"
+          },
+          "correct_answer": "a",
+          "explanation": "Assumption 1 is valid: Phytoplankton are primary producers; their growth affects productivity and food chains. Assumption 2 is invalid: While plausible, the passage doesn't explicitly mention climate change effects or world fisheries."
+        }
+      ]
+    },
+    {
+      "type": "passage",
+      "text": "Passage-3\nEvolution has endowed caterpillars that feed on corn with a unique ability, they can induce the plant to turn off its defence against insect predators. This helps caterpillars to eat more and grow faster. The agent that causes this effect is the caterpillar's faeces or frass. The find could throw new light on compounds associated with plant response to pathogens like fungi or bacteria.",
+      "questions": [
+        {
+          "type": "question",
+          "question_no": 53,
+          "question_text": "Which one of the following statements best reflect the most logical and rational and practical message conveyed by the passage?",
+          "options": {
+            "a": "Farmers can use caterpillars to feed on weeds in their crop fields/plantations.",
+            "b": "This finding can help in the development of clinically useful antimicrobial compounds.",
+            "c": "This finding can help in the development of organic, ecologically sustainable pesticides.",
+            "d": "Caterpillars can be genetically modified to be predators of the other plant pests."
+          },
+          "correct_answer": "c",
+          "explanation": "Option (c) is correct: The finding about turning off plant defenses could lead to new pesticide developments."
+        }
+      ]
+    },
+    {
+      "type": "question",
+      "question_no": 54,
+      "question_text": "$32^{5}+2^{27}$ is divisible by",
+      "options": {
+        "a": "3",
+        "b": "7",
+        "c": "10",
+        "d": "11"
+      },
+      "correct_answer": "c",
+      "explanation": "$32^{5} = (2^5)^5 = 2^{25}$. Expression: $2^{25} + 2^{27} = 2^{25}(1+2^2) = 2^{25} \\times 5$. Contains factors 2 and 5, so divisible by 10."
+    },
+    {
+      "type": "question",
+      "question_no": 55,
+      "question_text": "Let p and q be positive integers satisfying p < q and p+q=k. What is the smallest value of k that does not determine p and q uniquely?",
+      "options": {
+        "a": "3",
+        "b": "4",
+        "c": "5",
+        "d": "6"
+      },
+      "correct_answer": "c",
+      "explanation": "k=3: (1,2) unique. k=4: (1,3) unique (since p<q). k=5: (1,4), (2,3) -> Not unique. Answer is 5."
+    },
+    {
+      "type": "question",
+      "question_no": 56,
+      "question_text": "A person walks 100 m straight from his house, turns left and walks 100 m, again turns left and walks 300 m, then turns right and walks 100 m to reach his office. In which direction does he walk initially from his house if his office is exactly in the North-East direction?",
+      "options": {
+        "a": "North-West",
+        "b": "West",
+        "c": "South",
+        "d": "South-West"
+      },
+      "correct_answer": "c",
+      "explanation": "Tracing the path assuming North start leads to a final position. Rotating the diagram so final position is NE reveals start direction is South."
+    },
+    {
+      "type": "question",
+      "question_no": 57,
+      "question_text": "A person walks 100 m Westward, then turns left and walks 100 m. He then takes 225° turn clockwise. In which direction is he walking now?",
+      "options": {
+        "a": "South-West",
+        "b": "South-East",
+        "c": "North-West",
+        "d": "North-East"
+      },
+      "correct_answer": "d",
+      "explanation": "Walk West. Turn Left (Face South). Turn 225 clockwise: South -> West (90) -> North (180) -> North East (225). Final direction North-East."
+    },
+    {
+      "type": "question",
+      "question_no": 58,
+      "question_text": "A Statement is given followed by two Conclusions numbered I and II. Consider the Statement and the Conclusions.\nStatement: India is the world's largest producer of milk.\nConclusion-I: India is the world's largest exporter of milk.\nConclusion-II: India does not import milk.\nWhich one of the following is correct?",
+      "options": {
+        "a": "Only Conclusion-I follows",
+        "b": "Only Conclusion-II follows",
+        "c": "Both Conclusion-I and Conclusion-II follow",
+        "d": "Neither Conclusion-I nor Conclusion-II follows"
+      },
+      "correct_answer": "d",
+      "explanation": "Production does not equate to export (consumption matters) or import status. Neither follows."
+    },
+    {
+      "type": "question",
+      "question_no": 59,
+      "question_text": "A Question is given followed by two Statements I and II. Consider the Questions and the Statements.\nQuestion: What are the values of m and n, where m and n are natural numbers?\nStatement-I: m+n > mn and m>n.\nStatement-II: The product of m and n is 24.\nWhich one of the following is correct in respect of the above Question and the Statements?",
+      "options": {
+        "a": "The Question can be answered by using one of the Statements alone, but cannot be answered using the other Statement alone",
+        "b": "The Question can be answered by using either Statement alone",
+        "c": "The Question can be answered by using both the Statements together, but cannot be answered using either Statement alone",
+        "d": "The Question cannot be answered even by using both the Statements together"
+      },
+      "correct_answer": "c",
+      "explanation": "S1: many pairs (2,1), (3,1)... S2: (24,1), (12,2), (8,3), (6,4). Combined: Check S1 condition on S2 pairs. (24+1 > 24*1 True), (12+2 > 24 False). Only (24,1) works. Unique answer. Both required."
+    },
+    {
+      "type": "question",
+      "question_no": 60,
+      "question_text": "A Question is given followed by two Statements I and II. Consider the Questions and the Statements.\nQuestion: What is the time required to download the software?\nStatement-I: The size of the software is 12 megabytes.\nStatement-II: The transfer rate is 2.4 kilobytes per second.\nWhich one of the following is correct in respect of the above Question and the Statements?",
+      "options": {
+        "a": "The Question can be answered by using one of the Statements alone, but cannot be answered using the other Statement alone",
+        "b": "The Question can be answered by using either Statement alone",
+        "c": "The Question can be answered by using both the Statements together, but cannot be answered using either Statement alone",
+        "d": "The Question cannot be answered even by using both the Statements together"
+      },
+      "correct_answer": "c",
+      "explanation": "Need size and speed to find time. Both statements are required."
+    },
+    {
+      "type": "instruction",
+      "text": "Directions for the following 3 (three) items: Read the following three passages and answer the items that follow the passages. Your answers to these items should be based on the passages only."
+    },
+    {
+      "type": "passage",
+      "text": "Passage-1\nIn a robust democracy, reality, howsoever inconvenient it may be, finds its expression both in the speech of political leaders and the other social forms of assertion. The existence of the real has to be transparent, both through its circulation in and by the media as well as its argumentative articulation in deliberative democracy. A normatively responsible media through its communication effect has the responsibility to circulate the content of reality without distortion.",
+      "questions": [
+        {
+          "type": "question",
+          "question_no": 61,
+          "question_text": "Which one of the following statements best reflects the crux of the above passage?",
+          "options": {
+            "a": "Responsible media should not distort the real in an ideal democracy.",
+            "b": "Fake news seems inherent in the life of an ideal democracy.",
+            "c": "There should not be any kind of restrictions on the freedom of expression in an ideal democracy.",
+            "d": "Irresponsible media and political leaders cannot be effectively controlled in an ideal democracy."
+          },
+          "correct_answer": "a",
+          "explanation": "Option (a) is correct: The passage emphasizes the media's responsibility to circulate reality without distortion."
+        }
+      ]
+    },
+    {
+      "type": "passage",
+      "text": "Passage - 2\nNow-a-days there is a growing trend to use interconnected home devices. As consumers increasingly network their homes, the connected home device manufacturers and service providers will seek to overcome \"thin profit margins by gathering more of our personal data-with or without our agreement- turning the home into a corporate storefront\". Corporate marketers will have powerful incentives to observe consumer behaviour to understand the buying needs and preferences of the device owners.",
+      "questions": [
+        {
+          "type": "question",
+          "question_no": 62,
+          "question_text": "Which one of the following statements best reflects the most logical, rational and practical message implied by the passage?",
+          "options": {
+            "a": "Knowledge of consumer behaviour leads to more capital expenditure in manufacturing sector.",
+            "b": "Knowledge of consumer behaviour stimulates the growth of commerce and trade and thus helps in the overall economic development of the country.",
+            "c": "Interconnected devices give a lot of comfort to home users and improve the overall quality of life.",
+            "d": "Interconnected devices can be at security risk and home users may have privacy risk."
+          },
+          "correct_answer": "d",
+          "explanation": "Option (d) is correct: The passage focuses on data gathering without agreement, implying privacy/security risks."
+        }
+      ]
+    },
+    {
+      "type": "passage",
+      "text": "Passage -3\nGreen growth involves rethinking growth strategies with regard to the impacts on environmental sustainability and the environmental resources available to poor and vulnerable groups. In rethinking growth, we need to focus on the current reality of a resource-constrained world. Resource intensive and, in particular energy intensive processes will need to make way for more efficient and resource frugal development strategies if we are to avoid an economic dead end or a world in which only a small elite is able to enjoy affluence in the midst of a sea of poverty.",
+      "questions": [
+        {
+          "type": "question",
+          "question_no": 63,
+          "question_text": "Which one of the following statements best reflects the crux of the above passage?",
+          "options": {
+            "a": "Environmental sustainability is inimical to our objective of achieving a high rate of GDP growth.",
+            "b": "Poverty eradication is not possible without a rapid economic growth and the consequent environmental degradation.",
+            "c": "Maintaining high environmental standards is now a prerequisite for achieving a steady, sufficient and inclusive growth.",
+            "d": "With large populations, rampant poverty and limited resources of today's world, environmental degradation cannot be prevented and inequalities are inevitable."
+          },
+          "correct_answer": "c",
+          "explanation": "Option (c) is correct: The passage advocates for resource-frugal strategies to ensure inclusive growth and avoid economic dead ends."
+        }
+      ]
+    },
+    {
+      "type": "question",
+      "question_no": 64,
+      "question_text": "A question is given followed by two Statements I and II. Consider the Question and the Statements.\nQuestion: What are the unique values of x and y, where x, y are distinct natural numbers?\nStatement-I: x/y is odd.\nStatement-II: xy = 12.\nWhich one of the following is correct in respect of the above Question and the Statements?",
+      "options": {
+        "a": "The question can be answered by using one of the Statements alone, but cannot be answered using the other Statement alone",
+        "b": "The Question can be answered by using either Statement alone",
+        "c": "The Question can be answered by using both the Statements together, but cannot be answered using either Statement alone",
+        "d": "The Question cannot be answered even by using both the Statements together"
+      },
+      "correct_answer": "c",
+      "explanation": "S2: pairs (12,1), (6,2), (4,3). S1: x/y is odd. 12/1=12 (even), 6/2=3 (odd), 4/3 (fraction). Only (6,2) works. Unique. Both required."
+    },
+    {
+      "type": "question",
+      "question_no": 65,
+      "question_text": "A Question is given followed by two Statements I and II. Consider the Question and the Statements. A certain amount was distributed among X, Y and Z.\nQuestion: Who received the least amount?\nStatement-I: X received 4/5 of what Y and Z together received.\nStatement-II: Y received 2/7 of what X and Z together received.\nWhich one of the following is correct in respect of the above Question and the Statements?",
+      "options": {
+        "a": "The Question can be answered by using one of the Statements alone, but cannot be answered using the other Statement alone",
+        "b": "The Question can be answered by using either Statement alone",
+        "c": "The Question can be answered by using both the Statements together, but cannot be answered using either Statement alone",
+        "d": "The Question cannot be answered even by using both the Statements together"
+      },
+      "correct_answer": "c",
+      "explanation": "S1: X/(Y+Z) = 4/5. S2: Y/(X+Z) = 2/7. Combined: X=4k, Y+Z=5k (Total 9k). Y=2p, X+Z=7p (Total 9p). Scale to LCM. X=4 units, Y=2 units, Z=3 units (since 4+2+3=9). Y is least. Both required."
+    },
+    {
+      "type": "question",
+      "question_no": 66,
+      "question_text": "A Question is given followed by two Statements I and II. Consider the Question and the Statements.\nQuestion: If the average marks in a class are 60, them what is the number of students in the class?\nStatement-I: The highest marks in the class are 70 and the lowest marks are 50.\nStatement-II: Exclusion of highest and lowest marks from the class does not change the average.\nWhich one of the following is correct in respect of the above Question and the Statements?",
+      "options": {
+        "a": "The Question can be answered by using one of the Statements alone, but cannot be answered using the other Statement alone",
+        "b": "The Question can be answered by using either Statement alone",
+        "c": "The Question can be answered by using both the Statements together, but cannot be answered using either Statement alone",
+        "d": "The Question cannot be answered even by using both the Statements together"
+      },
+      "correct_answer": "d",
+      "explanation": "Neither statement gives info on the count of students."
+    },
+    {
+      "type": "question",
+      "question_no": 67,
+      "question_text": "A Question is given followed by two Statements I and II. Consider the Question and the Statements.\nThere are three distinct prime numbers whose sum is a prime number.\nQuestion: What are those three numbers?\nStatement-I: Their sum is less than 23.\nStatement-II: One of the numbers is 5.\nWhich one of the following is correct in respect of the above Question and the Statements?",
+      "options": {
+        "a": "The Question can be answered by using one of the Statements alone, but cannot be answered using the other Statement alone",
+        "b": "The Question can be answered by using either Statement alone",
+        "c": "The Question can be answered by using both the Statements together, but cannot be answered using either Statement alone",
+        "d": "The Question cannot be answered even by using both the Statements together"
+      },
+      "correct_answer": "a",
+      "explanation": "S1: Sum < 23. Primes: 2,3,5,7,11... Sum must be prime. (2 is only even prime). Primes must allow sum to be odd -> one must be 2? No, 3 primes sum to prime. If all odd, sum is odd. If one is 2, sum is even (usually not prime unless 2, but sum of 3 primes > 2). So all 3 must be odd. Smallest: 3+5+7=15 (not prime). 3+5+11=19 (Prime). Sum<23 condition met. Only triplet? 3+7+11=21 (No). 3+5+13=21. Only 3,5,11 works. S1 sufficient."
+    },
+    {
+      "type": "question",
+      "question_no": 68,
+      "question_text": "A Question if given followed by two Statements I and II. Consider the Question and the Statements.\nQuestion: Is (x+y) an integer?\nStatement-I: (2x+y) is an integer.\nStatement-II: (x+2y) is an integer.\nWhich one of the following is correct in respect of the above Question and the Statements?",
+      "options": {
+        "a": "The Question can be answered by using one of the Statements alone, but cannot be answered using the other Statement alone",
+        "b": "The Question can be answered by using either Statement alone",
+        "c": "The Question can be answered by using both the Statements together, but cannot be answered using either Statement alone",
+        "d": "The Question cannot be answered even by using both the Statements together"
+      },
+      "correct_answer": "d",
+      "explanation": "S1 & S2 together: $2x+y=I1, x+2y=I2$. Sum $3(x+y)=I1+I2$. $x+y = (I1+I2)/3$. Could be integer (e.g., 6/3=2) or not (5/3). Insufficient."
+    },
+    {
+      "type": "question",
+      "question_no": 69,
+      "question_text": "A Question is given followed by two Statement I and II. Consider the Question and the Statements.\nA person buys three articles p, q and r for 50. The price of the article q is 16 which is the least.\nQuestion: What is the price of the article p?\nStatement-I : The cost of p is not more than that of r.\nStatement-II: The cost of r is not more than that of p.\nWhich one of the following is correct in respect of the above Question and the Statements?",
+      "options": {
+        "a": "The Question can be answered by using one of the Statements alone, but cannot be answered using the other Statement alone",
+        "b": "The Question can be answered by using either Statement alone",
+        "c": "The Question can be answered by using both the Statements together, but cannot be answered using either Statement alone",
+        "d": "The Question cannot be answered even by using both the Statements together"
+      },
+      "correct_answer": "c",
+      "explanation": "$p+r = 50-16 = 34$. S1: $p \\le r$. S2: $r \\le p$. Combined: $p=r$. So $2p=34 \\Rightarrow p=17$. Both required."
+    },
+    {
+      "type": "question",
+      "question_no": 70,
+      "question_text": "A Question is given followed by two Statements I and II. Consider the Question and the Statements.\nP, Q, R and S appeared in a test.\nQuestion: Has P scored more marks than Q?\nStatement-I: The sum of the marks scored by P and Q is equal to the sum of the marks scored by R and S.\nStatement-II: The sum of the marks scored by P and S is more than the sum of the marks scored by Q and R.\nWhich one of the following is correct in respect of the above Question and the Statements?",
+      "options": {
+        "a": "The Question can be answered by using one of the Statements alone, but cannot be answered using the other Statement alone",
+        "b": "The Question can be answered by using either Statement alone",
+        "c": "The Question can be answered by using both the Statements together, but cannot be answered using either Statement alone",
+        "d": "The Question cannot be answered even by using both the Statements together"
+      },
+      "correct_answer": "d",
+      "explanation": "S1: P+Q=R+S. S2: P+S > Q+R. Add: 2P+Q+S > Q+R+R+S -> 2P > 2R -> P>R. Does not help with P vs Q directly. Insufficient."
+    },
+    {
+      "type": "instruction",
+      "text": "Directions for the following 2 (two) items: Read the following two passages and answer the items that follow the passages. Your answers to these items should be based on the passage only."
+    },
+    {
+      "type": "passage",
+      "text": "Passage-1\nUnlike religion and science, poetry does not posit or expect any belief in absolute truths. Those forces or individuals who claim to have absolute truths in their grasp tend to turn dictatorial and tyrannical. Truth usually does not admit any contradictions or imperfections. It is unitarian. It is, therefore, not of much use for poetry. Poetry abides by the plurality of life and existence. Perhaps poetry follows reality which is plural, anachronistic, full of contradictions. Against the tyranny of truth, poetry remains a partisan of democratic reality. Against the arrogance of power, wealth and hierarchy, poetry proposes both humility and defiance.",
+      "questions": [
+        {
+          "type": "question",
+          "question_no": 71,
+          "question_text": "Which one of the following statements best reflects the most logical and rational message conveyed by the above passage?",
+          "options": {
+            "a": "It is the poetry, not science or religion, which recognizes and accepts imperfections in humans.",
+            "b": "Truth is revealed through science or religion and poetry is anathema to truth.",
+            "c": "Poetry is romantic, imaginary and is about feeling whereas science and religion are about truth.",
+            "d": "In a world of violence, tyranny and bigotry, poetry is a form of dynamic resistance."
+          },
+          "correct_answer": "a",
+          "explanation": "Option (a) is Correct: The passage mentions that poetry abides by plurality and does not expect belief in absolute truths, accepting imperfections/contradictions."
+        }
+      ]
+    },
+    {
+      "type": "passage",
+      "text": "Passage-2\nThe flower was not invented to please us. It flaunted its petals and spread its perfume to attract an insect. The insect carries the pollen from flower to flower so that pollen is not carried away by wind and thus not wasted. What we call a flower's beauty is merely a by-product and a human invention. The perfume is not there to please us, it pleases us because it is there and we have been conditioned to it.",
+      "questions": [
+        {
+          "type": "question",
+          "question_no": 72,
+          "question_text": "Based on the above passage, the following assumptions have been made :\n1. The author of the passage believes that flowers are creations of Nature's luxury.\n2. The author of the passage does not believe in the usefulness of flowers except as things of beauty.\nWhich of the assumptions given above is/are valid?",
+          "options": {
+            "a": "1 only",
+            "b": "2 only",
+            "c": "Both 1 and 2",
+            "d": "Neither 1 nor 2"
+          },
+          "correct_answer": "d",
+          "explanation": "Both assumptions are invalid. The author believes flowers have a functional utility (attracting insects), not just luxury or beauty."
+        }
+      ]
+    },
+    {
+      "type": "question",
+      "question_no": 73,
+      "question_text": "Question is given followed by two Statements I and II. Consider the Question and the Statements.\nAge of each of P and Q is less than 100 years but more than 10 years. If you interchange the digits of the age of P, the number represents the age of Q.\nQuestion: What is the difference of their ages?\nStatement-I: The age of P is greater than the age of Q.\nStatement-II : The sum of their ages is 11/6 times their difference.\nWhich one of the following is correct in respect of the above Question and the Statements?",
+      "options": {
+        "a": "The Question can be answered by using one of the Statements alone, but cannot be answered using the other Statement alone",
+        "b": "The Question can be answered by using either Statement alone",
+        "c": "The Question can be answered by using both the Statements together, but cannot be answered using either Statement alone",
+        "d": "The Question cannot be answered even by using both"
+      },
+      "correct_answer": "a",
+      "explanation": "S2: $P+Q = (11/6)(P-Q)$. $6(P+Q) = 11(P-Q)$. $6P+6Q = 11P-11Q$. $17Q = 5P$. $P/Q = 17/5$. Since P, Q are 2 digit numbers with swapped digits, let $P=10x+y, Q=10y+x$. This ratio doesn't strictly hold for all. Let's solve equation: $5(10x+y) = 17(10y+x) \u00e2\u2020\u2019 50x+5y = 170y+17x \u00e2\u2020\u2019 33x = 165y \u00e2\u2020\u2019 x = 5y$. Since digits, y=1, x=5. P=51, Q=15. Difference is 36. Unique answer. S1 is insufficient. Answer is (a) - wait, if S2 is sufficient, it should be answered by using S2 alone. The key says (a), meaning S2 alone? Wait, vision answer says (a) and explanation says \"So, statement-II alone is sufficient... Hence, the question can be answered by using one of the statements alone\"."
+    },
+    {
+      "type": "question",
+      "question_no": 74,
+      "question_text": "Main Statement is followed by four Statements labelled P, Q, R and S. Choose the ordered pair of the Statements where the first Statement implies the second, and the two Statements are logically consistent with the Main Statement.\nMain Statement: Pradeep becomes either a Director or a Producer.\nStatement P: Pradeep is a Director.\nStatement Q: Pradeep is a Producer.\nStatement R: Pradeep is not a Director.\nStatement S: Pradeep is not a Producer.\nSelect the correct answer.",
+      "options": {
+        "a": "SP only",
+        "b": "RQ only",
+        "c": "Both SP and RQ",
+        "d": "Neither SP nor RQ"
+      },
+      "correct_answer": "c",
+      "explanation": "Either D or P. S (Not P) -> P (Is D). R (Not D) -> Q (Is P). Both valid."
+    },
+    {
+      "type": "question",
+      "question_no": 75,
+      "question_text": "a+b means a - b; ab means a x b; a x b means a / b; a / b means a + b then what is the value of $10+30-100\\times50\\div25?$ (Operations are to be replaced simultaneously)",
+      "options": {
+        "a": "15",
+        "b": "0",
+        "c": "-15",
+        "d": "-25"
+      },
+      "correct_answer": "d",
+      "explanation": "Replace: $10 - 30 \\times 100 / 50 + 25$. Order: $10 - 30 \\times 2 + 25 = 10 - 60 + 25 = -25$. (Note: The prompt text has typo \"0+30\" in Q75 text, but \"10+30\" in explanation, assuming 10 from explanation context)."
+    },
+    {
+      "type": "question",
+      "question_no": 76,
+      "question_text": "If P means 'greater than (>)'; Q means 'less than (<)'; R means 'not greater than'; S means 'not less than'; and T means 'equal to (=)', then consider the following statements :\n1. If 2x(S)3y and 3x(T)4z then 9y(P)8z.\n2. If x(Q)2y and y(R)z, then x(R)z.\nWhich of the statements given above is/are correct?",
+      "options": {
+        "a": "1 only",
+        "b": "2 only",
+        "c": "Both 1 and 2",
+        "d": "Neither 1 nor 2"
+      },
+      "correct_answer": "d",
+      "explanation": "S1: $2x \\ge 3y, 3x=4z$. $x \\ge 1.5y, x=1.33z$. $1.33z \\ge 1.5y \\Rightarrow 8z \\ge 9y$. Conclusion 9y > 8z is False. S2: $x < 2y, y \\le z$. $x < 2z$. Conclusion $x \\le z$ is not necessarily true (x could be 1.5z)."
+    },
+    {
+      "type": "question",
+      "question_no": 77,
+      "question_text": "If in a certain code, 'ABCD' is written as 24 and 'EFGH' is written as 1680, then how is 'IJKL' written in that code?",
+      "options": {
+        "a": "11880",
+        "b": "11240",
+        "c": "7920",
+        "d": "5940"
+      },
+      "correct_answer": "a",
+      "explanation": "Product of positions. ABCD = 1*2*3*4=24. IJKL = 9*10*11*12 = 11880."
+    },
+    {
+      "type": "question",
+      "question_no": 78,
+      "question_text": "If in a certain code, 'POT' is written as ATOP and 'TRAP' is written as APART, then how is 'ARENA' written in that code?",
+      "options": {
+        "a": "AARENA",
+        "b": "AANREA",
+        "c": "AANEAR",
+        "d": "AANERA"
+      },
+      "correct_answer": "d",
+      "explanation": "Reverse the word and add prefix 'A'. POT->TOP->ATOP. ARENA->ANERA->AANERA."
+    },
+    {
+      "type": "question",
+      "question_no": 79,
+      "question_text": "What will come in place of * in the sequence 3, 14, 39, 84, *, 258?",
+      "options": {
+        "a": "150",
+        "b": "155",
+        "c": "160",
+        "d": "176"
+      },
+      "correct_answer": "b",
+      "explanation": "Pattern: $n^3 + n^2 + n$. $1^3+1+1=3$. $2^3+4+2=14$. ... $5^3+25+5 = 125+30=155$."
+    },
+    {
+      "type": "question",
+      "question_no": 80,
+      "question_text": "In some code, letters P, Q, R, S, T represent numbers 4, 5, 10, 12, 15. It is not known which letter represents which number. If Q - S = 2S and T = R + S + 3 then what is the value of P + R - T?",
+      "options": {
+        "a": "1",
+        "b": "2",
+        "c": "3",
+        "d": "Cannot be determined due to insufficient data"
+      },
+      "correct_answer": "b",
+      "explanation": "$Q=3S$. Possible: S=4,Q=12 OR S=5,Q=15. Case 1 (S=4, Q=12): $T=R+4+3=R+7$. If T=15, R=8 (Not in set). If T=12 (Taken). Case 2 (S=5, Q=15): $T=R+5+3=R+8$. If T=12, R=4. Valid. So S=5, Q=15, T=12, R=4. Remaining P=10. Value $P+R-T = 10+4-12 = 2$."
+    }
+  ]
+}
