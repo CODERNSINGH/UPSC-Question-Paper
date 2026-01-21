@@ -2,7 +2,7 @@ import json
 import re
 from firecrawl import FirecrawlApp
 
-API_KEY = "fc-8274191bede74cfe96809faddebb297b"
+# API_KEY = "fc-8274191bede74cfe96809faddebb297b"
 TARGET_URL = "https://www.visionias.in/resources/upsc-paper-solution/"
 
 CSAT_PATTERNS = [
